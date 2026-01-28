@@ -5,6 +5,7 @@ import { Link } from "wouter";
 import { races } from "@/lib/gameData";
 import { classes, skills } from "@/lib/classesData";
 import { ChevronLeft, Download, ChevronRight } from "lucide-react";
+import TalentSelection from "./TalentSelection";
 
 interface Character {
   name: string;
@@ -21,6 +22,7 @@ interface Character {
     will: number;
   };
   selectedSkills: string[];
+  selectedTalents: string[];
   hp: number;
   ca: number;
   mana: number;
@@ -43,6 +45,7 @@ export default function CharacterCreator() {
       will: 10,
     },
     selectedSkills: [],
+    selectedTalents: [],
     hp: 20,
     ca: 10,
     mana: 50,
@@ -328,6 +331,35 @@ export default function CharacterCreator() {
                     </button>
                   ))}
                 </div>
+              </div>
+
+              <div className="mb-8">
+                <h3 className="text-lg font-bold mb-4">Talentos (até 3)</h3>
+                <TalentSelection
+                  selectedTalents={character.selectedTalents}
+                  onTalentSelect={(talentId) => {
+                    setCharacter({
+                      ...character,
+                      selectedTalents: [...character.selectedTalents, talentId]
+                    });
+                  }}
+                  onTalentRemove={(talentId) => {
+                    setCharacter({
+                      ...character,
+                      selectedTalents: character.selectedTalents.filter(t => t !== talentId)
+                    });
+                  }}
+                  playerStats={{
+                    strength: character.attributes.strength,
+                    dexterity: character.attributes.dexterity,
+                    intelligence: character.attributes.intelligence,
+                    charisma: character.attributes.charisma,
+                    constitution: character.attributes.constitution,
+                    will: character.attributes.will,
+                    level: 1
+                  }}
+                  maxTalents={3}
+                />
               </div>
 
               <div className="bg-slate-700/50 p-6 rounded-lg mb-8 border border-slate-600">
