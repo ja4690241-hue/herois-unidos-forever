@@ -4,6 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
 import { races } from "@/lib/gameData";
 import { classes, skills } from "@/lib/classesData";
+import { talents } from "@/lib/talentsData";
 import { ChevronLeft, Download, ChevronRight } from "lucide-react";
 import TalentSelection from "./TalentSelection";
 
@@ -364,7 +365,7 @@ export default function CharacterCreator() {
 
               <div className="bg-slate-700/50 p-6 rounded-lg mb-8 border border-slate-600">
                 <h3 className="text-lg font-bold mb-4">Resumo</h3>
-                <div className="grid grid-cols-2 gap-4 text-sm">
+                <div className="grid grid-cols-2 gap-4 text-sm mb-6">
                   <p><strong>Nome:</strong> {character.name || "Sem nome"}</p>
                   <p><strong>Raça:</strong> {selectedRace?.name}</p>
                   <p><strong>Classe:</strong> {selectedClass?.name}</p>
@@ -372,6 +373,24 @@ export default function CharacterCreator() {
                   <p><strong>CA:</strong> {calculateCA()}</p>
                   <p><strong>Mana:</strong> {calculateMana()}</p>
                 </div>
+
+                {character.selectedTalents.length > 0 && (
+                  <div className="border-t border-slate-600 pt-4 mt-4">
+                    <h4 className="font-bold mb-3 text-blue-400">Talentos Selecionados ({character.selectedTalents.length}/3)</h4>
+                    <div className="space-y-2">
+                      {character.selectedTalents.map((talentId) => {
+                        const talent = talents.find((t) => t.id === talentId);
+                        return talent ? (
+                          <div key={talentId} className="bg-slate-800 p-3 rounded border border-slate-600">
+                            <p className="font-semibold text-blue-300">{talent.name}</p>
+                            <p className="text-xs text-slate-400 mt-1">{talent.description}</p>
+                            <p className="text-xs text-slate-500 mt-2"><strong>Efeito:</strong> {talent.effect}</p>
+                          </div>
+                        ) : null;
+                      })}
+                    </div>
+                  </div>
+                )}
               </div>
 
               <div className="flex gap-4">
