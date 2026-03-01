@@ -20,6 +20,100 @@ export interface SkillTree {
 }
 
 export const skillTrees: SkillTree[] = [
+  {
+    "id": "poder-elemental",
+    "name": "Árvore de Poder Elemental",
+    "description": "Para personagens com poderes baseados em fogo, gelo, eletricidade, etc.",
+    "icon": "🔥",
+    "classId": "generico",
+    "nodes": [
+      {
+        "id": "controle-elemental",
+        "name": "Controle Elemental",
+        "description": "Escolha um elemento; seus ataques ganham +1d4 de dano desse tipo.",
+        "level": 1,
+        "prerequisites": [
+          {
+            "type": "custom",
+            "name": "Nível 1+ e Afinidade Elemental",
+            "description": "Nível 1+ e Afinidade Elemental"
+          }
+        ],
+        "bonuses": [
+          "+1d4 de dano do elemento escolhido."
+        ],
+        "icon": "✨"
+      },
+      {
+        "id": "resistncia-elemental",
+        "name": "Resistência Elemental",
+        "description": "Você recebe resistência ao mesmo tipo de dano do seu elemento.",
+        "level": 2,
+        "prerequisites": [
+          {
+            "type": "custom",
+            "name": "Nível 3+ e Controle Elemental",
+            "description": "Nível 3+ e Controle Elemental"
+          }
+        ],
+        "bonuses": [
+          "Resistência ao elemento escolhido."
+        ],
+        "icon": "✨"
+      },
+      {
+        "id": "rajada-elemental",
+        "name": "Rajada Elemental",
+        "description": "Você pode gastar 2 pontos de energia para liberar uma explosão elemental em um raio de 3 metros.",
+        "level": 3,
+        "prerequisites": [
+          {
+            "type": "custom",
+            "name": "Nível 5+ e Resistência Elemental",
+            "description": "Nível 5+ e Resistência Elemental"
+          }
+        ],
+        "bonuses": [
+          "Explosão elemental (Raio de 3m) por 2 EP."
+        ],
+        "icon": "✨"
+      },
+      {
+        "id": "imunidade-elemental",
+        "name": "Imunidade Elemental",
+        "description": "Agora você se torna imune ao seu próprio elemento.",
+        "level": 4,
+        "prerequisites": [
+          {
+            "type": "custom",
+            "name": "Nível 10+ e Rajada Elemental",
+            "description": "Nível 10+ e Rajada Elemental"
+          }
+        ],
+        "bonuses": [
+          "Imunidade ao elemento escolhido."
+        ],
+        "icon": "✨"
+      },
+      {
+        "id": "avatar-elemental",
+        "name": "Avatar Elemental",
+        "description": "Você pode entrar em um estado onde ganha +2 CA e +2 de dano com seu elemento por 1 minuto.",
+        "level": 5,
+        "prerequisites": [
+          {
+            "type": "custom",
+            "name": "Nível 15+ e Imunidade Elemental",
+            "description": "Nível 15+ e Imunidade Elemental"
+          }
+        ],
+        "bonuses": [
+          "+2 CA e +2 de dano com elemento por 1 minuto."
+        ],
+        "icon": "✨"
+      }
+    ]
+  },
   // Lutador Corpo a Corpo Trees
   {
     id: "velocidade-lutador",

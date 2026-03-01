@@ -1,0 +1,551 @@
+Risco: O usuário pode ser consumido pelo poder se
+não for mentalmente forte o suficiente (Teste de Vontade
+CD )​
+—-------------------------------------------------------------------------------​
+Talentos​
+Como Funciona?
+
+🎁
+🛠
+
+✅ Os jogadores podem escolher 1 talento a cada 4 níveis
+(ou em níveis específicos, dependendo da progressão).​
+✅ Alguns talentos possuem pré-requisitos (atributos
+mínimos, classe específica ou talentos anteriores).​
+✅ Talentos podem ser divididos em categorias, como
+Combate, Magia, Tecnologia, e mais
+
+🏹 Categorias de Talentos
+
+⚔ Talentos de Combate (Para guerreiros, lutadores,
+assassinos, caçadores, etc.)
+
+✔ Ataque Poderoso – Você pode reduzir sua precisão em -2
+para causar +4 de dano.​
+✔ Ataque Giratório – Acerta todos os inimigos ao redor uma
+vez por turno.​
+✔ Bloqueio Reflexivo – Se você estiver segurando uma arma
+corpo a corpo, pode reduzir o dano de ataques recebidos em 2.​
+✔ Especialista em Duas Armas – Reduz a penalidade para
+lutar com duas armas em -2
+
+🎯 Talentos de Precisão (Para snipers, pistoleiros e
+arqueiros)
+
+✔ Tiro Rápido – Faça dois ataques à distância no mesmo
+turno com -2 de penalidade.​
+✔ Mestre da Mira – Seu dano à distância aumenta em +2.​
+✔ Penetração de Armadura – Seus ataques ignoram 3
+pontos da CA inimiga.​
+✔ Mestre dos Explosivos – Seus ataques explosivos têm +1
+metro de raio.
+
+💥 Talentos de Energia e Poderes Especiais (Para
+mutantes, ciborgues, fantasmas, etc.)
+
+✔ Canalizar Energia – Seus ataques energéticos ignoram
+resistência normal.​
+✔ Amplificação Bioenergética – Você pode gastar 2 EP para
+aumentar seu dano em +3.​
+✔ Resistência ao Caos – Reduz em 3 qualquer dano de
+magia ou energia recebida.​
+✔ Controle Elemental – Escolha um elemento (fogo, gelo,
+eletricidade, etc.), seus ataques ganham +1d4 de dano extra
+desse tipo.
+
+🧠 Talentos Mentais e Estratégicos (Para gênios,
+táticos e psíquicos)
+
+✔ Mente Resistente – +2 em testes de resistência contra
+ilusões e controle mental.​
+✔ Análise Rápida – Você pode gastar uma ação para
+descobrir fraquezas do inimigo.​
+✔ Estrategista – Você pode usar uma ação bônus para
+coordenar aliados, dando +1 nos ataques deles.​
+✔ Memória Fotográfica – Você se lembra de qualquer
+detalhe que tenha visto nos últimos 24h.
+
+🔧 Talentos Tecnológicos (Para engenheiros,
+ciborgues e hackers)
+
+✔ Hacker Mestre – +3 em testes para invadir sistemas
+digitais.​
+✔ Criador de Gadgets – Você pode fabricar dispositivos
+tecnológicos personalizados.​
+✔ Armadura Personalizada – Suas armaduras tecnológicas
+recebem +2 CA extra.​
+✔ Fusão Cibernética – Você pode instalar implantes
+biomecânicos sem penalidade.
+
+🕶️ Talentos de Furtividade e Assassinato (Para
+espiões, ninjas e caçadores)
+
+✔ Mestre da Furtividade – +3 em testes de furtividade.​
+✔ Assassinato Silencioso – Se atacar um inimigo sem que
+ele perceba, causa dano dobrado.​
+
+✔ Sombra Rápida – Você pode se mover silenciosamente
+sem penalidade.​
+✔ Mestre do Disfarce – Você pode imitar vozes e gestos de
+outras pessoas com facilidade.
+⚔ Combate Avançado
+
+✔ Fúria Incontrolável (Pré-requisito: Força 14+ ou
+Resistência 12+) – Você pode entrar em um estado de fúria,
+ganhando +2 no dano, mas sofrendo -1 na CA por 3 turnos.​
+​
+✔ Parry Mestre (Pré-requisito: Agilidade 14+ e proficiência
+com armas corpo a corpo) – Se estiver segurando uma arma
+corpo a corpo, pode reduzir o dano recebido em 4 uma vez por
+turno.​
+✔ Lutador Incansável (Pré-requisito: Resistência 14+) –
+Quando sua vida cair abaixo de 50%, recebe +1 em todos os
+testes de ataque.​
+✔ Instinto de Sobrevivência (Pré-requisito: Nível 5+ e
+Reflexos 12+) – Se for atingido por um ataque que te
+derrubaria, pode rolar um teste de Reflexos (DC 18) para ficar
+com 1 de HP.
+
+🎯 Precisão e Ataques à Distância
+✔ Disparo Devastador (Pré-requisito: Agilidade 14+ e Mira
+Avançada) – Se não se mover no turno, pode dobrar o dano de
+um ataque à distância.​
+✔ Olho de Águia (Pré-requisito: Percepção 12+ e arma de
+longo alcance) – Você reduz a penalidade por ataques de
+longa distância pela metade.​
+✔ Ricochete Perfeito (Pré-requisito: Agilidade 16+ e Disparo
+Devastador) – Pode disparar contra superfícies para atingir
+
+inimigos atrás de cobertura.​
+✔ Balística Perfeita (Pré-requisito: Agilidade 18+ e Nível 10+)
+– Seus ataques à distância ignoram resistência normal e CA de
+cobertura parcial.
+
+💥 Poderes Energéticos e Sobrenaturais
+✔ Onda de Choque (Pré-requisito: Energia 12+ ou habilidade
+elemental) – Você pode liberar uma explosão de energia que
+empurra todos os inimigos num raio de 3 metros.​
+✔ Escudo de Energia (Pré-requisito: Nível 5+ e Energia 14+)
+– Uma vez por combate, pode ativar um escudo temporário
+que absorve 10 pontos de dano.​
+✔ Evolução Energética (Pré-requisito: Nível 7+ e Poder
+Elemental ativo) – Seus ataques elementais ganham +1d6 de
+dano extra.​
+✔ Fluxo Arcano (Pré-requisito: Inteligência 14+ ou Magia
+Avançada) – Reduz o custo de habilidades mágicas ou de
+energia em 1 ponto.
+
+🛡 Defesa e Resistência
+✔ Casca Dura (Pré-requisito: Resistência 14+ e nível 3+) –
+Reduz todo dano físico recebido em 3.​
+✔ Resistência Absoluta (Pré-requisito: Resistência 16+ e
+Nível 8+) – Você reduz pela metade o dano sofrido por um
+ataque uma vez por combate.​
+✔ Fator de Cura Acelerado (Pré-requisito: Resistência 14+ e
+Nível 5+) – Você regenera 1d4 HP no início de cada turno.​
+✔ Pele de Aço (Pré-requisito: Resistência 18+ e Nível 12+) –
+Sua CA natural aumenta em +2 permanentemente.
+
+🕵️‍♂️ Infiltração e Furtividade
+✔ Movimento Fantasma (Pré-requisito: Agilidade 12+ e
+Furtividade Treinada) – Você ignora superfícies ruidosas ao se
+mover furtivamente.​
+✔ Assassino Silencioso (Pré-requisito: Nível 5+ e Agilidade
+14+) – Ataques furtivos ignoram armaduras naturais e CA de
+cobertura.​
+✔ Desaparecimento Rápido (Pré-requisito: Nível 7+ e
+Furtividade 12+) – Pode gastar uma ação bônus para se
+esconder instantaneamente.​
+✔ Passos nas Sombras (Pré-requisito: Nível 10+ e Assassino
+Silencioso) – Você pode se teletransportar para um local
+escuro a até 6 metros de distância​
+—--------------------------------------------------------------------------------​
+##
+Modelo de Criação de Talento
+
+🎯
+
+🔹 Nome do Talento:**
+
+**
+
+Dê um nome impactante e direto para o talento.
+
+🔹 Categoria:**
+
+**
+
+Escolha a categoria:
+➤ Combate
+➤ Magia
+➤ Tecnologia
+➤ Furtividade
+➤ Suporte
+➤ Defesa
+
+➤ Etc.
+
+🔹 Pré-requisitos:**
+
+**
+
+Liste os requisitos para ter acesso ao talento, como:
+➤ Atributos mínimos (Força, Agilidade...)
+➤ Nível mínimo
+➤ Proficiências ou talentos anteriores
+
+🔹 Descrição:**
+
+**
+
+Explique em poucas linhas o que o talento faz. Foque no efeito
+principal e em qualquer aspecto narrativo.
+
+🔹 Efeito Mecânico:**
+
+**
+
+Descreva exatamente o que acontece em jogo:
+➤ Bonificações, ações extras, resistências, etc.
+
+🔹 Limitação (opcional):**
+
+**
+
+Se quiser, adicione alguma limitação ou custo para equilibrar:
+➤ “1 vez por combate”, “custa 2 EP”, etc.
+##
+
+📝 Exemplo preenchido:
+
+🔹 Nome do Talento:** Fúria Descontrolada
+**🔹 Categoria:** Combate
+**🔹 Pré-requisitos:** Força 14+, Resistência 12+
+**
+
+🔹 Descrição:** Quando em desvantagem, sua raiva explode
+
+**
+
+e você ataca com ferocidade brutal.
+
+🔹
+
+**
+Efeito Mecânico:** Pode ativar uma vez por combate: +2
+no dano de ataques corpo a corpo, mas sofre -1 de CA por 3
+turnos.
+
+🔹
+
+**
+Limitação:** Uma vez por combate.​
+—-----------------------------------------------------------------​
+​
+Indisponível​
+
+🛸 BEN 10 – TALENTOS ÚNICOS
+
+🌀 Código Mestre (Pré-requisito: Portador de Omnitrix ou
+Tecnologia Similar)
+
+Você desbloqueia funções secretas do Omnitrix!
+
+🎖 Bônus:
+
+●​ Pré-requisito:Nível 5+ Pode forçar uma transformação
+específica sem precisar rolar dados.​
+●​ Pré-requisito:Nível 15+ Pode permanecer transformado o
+tempo que quiser, sem tempo limite!
+●​ Pré-requisito:Nível 12+ Desbloqueia modos especiais
+como Modo Supremo ou fusões de DNA alienígena
+
+♾️ DNA Supremo (Pré-requisito: Código Mestre ou
+Experiência com o supre Omnitrix)
+
+Você evolui seus alienígenas para a versão suprema!
+
+🎖 Bônus:
+
+●​ Sempre que se transformar, pode escolher entre a forma
+normal ou Suprema.​
+●​ Formas Supremas recebem +2 em todos os atributos e
+novas habilidades.​
+
+●​ Pode fundir até dois alienígenas para criar combinações
+únicas
+
+🦠 MUTANTE REX – TALENTOS ÚNICOS
+
+🔩 Mestre da Nanotecnologia (Pré-requisito: Infecção por
+Nanites Avançados)
+
+Seus Nanites são totalmente controláveis, sem limitações!
+
+🎖 Bônus:
+
+●​ Pode criar qualquer arma ou ferramenta a partir do próprio
+corpo.​
+●​ Pode curar qualquer dano usando Nanites, até membros
+perdidos​
+.
+●​ Pode hackear outros seres tecnológicos e controlá-los
+
+⚡ Forma Omega (Pré-requisito: Tem o Nanites Omega )
+Você alcança o ápice da evolução dos Nanites!
+
+🎖 Bônus:
+
+●​ Pode ativar o Modo Omega, aumentando seu poder 10x por
+1 minuto.​
+●​ Ganha resistência absoluta a qualquer tipo de hack ou
+vírus.​
+●​ Pode fundir-se a qualquer tecnologia, assumindo controle
+dela.
+
+👻 DANNY PHANTOM – TALENTOS ÚNICOS
+
+🕶️ Mestre da Intangibilidade (Pré-requisito: Ser
+
+Meio-Fantasma ou Habilidade de Intangibilidade)
+Você pode se tornar completamente intangível, até contra
+ataques especiais!
+
+🎖 Bônus:
+
+●​ Pode atravessar tudo, até barreiras mágicas ou tecnológicas.​
+●​ Pode tocar objetos enquanto intangível para manipulá-los!​
+●​ Pode gastar 1 EP para tornar-se invisível além da
+intangibilidade.
+
+🌪️ Explosão Fantasma Suprema (Pré-requisito:
+Habilidade de Explosão Fantasma Avançada)
+
+Seu Golpe Fantasma atinge níveis devastadores!
+
+🎖 Bônus:
+
+●​ Pode disparar um ataque de energia fantasma massivo em
+área.​
+●​ Se atingir um fantasma, anula seus poderes
+temporariamente.​
+
+🐉 O DRAGÃO OCIDENTAL – TALENTOS ÚNICOS
+
+🔥 Modo Dragão Supremo (Pré-requisito: Ser um Dragão
+ou Similar)
+
+Você libera o potencial máximo da sua forma dracônica!
+
+🎖 Bônus:
+
+●​ Pode usar chamas mágicas que queimam até espíritos e
+espectros.
+●​ Seus golpes físicos causam o dobro de dano contra
+qualquer criatura maligna.
+●​ Pode voar em velocidade supersônica!
+
+🐉 Alma do Dragão Ancestral (Pré-requisito: Modo
+Dragão Supremo ou Conexão Dracônica Forte)
+
+Você canaliza o poder dos dragões antigos!
+
+🎖 Bônus:
+
+●​ Seus ataques agora causam dano elemental extra (fogo,
+raio, gelo, etc.).​
+●​ Ganha uma resistência quase total a qualquer ataque
+mágico.​
+●​ Pode usar um rugido dracônico que paralisa inimigos fracos
+pelo medo.
+
+🥷 RANDY CUNNINGHAM: NINJA – TALENTOS ÚNICOS
+🕶️ Modo Ninja Supremo (Pré-requisito: Ser Ninja ou
+Treinamento Especializado em Técnicas Ninja)
+
+Você atinge o auge das artes ninjas, ficando praticamente
+indetectável!
+
+🎖 Bônus:
+
+●​ Seus movimentos são totalmente silenciosos, sem chance
+de detecção.​
+
+●​ Pode refletir qualquer ataque de longo alcance com sua
+katana.​
+●​ Ganha um instinto de perigo, podendo esquivar
+automaticamente de um ataque mortal.
+
+💥 MAX STEEL – TALENTOS ÚNICOS
+
+⚡ Modo Turbo Supremo (Pré-requisito: Modo Turbo
+Avançado ou Acessórios Nano-Tecnológicos)
+
+Você libera todo o potencial do Modo Turbo!
+
+🎖 Bônus:
+
+●​ Pode aumentar sua força e velocidade em o dobro do
+deslocamento por 3 turnos.​
+●​ Seu corpo se adapta a qualquer ambiente, incluindo espaço
+ou submersão profunda.​
+●​ Pode gerar rajadas de energia super concentradas.
+
+📡 SÁBADOS SECRETOS – TALENTOS ÚNICOS
+
+🔮 Mestre Criptozoologista (Pré-requisito: Conhecimento
+Profundo sobre Criaturas Místicas e Criptoides)
+
+Você entende todas as criaturas ocultas do mundo e pode
+controlá-las!
+
+🎖 Bônus:
+
+●​ Pode se comunicar com qualquer criptoide e convencê-lo a
+ajudar.
+
+●​ Ganha resistência total contra magia de criaturas míticas.
+●​ Pode invocar um Criptoide para lutar ao seu lado 1x por
+dia.
+
+🤖 TITÃ SIMBIÔNICO – TALENTOS ÚNICOS
+
+🔩 Fusão Máxima (Pré-requisito: Pilotagem de Mechas ou
+Fusão de Entidades Tecnológicas)
+
+Você pode se fundir com qualquer máquina ou ser tecnológico,
+criando um Titã!
+
+🎖 Bônus:
+
+●​ Qualquer máquina pilotável se torna uma armadura viva
+para você.
+●​ Se fundindo com outro personagem, os status combinam e
+atingem o máximo!
+●​ Pode controlar tecnologias à distância como se fossem
+parte de você.
+
+🦸 MIRACULOUS – TALENTOS ÚNICOS
+
+🦋 Miraculous Supremo (Pré-requisito: Portador de um
+Miraculous e Conexão Total com seu Kwami)
+
+Você libera 100% do potencial do seu Miraculous!
+
+🎖 Bônus:
+
+●​ Pode usar seu poder especial quantas vezes quiser sem
+limite de tempo.
+●​ Seu Kwami pode ajudar ativamente em combate.
+
+💡 Criando Novos Talentos
+
+📌 1. Escolha um tema (combate, magia, furtividade, tecnologia,
+etc.).​
+📌 2. Defina o efeito básico (ex: bônus em ataque, defesa,
+movimentação).​
+📌 3. Adicione um custo ou pré-requisito, se necessário.​
+📌 4. Teste o equilíbrio comparando com outros talentos
+
+🛠️
+
+—----------------------------------------------------​
+mecânicas​
+​
+1. Criador de Dispositivos (Gambiarra & Engenharia)
+
+🛠️
+
+●​ Se um personagem for um engenheiro, ciborgue ou
+hacker, pode criar gadgets improvisados durante a
+missão.
+●​ Ele precisa de peças e de um teste de Inteligência/CD
+para construir algo útil.
+●​ Exemplos de criações:​
+✔ Um campo de força portátil (absorve 20 de dano
+por 2 turnos)​
+✔ Uma granada EMP (desativa tecnologia por 1 turno)​
+✔ Um jetpack improvisado (voo curto de 3 metros
+
+🌀 2. Sinergia de Poderes (Combinação de Habilidades)
+
+●​ Se dois personagens tiverem poderes compatíveis,
+eles podem combinar suas habilidades para criar um
+efeito novo!
+●​ Exemplos:​
+✔ Fogo + Vento = Explosão de Chamas Expansiva​
+✔ Gelo + Terra = Armadura de Cristais​
+✔ Sombras + Velocidade = Movimento Fantasma
+(teletransporte curto)
+Mecânica: Ambos rolam um teste combinado (CD variável).
+Se passarem, o novo poder é ativado​
+
+​
+​
+
+Atributos Primários
+
+Os atributos primários determinam as capacidades
+físicas, mentais e sociais dos personagens. Cada
+atributo pode ser testado em situações específicas.
+Atributos Principais
+Força (FOR)​
+Mede a capacidade física do personagem para realizar
+feitos de força bruta, como levantar objetos pesados,
+causar dano em ataques corpo a corpo ou resistir a
+impactos.
+Agilidade (AGI)​
+Representa a rapidez, reflexos e destreza do
+personagem. Usado para esquivas, ataques rápidos,
+parkour ou ações que exigem precisão.
+Resistência (RES)​
+Determina a durabilidade física e capacidade de
+suportar dano. Também influencia a resistência contra
+condições adversas, como venenos ou fadiga.
+Inteligência (INT)​
+Mede o raciocínio lógico, capacidade de planejar, usar
+tecnologias e decifrar enigmas. Também influencia a
+criação de estratégias e o uso de gadgets.
+Carisma (CAR)​
+Representa a habilidade de se conectar com outras
+pessoas, inspirar aliados, enganar inimigos ou
+influenciar NPCs.
+
+Poder (POD)​
+Reflete o nível de energia especial do personagem,
+como manipulação de magia, uso de habilidades
+alienígenas, mutações, ou tecnologia avançada. Esse
+atributo é central para os personagens que dependem
+de habilidades únicas​
+​
+Vontade (VON)
+Mede a força mental e determinação do personagem.
+Usado para resistir a efeitos psicológicos, manter o
+controle durante transformações, ou superar medos e
+adversidades
+1. Rolagem Básica
+Para qualquer ação que necessite de um teste (pular um
+obstáculo, atacar, hackear um sistema, resistir a um
+ataque mental, etc.), o jogador faz uma rolagem de dados e
+soma o modificador do atributo relacionado. A fórmula é:
+
+Teste = 1d20 + Modificador do Atributo +
+Bônus Extra
+●​ 1d20: O dado principal para determinar o sucesso
+ou falha.
+●​ Modificador do Atributo: Cada atributo principal
+fornece um modificador baseado no valor do
+atributo (veja abaixo).
+●​ Bônus Extra: Vem de talentos, habilidades,
+equipamentos, ou poderes específicos.​
+
+​
+Dificuldade do Teste (DC)
+
+●​ A Dificuldade do Teste (DC) determina o quão
+difícil é realizar uma ação. O Mestre (ou Narrador)
+define a DC com base na situação. Aqui está uma
+tabela com exemplos
+
+​
+3.

@@ -17,282 +17,6 @@ export interface Passive {
   bonus: string[];
 }
 
-export interface Background {
-  id: string;
-  name: string;
-  emoji: string;
-  description: string;
-  skills: string[];
-  equipment: string[];
-  specialAbility: string;
-  abilityDescription: string;
-}
-
-export const talents: Talent[] = [
-  // Lutador
-  {
-    id: "lutador-golpe-poderoso",
-    name: "Golpe Poderoso",
-    description: "Desferir um golpe devastador com toda sua força",
-    type: "ativo",
-    cost: 5,
-    effect: "Causa 2d8 + FOR de dano",
-    level: 1,
-    class: "Lutador",
-  },
-  {
-    id: "lutador-contra-ataque",
-    name: "Contra-Ataque",
-    description: "Responder imediatamente a um ataque inimigo",
-    type: "ativo",
-    cost: 3,
-    effect: "Realiza um ataque imediato quando é atingido",
-    level: 2,
-    class: "Lutador",
-  },
-  {
-    id: "lutador-resistencia",
-    name: "Resistência",
-    description: "Aumentar resistência física",
-    type: "passivo",
-    cost: 0,
-    effect: "+2 em testes de resistência",
-    level: 1,
-    class: "Lutador",
-  },
-  {
-    id: "lutador-furia",
-    name: "Fúria Guerreira",
-    description: "Entrar em fúria para aumentar dano",
-    type: "ativo",
-    cost: 8,
-    effect: "Aumenta dano em 50% por 3 turnos",
-    level: 3,
-    class: "Lutador",
-  },
-
-  // Ágil
-  {
-    id: "agil-ataque-rapido",
-    name: "Ataque Rápido",
-    description: "Realizar dois ataques em um turno",
-    type: "ativo",
-    cost: 4,
-    effect: "Realiza 2 ataques com -2 de penalidade",
-    level: 1,
-    class: "Ágil",
-  },
-  {
-    id: "agil-esquiva",
-    name: "Esquiva Acrobática",
-    description: "Desviar de ataques com acrobacias",
-    type: "ativo",
-    cost: 3,
-    effect: "+3 em testes de esquiva",
-    level: 1,
-    class: "Ágil",
-  },
-  {
-    id: "agil-reflexos",
-    name: "Reflexos Aguçados",
-    description: "Aumentar reflexos naturalmente",
-    type: "passivo",
-    cost: 0,
-    effect: "+1 em iniciativa e CA",
-    level: 1,
-    class: "Ágil",
-  },
-  {
-    id: "agil-sombra",
-    name: "Movimento Sombra",
-    description: "Desaparecer e reaparecer em outro local",
-    type: "ativo",
-    cost: 6,
-    effect: "Teleporta até 30 pés e fica invisível por 1 turno",
-    level: 3,
-    class: "Ágil",
-  },
-
-  // Blaster
-  {
-    id: "blaster-explosao",
-    name: "Explosão de Energia",
-    description: "Lançar uma onda de energia explosiva",
-    type: "ativo",
-    cost: 6,
-    effect: "Causa 3d6 de dano em área de 15 pés",
-    level: 1,
-    class: "Blaster",
-  },
-  {
-    id: "blaster-raio",
-    name: "Raio Focado",
-    description: "Disparar um raio de energia concentrado",
-    type: "ativo",
-    cost: 4,
-    effect: "Causa 2d8 de dano a um alvo",
-    level: 1,
-    class: "Blaster",
-  },
-  {
-    id: "blaster-escudo",
-    name: "Escudo de Energia",
-    description: "Criar um escudo protetor",
-    type: "passivo",
-    cost: 0,
-    effect: "+2 em CA enquanto concentrado",
-    level: 1,
-    class: "Blaster",
-  },
-  {
-    id: "blaster-supernova",
-    name: "Supernova",
-    description: "Explodir com toda a energia acumulada",
-    type: "ativo",
-    cost: 10,
-    effect: "Causa 4d10 de dano em área de 20 pés",
-    level: 5,
-    class: "Blaster",
-  },
-
-  // Mago
-  {
-    id: "mago-bola-fogo",
-    name: "Bola de Fogo",
-    description: "Lançar uma esfera de fogo",
-    type: "ativo",
-    cost: 5,
-    effect: "Causa 3d6 de dano de fogo em área",
-    level: 1,
-    class: "Mago",
-  },
-  {
-    id: "mago-gelo",
-    name: "Congelamento",
-    description: "Congelar inimigos no local",
-    type: "ativo",
-    cost: 4,
-    effect: "Paralisa inimigo por 1d4 turnos",
-    level: 2,
-    class: "Mago",
-  },
-  {
-    id: "mago-teleporte",
-    name: "Teleporte",
-    description: "Se teletransportar para outro local",
-    type: "ativo",
-    cost: 3,
-    effect: "Teleporta até 60 pés",
-    level: 2,
-    class: "Mago",
-  },
-  {
-    id: "mago-escudo-magico",
-    name: "Escudo Mágico",
-    description: "Criar proteção mágica",
-    type: "passivo",
-    cost: 0,
-    effect: "+3 em CA contra magia",
-    level: 1,
-    class: "Mago",
-  },
-
-  // Assassino
-  {
-    id: "assassino-golpe-critico",
-    name: "Golpe Crítico",
-    description: "Desferir um golpe letal",
-    type: "ativo",
-    cost: 4,
-    effect: "Causa 3d6 de dano e pode ser crítico",
-    level: 1,
-    class: "Assassino",
-  },
-  {
-    id: "assassino-invisibilidade",
-    name: "Invisibilidade",
-    description: "Ficar invisível temporariamente",
-    type: "ativo",
-    cost: 5,
-    effect: "Fica invisível por 3 turnos",
-    level: 2,
-    class: "Assassino",
-  },
-  {
-    id: "assassino-veneno",
-    name: "Veneno Letal",
-    description: "Envenenar arma",
-    type: "passivo",
-    cost: 0,
-    effect: "Ataques causam dano adicional de veneno",
-    level: 1,
-    class: "Assassino",
-  },
-];
-
-export const passives: Passive[] = [
-  {
-    id: "passiva-resistencia-fisica",
-    name: "Resistência Física",
-    description: "Aumentar resistência a dano físico",
-    effect: "Reduz dano físico em 10%",
-    bonus: ["+2 CON"],
-  },
-  {
-    id: "passiva-reflexos",
-    name: "Reflexos Aguçados",
-    description: "Aumentar reflexos naturalmente",
-    effect: "Ganha +1 em iniciativa",
-    bonus: ["+1 DES", "+1 CA"],
-  },
-  {
-    id: "passiva-foco",
-    name: "Foco Mental",
-    description: "Melhorar concentração",
-    effect: "Ganha +2 em testes de concentração",
-    bonus: ["+2 INT"],
-  },
-  {
-    id: "passiva-regeneracao",
-    name: "Regeneração",
-    description: "Recuperar HP naturalmente",
-    effect: "Recupera 1 HP por turno",
-    bonus: ["+1 HP/turno"],
-  },
-  {
-    id: "passiva-visao-noturna",
-    name: "Visão Noturna",
-    description: "Enxergar no escuro",
-    effect: "Pode ver até 60 pés no escuro",
-    bonus: ["Visão em escuridão"],
-  },
-  {
-    id: "passiva-imunidade-veneno",
-    name: "Imunidade a Veneno",
-    description: "Ser imune a venenos",
-    effect: "Imune a efeitos de veneno",
-    bonus: ["Imunidade completa"],
-  },
-  {
-    id: "passiva-voo",
-    name: "Voo",
-    description: "Capacidade de voar",
-    effect: "Pode voar com velocidade de 30 pés",
-    bonus: ["Velocidade de voo"],
-  },
-  {
-    id: "passiva-telepátia",
-    name: "Telepatia",
-    description: "Comunicação mental",
-    effect: "Pode se comunicar telepaticamente",
-    bonus: ["Comunicação mental"],
-  },
-];
-
-// ============================================
-// TALENTOS GENÉRICOS DO SISTEMA
-// ============================================
-
 export interface GenericTalent {
   id: string;
   name: string;
@@ -311,631 +35,330 @@ export interface TalentPrerequisite {
   description: string;
 }
 
+// Sistema de Cálculo de EP do PDF
+export const epCalculation = {
+  offensive: {
+    formula: "(Total de dados de dano x 5) = Custo de EP",
+    examples: [
+      { name: "Magia Fraca (2d6)", cost: 10 },
+      { name: "Magia Média (4d6)", cost: 20 },
+      { name: "Magia Forte (5d6)", cost: 25 }
+    ],
+    modifiers: [
+      { effect: "Alcance curto", mod: -5 },
+      { effect: "Tempo de conjuração longo", mod: -5 },
+      { effect: "Componentes raros", mod: -5 }
+    ]
+  },
+  utility: [
+    { effect: "Defesa simples (+AC)", cost: 10 },
+    { effect: "Absorção/Anulação", cost: 15 },
+    { effect: "Regeneração (1d8)", cost: 10 },
+    { effect: "Teleporte/Voo", cost: 20 },
+    { effect: "Invisibilidade/Intangibilidade", cost: 50 }
+  ]
+};
+
+export const talents: Talent[] = [
+  // Lutador Corpo a Corpo
+  { id: "lutador-furia", name: "Fúria Combatente", description: "Dano extra em combate corpo a corpo", type: "ativo", cost: 5, effect: "+2 no dano", level: 1, class: "Lutador Corpo a Corpo" },
+  { id: "lutador-defesa", name: "Defesa Aprimorada", description: "+1 CA quando sem armadura pesada", type: "passivo", cost: 0, effect: "+1 CA", level: 2, class: "Lutador Corpo a Corpo" },
+  { id: "lutador-golpe", name: "Golpe Poderoso", description: "Pode dobrar o dano em um ataque", type: "ativo", cost: 10, effect: "Dano x2", level: 3, class: "Lutador Corpo a Corpo" },
+  { id: "lutador-pele", name: "Pele Resistente", description: "+2 resistência a dano físico", type: "passivo", cost: 0, effect: "RD 2 Físico", level: 6, class: "Lutador Corpo a Corpo" },
+  { id: "lutador-brutal", name: "Golpe Brutal", description: "Se acertar crítico, rola dano extra", type: "passivo", cost: 0, effect: "+1 dado de dano no crítico", level: 7, class: "Lutador Corpo a Corpo" },
+  { id: "lutador-reg", name: "Regeneração de Combate", description: "Recupera 5 HP por turno abaixo de 50%", type: "passivo", cost: 0, effect: "+5 HP/turno", level: 9, class: "Lutador Corpo a Corpo" },
+  
+  // Combatente Ágil
+  { id: "agil-reflexos", name: "Reflexos Sobrenaturais", description: "Bônus +2 em esquiva", type: "passivo", cost: 0, effect: "+2 esquiva", level: 1, class: "Combatente Ágil" },
+  { id: "agil-veloz", name: "Ataque Veloz", description: "+1 iniciativa e movimento após ataque", type: "ativo", cost: 5, effect: "+1 Ini, Mov extra", level: 2, class: "Combatente Ágil" },
+  { id: "agil-acrobatico", name: "Golpe Acrobático", description: "Dano extra se atacar após esquivar", type: "ativo", cost: 10, effect: "+1d8 dano após esquiva", level: 3, class: "Combatente Ágil" },
+  { id: "agil-fantasma", name: "Passo Fantasma", description: "Ignora ataques de oportunidade 1x por turno", type: "passivo", cost: 0, effect: "Ignora AdO", level: 6, class: "Combatente Ágil" },
+  
+  // Mago/Arcano
+  { id: "mago-inicial", name: "Magia Inicial", description: "Aprende 3 magias básicas", type: "passivo", cost: 0, effect: "3 magias", level: 1, class: "Mago/Arcano" },
+  { id: "mago-instantaneo", name: "Feitiço Instantâneo", description: "Lançar magia como ação bônus", type: "ativo", cost: 10, effect: "Ação Bônus", level: 3, class: "Mago/Arcano" },
+  { id: "mago-defesa", name: "Defesa Arcana", description: "Redução de dano mágico em 3", type: "passivo", cost: 0, effect: "RD 3 Mágico", level: 6, class: "Mago/Arcano" },
+  { id: "mago-contra", name: "Contra-Feitiço", description: "Anula 1 magia do inimigo por descanso", type: "ativo", cost: 15, effect: "Anula magia", level: 9, class: "Mago/Arcano" },
+  
+  // Blaster
+  { id: "blaster-tiro", name: "Tiro Preciso", description: "+2 em ataques a mais de 9m", type: "passivo", cost: 0, effect: "+2 acerto", level: 1, class: "Blaster" },
+  { id: "blaster-postura", name: "Postura Defensiva", description: "Pode usar EP para ganhar bônus em CA", type: "ativo", cost: 10, effect: "+2 CA", level: 2, class: "Blaster" },
+  { id: "blaster-analise", name: "Análise Tática", description: "Pode prever movimentos inimigos", type: "ativo", cost: 5, effect: "Vantagem no próximo ataque", level: 3, class: "Blaster" },
+  
+  // Guardião de Suporte
+  { id: "guardiao-aura", name: "Aura Protetora", description: "Concede +2 CA e resistência elemental para aliados a até 6m", type: "ativo", cost: 15, effect: "+2 CA Aliados", level: 1, class: "Guardião de Suporte" },
+  { id: "guardiao-toque", name: "Toque Restaurador", description: "Cura um aliado em 1d8 + Mod. Vontade", type: "ativo", cost: 10, effect: "Cura 1d8+VON", level: 1, class: "Guardião de Suporte" }
+];
+
+export const passives: Passive[] = [
+  // Raças Base
+  { id: "passiva-treinamento-intensivo", name: "Treinamento Intensivo", description: "+2 em uma Perícia à sua escolha.", effect: "+2 em uma Perícia", bonus: ["Humanos Aprimorados"] },
+  { id: "passiva-resistencia-humana", name: "Resistência Humana", description: "Recebe +5 pontos de vida (PV) extras permanentemente.", effect: "+5 PV Máximo", bonus: ["Humanos Aprimorados"] },
+  { id: "passiva-adaptabilidade-alien", name: "Adaptabilidade Extraterrestre", description: "Não sofre penalidades em ambientes hostis (espaço, mar, tóxico).", effect: "Imunidade a Penalidades Ambientais", bonus: ["Alienígenas"] },
+  { id: "passiva-resistencia-alien", name: "Resistência Alienígena", description: "+2 em testes de resistência contra efeitos físicos ou mentais.", effect: "+2 em Testes de Resistência", bonus: ["Alienígenas"] },
+  { id: "passiva-regeneracao-mutante", name: "Regeneração Mutante", description: "Cura 5 PV por turno automaticamente.", effect: "Cura 5 PV/Turno", bonus: ["Mutantes Biomecânicos"] },
+  { id: "passiva-voo-fantasma", name: "Voo Fantasma", description: "Pode se mover livremente no ar.", effect: "Deslocamento de Voo", bonus: ["Fantasmas/Espíritos"] },
+  { id: "passiva-resistencia-elemental", name: "Resistência Elemental", description: "Resistência contra um elemento escolhido (fogo, gelo, raio, etc).", effect: "Resistência Elemental", bonus: ["Dragões/Híbridos Dracônicos"] },
+  { id: "passiva-corpo-aco", name: "Corpo de Aço", description: "Resistência a dano físico (+2 na Defesa).", effect: "+2 na Defesa (CA)", bonus: ["Ciborgues/Androides"] },
+  { id: "passiva-ligacao-simbiotica", name: "Ligação Simbiótica", description: "+5 PV extras e +1 bônus em todos os ataques físicos.", effect: "+5 PV, +1 Ataque Físico", bonus: ["Seres com Simbiontes"] },
+  { id: "passiva-resistencia-magia", name: "Resistência à Magia", description: "Recebe +2 na Defesa (CA) contra ataques mágicos.", effect: "+2 CA contra Magia", bonus: ["Magos/Sobrenaturais"] },
+  { id: "passiva-instinto-sobrevivencia", name: "Instinto de Sobrevivência", description: "Sempre age primeiro no primeiro turno de combate.", effect: "Iniciativa Prioritária (1º Turno)", bonus: ["Criaturas Genéticas"] },
+  
+  // Sub-Raças
+  { id: "passiva-resistencia-fisica-latente", name: "Resistência Física Latente", description: "Redução de 1 ponto de dano físico por ataque recebido.", effect: "RD 1 Físico", bonus: ["Humano Poder Latente"] },
+  { id: "passiva-regeneracao-acelerada-latente", name: "Regeneração Acelerada", description: "Recupera +5 PV por turno, desde que não esteja inconsciente.", effect: "+5 PV/Turno", bonus: ["Humano Poder Latente"] },
+  { id: "passiva-resistencia-venenos", name: "Resistência a Venenos", description: "Vantagem em testes contra venenos e metade do dano venoso.", effect: "Vantagem e RD Veneno", bonus: ["Xenomorfo"] },
+  { id: "passiva-regeneracao-artifice", name: "Regeneração de Artífice", description: "Recupera 7 PV por turno automaticamente.", effect: "Cura 7 PV/Turno", bonus: ["Mutante Artífice"] },
+  { id: "passiva-assombracao", name: "Assombração", description: "Ganha +2 em testes de Intimidação.", effect: "+2 Intimidação", bonus: ["Poltergeist"] },
+  { id: "passiva-afinidade-escuridao", name: "Afinidade com a Escuridão", description: "Ganha +2 em testes de Furtividade em baixa iluminação.", effect: "+2 Furtividade (Escuro)", bonus: ["Fantasma Sombrio"] },
+  { id: "passiva-corpo-agil-dragao", name: "Corpo Ágil", description: "Ganha +2 em testes de Acrobacia e passa por espaços estreitos.", effect: "+2 Acrobacia", bonus: ["Dragão Serpentino"] },
+  { id: "passiva-movimento-fluido", name: "Movimento Fluído", description: "Não provoca ataques de oportunidade ao sair do alcance.", effect: "Imunidade a AdO", bonus: ["Dragão Serpentino"] },
+  { id: "passiva-consciencia-cosmica", name: "Consciência Cósmica", description: "+2 em Percepção e Intuição, detecta presenças a 10m.", effect: "+2 Percepção/Intuição", bonus: ["Dragões Sinápticos"] },
+  { id: "passiva-armadura-plasma", name: "Armadura de Plasma", description: "Inimigos que atacam corpo a corpo sofrem 1d8 de dano Plasma.", effect: "1d8 Dano de Retorno", bonus: ["Dragões Sinápticos"] },
+  { id: "passiva-resistencia-cibernetica", name: "Resistência Cibernética", description: "Vantagem contra intrusão digital e controle de sistemas.", effect: "Vantagem contra Hack", bonus: ["IA Autônoma"] },
+  { id: "passiva-resistencia-mecanica", name: "Resistência Mecânica", description: "Reduz em 2 pontos dano de armas não-energéticas.", effect: "RD 2 (Físico não-mágico)", bonus: ["Ciborgue Exterminador"] },
+  { id: "passiva-camuflagem-sombria", name: "Camuflagem Sombria", description: "Em escuridão ou penumbra, recebe +2 em Furtividade.", effect: "+2 Furtividade", bonus: ["Simbioide Sombrio"] },
+  { id: "passiva-aprimoramento-neural", name: "Aprimoramento Neural", description: "Recebe +2 em testes de Reflexos e Iniciativa.", effect: "+2 Reflexos/Iniciativa", bonus: ["Simbioide Energético"] },
+  { id: "passiva-estudo-acelerado", name: "Estudo Acelerado", description: "Ganha +2 em testes de Conhecimento Arcano e Arcanismo.", effect: "+2 Arcanismo", bonus: ["Mago Feiticeiro"] },
+  { id: "passiva-forjador-arcano", name: "Forjador Arcano", description: "Recebe +2 em testes de Arcanismo para itens mágicos.", effect: "+2 Arcanismo (Itens)", bonus: ["Mago Encantador"] },
+  { id: "passiva-instinto-selvagem", name: "Instinto Selvagem", description: "Recebe +2 em Sobrevivência e detecta presas a 12m.", effect: "+2 Sobrevivência", bonus: ["Híbrido Animal"] },
+  { id: "passiva-resistencia-natural-celular", name: "Resistência Natural Celular", description: "Vantagem em testes contra sangramento e veneno.", effect: "Vantagem contra Sangramento/Veneno", bonus: ["Criatura Regenerador"] }
+];
+
 export const genericTalents: GenericTalent[] = [
-  // Combate Avançado
   {
     id: 'furia-incontrolavel',
     name: 'Fúria Incontrolável',
     category: 'combat',
-    description: 'Quando em desvantagem, sua raiva explode e você ataca com ferocidade brutal.',
-    mechanicEffect: '+2 no dano de ataques corpo a corpo, mas sofre -1 de CA por 3 turnos.',
+    description: 'Quando em desvantagem, sua raiva explode.',
+    mechanicEffect: '+2 no dano corpo a corpo, -1 CA por 3 turnos.',
     limitation: 'Uma vez por combate',
-    prerequisites: [
-      { type: 'attribute', name: 'Força', value: 14, description: 'Força 14+' },
-      { type: 'attribute', name: 'Resistência', value: 12, description: 'Resistência 12+' }
-    ],
+    prerequisites: [{ type: 'attribute', name: 'Força', value: 14, description: 'Força 14+' }],
     rarity: 'uncommon'
   },
   {
-    id: 'parry-mestre',
-    name: 'Parry Mestre',
+    id: 'mente-blindada',
+    name: 'Mente Blindada',
+    category: 'mental',
+    description: 'Sua vontade é como uma fortaleza.',
+    mechanicEffect: 'Vantagem em testes de resistência contra efeitos mentais.',
+    prerequisites: [{ type: 'attribute', name: 'Vontade', value: 13, description: 'Vontade 13+' }],
+    rarity: 'rare'
+  },
+  {
+    id: 'ataque-poderoso',
+    name: 'Ataque Poderoso',
     category: 'combat',
-    description: 'Você domina a arte de desviar e bloquear ataques com precisão cirúrgica.',
-    mechanicEffect: 'Pode reduzir o dano recebido em 4 uma vez por turno ao segurando uma arma corpo a corpo.',
-    limitation: 'Uma vez por turno',
-    prerequisites: [
-      { type: 'attribute', name: 'Agilidade', value: 14, description: 'Agilidade 14+' },
-      { type: 'skill', name: 'Proficiência com armas corpo a corpo', description: 'Proficiência com armas corpo a corpo' }
-    ],
-    rarity: 'uncommon'
+    description: 'Você pode reduzir sua precisão em -2 para causar +4 de dano.',
+    mechanicEffect: 'Reduz precisão em -2 para +4 de dano.',
+    prerequisites: [],
+    rarity: 'common'
   },
   {
-    id: 'lutador-incansavel',
-    name: 'Lutador Incansável',
+    id: 'ataque-giratrio',
+    name: 'Ataque Giratório',
     category: 'combat',
-    description: 'Quanto mais ferido você fica, mais forte você se torna.',
-    mechanicEffect: 'Quando sua vida cair abaixo de 50%, recebe +1 em todos os testes de ataque.',
-    prerequisites: [
-      { type: 'attribute', name: 'Resistência', value: 14, description: 'Resistência 14+' }
-    ],
-    rarity: 'uncommon'
+    description: 'Acerta todos os inimigos ao redor uma vez por turno.',
+    mechanicEffect: 'Acerta todos os inimigos ao redor (1x/turno).',
+    prerequisites: [],
+    rarity: 'common'
   },
   {
-    id: 'instinto-sobrevivencia',
-    name: 'Instinto de Sobrevivência',
+    id: 'bloqueio-reflexivo',
+    name: 'Bloqueio Reflexivo',
     category: 'combat',
-    description: 'Você possui um reflexo de sobrevivência que o mantém vivo em situações críticas.',
-    mechanicEffect: 'Se for atingido por um ataque que te derrubaria, pode rolar um teste de Reflexos (CD 18) para ficar com 1 de HP.',
-    limitation: 'Uma vez por combate',
-    prerequisites: [
-      { type: 'level', name: 'Nível', value: 5, description: 'Nível 5+' },
-      { type: 'attribute', name: 'Reflexos', value: 12, description: 'Reflexos 12+' }
-    ],
-    rarity: 'rare'
+    description: 'Se você estiver segurando uma arma corpo a corpo, pode reduzir o dano de ataques recebidos em 2.',
+    mechanicEffect: 'Reduz dano recebido em 2 (com arma corpo a corpo).',
+    prerequisites: [],
+    rarity: 'common'
   },
-  // Precisão e Ataques à Distância
   {
-    id: 'disparo-devastador',
-    name: 'Disparo Devastador',
+    id: 'especialista-em-duas-armas',
+    name: 'Especialista em Duas Armas',
+    category: 'combat',
+    description: 'Reduz a penalidade para lutar com duas armas em -2.',
+    mechanicEffect: 'Penalidade de duas armas reduzida em -2.',
+    prerequisites: [],
+    rarity: 'common'
+  },
+  {
+    id: 'tiro-rpido',
+    name: 'Tiro Rápido',
     category: 'precision',
-    description: 'Você tira o máximo proveito de um momento de pausa para disparar um tiro perfeito.',
-    mechanicEffect: 'Se não se mover no turno, pode dobrar o dano de um ataque à distância.',
-    prerequisites: [
-      { type: 'attribute', name: 'Agilidade', value: 14, description: 'Agilidade 14+' },
-      { type: 'skill', name: 'Mira Avançada', description: 'Mira Avançada' }
-    ],
-    rarity: 'uncommon'
+    description: 'Faça dois ataques à distância no mesmo turno com -2 de penalidade.',
+    mechanicEffect: 'Dois ataques à distância (-2 penalidade).',
+    prerequisites: [],
+    rarity: 'common'
   },
   {
-    id: 'olho-aguia',
-    name: 'Olho de Águia',
+    id: 'mestre-da-mira',
+    name: 'Mestre da Mira',
     category: 'precision',
-    description: 'Sua visão é aguçada como a de uma águia, permitindo disparos precisos de longa distância.',
-    mechanicEffect: 'Você reduz a penalidade por ataques de longa distância pela metade.',
-    prerequisites: [
-      { type: 'attribute', name: 'Percepção', value: 12, description: 'Percepção 12+' },
-      { type: 'skill', name: 'Arma de longo alcance', description: 'Proficiência com arma de longo alcance' }
-    ],
-    rarity: 'uncommon'
+    description: 'Seu dano à distância aumenta em +2.',
+    mechanicEffect: '+2 no dano à distância.',
+    prerequisites: [],
+    rarity: 'common'
   },
   {
-    id: 'ricochete-perfeito',
-    name: 'Ricochete Perfeito',
+    id: 'penetrao-de-armadura',
+    name: 'Penetração de Armadura',
     category: 'precision',
-    description: 'Você pode usar o ambiente a seu favor, ricocheteando projéteis para atingir inimigos escondidos.',
-    mechanicEffect: 'Pode disparar contra superfícies para atingir inimigos atrás de cobertura.',
-    prerequisites: [
-      { type: 'attribute', name: 'Agilidade', value: 16, description: 'Agilidade 16+' },
-      { type: 'talent', name: 'Disparo Devastador', description: 'Talento: Disparo Devastador' }
-    ],
-    rarity: 'rare'
+    description: 'Seus ataques ignoram 3 pontos da CA inimiga.',
+    mechanicEffect: 'Ignora 3 pontos da CA inimiga.',
+    prerequisites: [],
+    rarity: 'common'
   },
   {
-    id: 'balisticas-perfeita',
-    name: 'Balística Perfeita',
+    id: 'mestre-dos-explosivos',
+    name: 'Mestre dos Explosivos',
     category: 'precision',
-    description: 'Seus cálculos balísticos são absolutamente perfeitos, ignorando qualquer obstáculo.',
-    mechanicEffect: 'Seus ataques à distância ignoram resistência normal e CA de cobertura parcial.',
-    limitation: 'Requer foco e concentração',
-    prerequisites: [
-      { type: 'attribute', name: 'Agilidade', value: 18, description: 'Agilidade 18+' },
-      { type: 'level', name: 'Nível', value: 10, description: 'Nível 10+' }
-    ],
-    rarity: 'epic'
+    description: 'Seus ataques explosivos têm +1 metro de raio.',
+    mechanicEffect: '+1 metro de raio em ataques explosivos.',
+    prerequisites: [],
+    rarity: 'common'
   },
-  // Poderes Energéticos
   {
-    id: 'onda-choque',
-    name: 'Onda de Choque',
+    id: 'canalizar-energia',
+    name: 'Canalizar Energia',
     category: 'energy',
-    description: 'Você libera uma explosão de energia pura que empurra tudo ao seu redor.',
-    mechanicEffect: 'Libera uma explosão de energia que empurra todos os inimigos num raio de 3 metros.',
-    limitation: 'Custa 2 EP',
-    prerequisites: [
-      { type: 'attribute', name: 'Energia', value: 12, description: 'Energia 12+ ou habilidade elemental' }
-    ],
-    rarity: 'uncommon'
+    description: 'Seus ataques energéticos ignoram resistência normal.',
+    mechanicEffect: 'Ataques energéticos ignoram resistência normal.',
+    prerequisites: [],
+    rarity: 'common'
   },
   {
-    id: 'escudo-energia',
-    name: 'Escudo de Energia',
+    id: 'amplificao-bioenergtica',
+    name: 'Amplificação Bioenergética',
     category: 'energy',
-    description: 'Você cria um escudo temporário de energia pura que absorve dano.',
-    mechanicEffect: 'Uma vez por combate, pode ativar um escudo temporário que absorve 10 pontos de dano.',
-    limitation: 'Uma vez por combate',
-    prerequisites: [
-      { type: 'level', name: 'Nível', value: 5, description: 'Nível 5+' },
-      { type: 'attribute', name: 'Energia', value: 14, description: 'Energia 14+' }
-    ],
-    rarity: 'uncommon'
+    description: 'Você pode gastar 2 EP para aumentar seu dano em +3.',
+    mechanicEffect: 'Gasta 2 EP para +3 de dano.',
+    prerequisites: [],
+    rarity: 'common'
   },
   {
-    id: 'evolucao-energetica',
-    name: 'Evolução Energética',
+    id: 'resistncia-ao-caos',
+    name: 'Resistência ao Caos',
     category: 'energy',
-    description: 'Seus ataques elementais evoluem para um nível superior de poder.',
-    mechanicEffect: 'Seus ataques elementais ganham +1d6 de dano extra.',
-    prerequisites: [
-      { type: 'level', name: 'Nível', value: 7, description: 'Nível 7+' },
-      { type: 'skill', name: 'Poder Elemental ativo', description: 'Poder Elemental ativo' }
-    ],
-    rarity: 'rare'
+    description: 'Reduz em 3 qualquer dano de magia ou energia recebida.',
+    mechanicEffect: 'Reduz em 3 dano de magia ou energia.',
+    prerequisites: [],
+    rarity: 'common'
   },
   {
-    id: 'fluxo-arcano',
-    name: 'Fluxo Arcano',
+    id: 'controle-elemental',
+    name: 'Controle Elemental',
     category: 'energy',
-    description: 'Você sincroniza sua essência com a magia ao seu redor, reduzindo o custo de seus feitiços.',
-    mechanicEffect: 'Reduz o custo de habilidades mágicas ou de energia em 1 ponto.',
-    prerequisites: [
-      { type: 'attribute', name: 'Inteligência', value: 14, description: 'Inteligência 14+ ou Magia Avançada' }
-    ],
-    rarity: 'rare'
-  },
-  // Defesa e Resistência
-  {
-    id: 'casca-dura',
-    name: 'Casca Dura',
-    category: 'defense',
-    description: 'Sua pele se torna resistente como uma casca, protegendo você de danos físicos.',
-    mechanicEffect: 'Reduz todo dano físico recebido em 3.',
-    prerequisites: [
-      { type: 'attribute', name: 'Resistência', value: 14, description: 'Resistência 14+' },
-      { type: 'level', name: 'Nível', value: 3, description: 'Nível 3+' }
-    ],
-    rarity: 'uncommon'
+    description: 'Escolha um elemento (fogo, gelo, eletricidade, etc.), seus ataques ganham +1d4 de dano extra desse tipo.',
+    mechanicEffect: '+1d4 de dano extra do elemento escolhido.',
+    prerequisites: [],
+    rarity: 'common'
   },
   {
-    id: 'resistencia-absoluta',
-    name: 'Resistência Absoluta',
-    category: 'defense',
-    description: 'Você consegue resistir aos ataques mais devastadores reduzindo seu impacto.',
-    mechanicEffect: 'Você reduz pela metade o dano sofrido por um ataque uma vez por combate.',
-    limitation: 'Uma vez por combate',
-    prerequisites: [
-      { type: 'attribute', name: 'Resistência', value: 16, description: 'Resistência 16+' },
-      { type: 'level', name: 'Nível', value: 8, description: 'Nível 8+' }
-    ],
-    rarity: 'rare'
+    id: 'mente-resistente',
+    name: 'Mente Resistente',
+    category: 'mental',
+    description: '+2 em testes de resistência contra ilusões e controle mental.',
+    mechanicEffect: '+2 em testes contra ilusões/controle mental.',
+    prerequisites: [],
+    rarity: 'common'
   },
   {
-    id: 'fator-cura-acelerado',
-    name: 'Fator de Cura Acelerado',
-    category: 'defense',
-    description: 'Seu corpo se regenera rapidamente, curando ferimentos a cada turno.',
-    mechanicEffect: 'Você regenera 1d4 HP no início de cada turno.',
-    prerequisites: [
-      { type: 'attribute', name: 'Resistência', value: 14, description: 'Resistência 14+' },
-      { type: 'level', name: 'Nível', value: 5, description: 'Nível 5+' }
-    ],
-    rarity: 'rare'
+    id: 'anlise-rpida',
+    name: 'Análise Rápida',
+    category: 'mental',
+    description: 'Você pode gastar uma ação para descobrir fraquezas do inimigo.',
+    mechanicEffect: 'Ação para descobrir fraquezas do inimigo.',
+    prerequisites: [],
+    rarity: 'common'
   },
   {
-    id: 'pele-aco',
-    name: 'Pele de Aço',
-    category: 'defense',
-    description: 'Sua pele se torna tão dura quanto aço, oferecendo proteção permanente.',
-    mechanicEffect: 'Sua CA natural aumenta em +2 permanentemente.',
-    prerequisites: [
-      { type: 'attribute', name: 'Resistência', value: 18, description: 'Resistência 18+' },
-      { type: 'level', name: 'Nível', value: 12, description: 'Nível 12+' }
-    ],
-    rarity: 'epic'
-  },
-  // Furtividade
-  {
-    id: 'movimento-fantasma',
-    name: 'Movimento Fantasma',
-    category: 'stealth',
-    description: 'Você se move tão silenciosamente que nem mesmo superfícies ruidosas o denunciam.',
-    mechanicEffect: 'Você ignora superfícies ruidosas ao se mover furtivamente.',
-    prerequisites: [
-      { type: 'attribute', name: 'Agilidade', value: 12, description: 'Agilidade 12+' },
-      { type: 'skill', name: 'Furtividade Treinada', description: 'Furtividade Treinada' }
-    ],
-    rarity: 'uncommon'
+    id: 'estrategista',
+    name: 'Estrategista',
+    category: 'mental',
+    description: 'Você pode usar uma ação bônus para coordenar aliados, dando +1 nos ataques deles.',
+    mechanicEffect: 'Ação bônus para +1 nos ataques de aliados.',
+    prerequisites: [],
+    rarity: 'common'
   },
   {
-    id: 'assassino-silencioso',
-    name: 'Assassino Silencioso',
-    category: 'stealth',
-    description: 'Seus ataques furtivos são tão precisos que ignoram até mesmo armaduras.',
-    mechanicEffect: 'Ataques furtivos ignoram armaduras naturais e CA de cobertura.',
-    prerequisites: [
-      { type: 'level', name: 'Nível', value: 5, description: 'Nível 5+' },
-      { type: 'attribute', name: 'Agilidade', value: 14, description: 'Agilidade 14+' }
-    ],
-    rarity: 'rare'
+    id: 'memria-fotogrfica',
+    name: 'Memória Fotográfica',
+    category: 'mental',
+    description: 'Você se lembra de qualquer detalhe que tenha visto nas últimas 24h.',
+    mechanicEffect: 'Lembra de detalhes vistos nas últimas 24h.',
+    prerequisites: [],
+    rarity: 'common'
   },
   {
-    id: 'desaparecimento-rapido',
-    name: 'Desaparecimento Rápido',
-    category: 'stealth',
-    description: 'Você consegue se esconder instantaneamente, desaparecendo da vista de todos.',
-    mechanicEffect: 'Pode gastar uma ação bônus para se esconder instantaneamente.',
-    limitation: 'Uma vez por turno',
-    prerequisites: [
-      { type: 'level', name: 'Nível', value: 7, description: 'Nível 7+' },
-      { type: 'attribute', name: 'Furtividade', value: 12, description: 'Furtividade 12+' }
-    ],
-    rarity: 'rare'
+    id: 'hacker-mestre',
+    name: 'Hacker Mestre',
+    category: 'technology',
+    description: '+3 em testes para invadir sistemas digitais.',
+    mechanicEffect: '+3 em testes para invadir sistemas digitais.',
+    prerequisites: [],
+    rarity: 'common'
   },
   {
-    id: 'passos-sombras',
-    name: 'Passos nas Sombras',
-    category: 'stealth',
-    description: 'Você pode se teletransportar instantaneamente entre áreas escuras.',
-    mechanicEffect: 'Você pode se teletransportar para um local escuro a até 6 metros de distância.',
-    limitation: 'Requer um local escuro de destino',
-    prerequisites: [
-      { type: 'level', name: 'Nível', value: 10, description: 'Nível 10+' },
-      { type: 'talent', name: 'Assassino Silencioso', description: 'Talento: Assassino Silencioso' }
-    ],
-    rarity: 'epic'
+    id: 'criador-de-gadgets',
+    name: 'Criador de Gadgets',
+    category: 'technology',
+    description: 'Você pode fabricar dispositivos tecnológicos personalizados.',
+    mechanicEffect: 'Pode fabricar dispositivos tecnológicos personalizados.',
+    prerequisites: [],
+    rarity: 'common'
   },
   {
-    id: 'mestre-furtividade',
+    id: 'armadura-personalizada',
+    name: 'Armadura Personalizada',
+    category: 'technology',
+    description: 'Suas armaduras tecnológicas recebem +2 CA extra.',
+    mechanicEffect: 'Armaduras tecnológicas recebem +2 CA extra.',
+    prerequisites: [],
+    rarity: 'common'
+  },
+  {
+    id: 'fuso-ciberntica',
+    name: 'Fusão Cibernética',
+    category: 'technology',
+    description: 'Você pode instalar implantes biomecânicos sem penalidade.',
+    mechanicEffect: 'Instala implantes biomecânicos sem penalidade.',
+    prerequisites: [],
+    rarity: 'common'
+  },
+  {
+    id: 'mestre-da-furtividade',
     name: 'Mestre da Furtividade',
     category: 'stealth',
-    description: 'Você é um mestre absoluto em se esconder e passar despercebido.',
+    description: '+3 em testes de furtividade.',
     mechanicEffect: '+3 em testes de furtividade.',
-    prerequisites: [
-      { type: 'attribute', name: 'Agilidade', value: 12, description: 'Agilidade 12+' }
-    ],
-    rarity: 'uncommon'
+    prerequisites: [],
+    rarity: 'common'
   },
   {
-    id: 'sombra-rapida',
+    id: 'assassinato-silencioso',
+    name: 'Assassinato Silencioso',
+    category: 'stealth',
+    description: 'Se atacar um inimigo sem que ele perceba, causa dano dobrado.',
+    mechanicEffect: 'Dano dobrado em ataque furtivo.',
+    prerequisites: [],
+    rarity: 'common'
+  },
+  {
+    id: 'sombra-rpida',
     name: 'Sombra Rápida',
     category: 'stealth',
-    description: 'Você se move tão rápido nas sombras que parece desaparecer.',
-    mechanicEffect: 'Você pode se mover silenciosamente sem penalidade.',
-    prerequisites: [
-      { type: 'attribute', name: 'Agilidade', value: 14, description: 'Agilidade 14+' }
-    ],
-    rarity: 'uncommon'
+    description: 'Você pode se mover silenciosamente sem penalidade.',
+    mechanicEffect: 'Move-se silenciosamente sem penalidade.',
+    prerequisites: [],
+    rarity: 'common'
   },
   {
-    id: 'mestre-disfarce',
+    id: 'mestre-do-disfarce',
     name: 'Mestre do Disfarce',
     category: 'stealth',
-    description: 'Você pode imitar qualquer pessoa com perfeição, copiando vozes e gestos.',
-    mechanicEffect: 'Você pode imitar vozes e gestos de outras pessoas com facilidade.',
-    prerequisites: [
-      { type: 'attribute', name: 'Carisma', value: 14, description: 'Carisma 14+' }
-    ],
-    rarity: 'uncommon'
+    description: 'Você pode imitar vozes e gestos de outras pessoas com facilidade.',
+    mechanicEffect: 'Imita vozes e gestos com facilidade.',
+    prerequisites: [],
+    rarity: 'common'
   }
-];
-
-export interface UniqueTalent extends GenericTalent {
-  characterSpecific?: string;
-}
-
-export const uniqueTalents: UniqueTalent[] = [
-  // Ben 10 Talents
-  {
-    id: 'codigo-mestre',
-    name: 'Código Mestre',
-    category: 'combat',
-    description: 'Você domina completamente o Omnitrix ou tecnologia similar, desbloqueando todas as transformações.',
-    mechanicEffect: 'Pode se transformar sem limite de tempo. Desbloqueia modos especiais como Modo Supremo ou fusões de DNA alienígena.',
-    prerequisites: [
-      { type: 'custom', name: 'Portador de Omnitrix', description: 'Portador de Omnitrix ou Tecnologia Similar' },
-      { type: 'level', name: 'Nível', value: 12, description: 'Nível 12+' }
-    ],
-    rarity: 'epic',
-    characterSpecific: 'Ben 10'
-  },
-  {
-    id: 'dna-supremo',
-    name: 'DNA Supremo',
-    category: 'combat',
-    description: 'Você evolui seus alienígenas para a versão suprema, desbloqueando poderes inimagináveis.',
-    mechanicEffect: 'Pode escolher entre forma normal ou Suprema ao se transformar. Formas Supremas recebem +2 em todos os atributos e novas habilidades. Pode fundir até dois alienígenas para criar combinações únicas.',
-    prerequisites: [
-      { type: 'talent', name: 'Código Mestre', description: 'Talento: Código Mestre ou Experiência com o Omnitrix' },
-      { type: 'level', name: 'Nível', value: 15, description: 'Nível 15+' }
-    ],
-    rarity: 'legendary',
-    characterSpecific: 'Ben 10'
-  },
-  // Mutante Rex Talents
-  {
-    id: 'mestre-nanotecnologia',
-    name: 'Mestre da Nanotecnologia',
-    category: 'technology',
-    description: 'Seus Nanites são totalmente controláveis, sem limitações, permitindo criações ilimitadas.',
-    mechanicEffect: 'Pode criar qualquer arma ou ferramenta a partir do próprio corpo. Pode curar qualquer dano usando Nanites, até membros perdidos. Pode hackear outros seres tecnológicos e controlá-los.',
-    prerequisites: [
-      { type: 'custom', name: 'Infecção por Nanites Avançados', description: 'Infecção por Nanites Avançados' },
-      { type: 'level', name: 'Nível', value: 10, description: 'Nível 10+' }
-    ],
-    rarity: 'epic',
-    characterSpecific: 'Mutante Rex'
-  },
-  {
-    id: 'forma-omega',
-    name: 'Forma Omega',
-    category: 'combat',
-    description: 'Você alcança o ápice da evolução dos Nanites, se tornando praticamente invencível.',
-    mechanicEffect: 'Pode ativar o Modo Omega, aumentando seu poder 10x por 1 minuto. Ganha resistência absoluta a qualquer tipo de hack ou vírus. Pode fundir-se a qualquer tecnologia, assumindo controle dela.',
-    limitation: 'Modo Omega dura apenas 1 minuto, uma vez por combate',
-    prerequisites: [
-      { type: 'custom', name: 'Nanites Omega', description: 'Portador dos Nanites Omega' },
-      { type: 'level', name: 'Nível', value: 15, description: 'Nível 15+' }
-    ],
-    rarity: 'legendary',
-    characterSpecific: 'Mutante Rex'
-  },
-  // Danny Phantom Talents
-  {
-    id: 'mestre-intangibilidade',
-    name: 'Mestre da Intangibilidade',
-    category: 'combat',
-    description: 'Você pode se tornar completamente intangível, até contra ataques especiais.',
-    mechanicEffect: 'Pode atravessar tudo, até barreiras mágicas ou tecnológicas. Pode tocar objetos enquanto intangível para manipulá-los. Pode gastar 1 EP para tornar-se invisível além da intangibilidade.',
-    prerequisites: [
-      { type: 'custom', name: 'Ser Meio-Fantasma', description: 'Ser Meio-Fantasma ou Habilidade de Intangibilidade' },
-      { type: 'level', name: 'Nível', value: 8, description: 'Nível 8+' }
-    ],
-    rarity: 'epic',
-    characterSpecific: 'Danny Phantom'
-  },
-  {
-    id: 'explosao-fantasma-suprema',
-    name: 'Explosão Fantasma Suprema',
-    category: 'energy',
-    description: 'Seu Golpe Fantasma atinge níveis devastadores, capaz de anular poderes de outros fantasmas.',
-    mechanicEffect: 'Pode disparar um ataque de energia fantasma massivo em área. Se atingir um fantasma, anula seus poderes temporariamente.',
-    limitation: 'Custa 3 EP',
-    prerequisites: [
-      { type: 'custom', name: 'Habilidade de Explosão Fantasma Avançada', description: 'Habilidade de Explosão Fantasma Avançada' },
-      { type: 'level', name: 'Nível', value: 12, description: 'Nível 12+' }
-    ],
-    rarity: 'epic',
-    characterSpecific: 'Danny Phantom'
-  },
-  // Jake Long (Dragão Ocidental) Talents
-  {
-    id: 'modo-dragao-supremo',
-    name: 'Modo Dragão Supremo',
-    category: 'combat',
-    description: 'Você libera o potencial máximo da sua forma dracônica.',
-    mechanicEffect: 'Pode usar chamas mágicas que queimam até espíritos e espectros. Seus golpes físicos causam o dobro de dano contra qualquer criatura maligna. Pode voar em velocidade supersônica.',
-    prerequisites: [
-      { type: 'custom', name: 'Ser um Dragão', description: 'Ser um Dragão ou Similar' },
-      { type: 'level', name: 'Nível', value: 10, description: 'Nível 10+' }
-    ],
-    rarity: 'epic',
-    characterSpecific: 'Jake Long'
-  },
-  {
-    id: 'alma-dragao-ancestral',
-    name: 'Alma do Dragão Ancestral',
-    category: 'combat',
-    description: 'Você canaliza o poder dos dragões antigos, obtendo sabedoria e força imemorial.',
-    mechanicEffect: 'Seus ataques agora causam dano elemental extra (fogo, raio, gelo, etc.). Ganha uma resistência quase total a qualquer ataque mágico. Pode usar um rugido dracônico que paralisa inimigos fracos pelo medo.',
-    prerequisites: [
-      { type: 'talent', name: 'Modo Dragão Supremo', description: 'Talento: Modo Dragão Supremo ou Conexão Dracônica Forte' },
-      { type: 'level', name: 'Nível', value: 15, description: 'Nível 15+' }
-    ],
-    rarity: 'legendary',
-    characterSpecific: 'Jake Long'
-  },
-  // Randy Cunningham Talents
-  {
-    id: 'modo-ninja-supremo',
-    name: 'Modo Ninja Supremo',
-    category: 'stealth',
-    description: 'Você atinge o auge das artes ninjas, ficando praticamente indetectável.',
-    mechanicEffect: 'Seus movimentos são totalmente silenciosos, sem chance de detecção. Pode refletir qualquer ataque de longo alcance com sua katana. Ganha um instinto de perigo, podendo esquivar automaticamente de um ataque mortal.',
-    limitation: 'Modo dura 5 turnos por ativação',
-    prerequisites: [
-      { type: 'custom', name: 'Ser Ninja', description: 'Ser Ninja ou Treinamento Especializado em Técnicas Ninja' },
-      { type: 'level', name: 'Nível', value: 12, description: 'Nível 12+' }
-    ],
-    rarity: 'epic',
-    characterSpecific: 'Randy Cunningham'
-  },
-  // Max Steel Talents
-  {
-    id: 'modo-turbo-supremo',
-    name: 'Modo Turbo Supremo',
-    category: 'combat',
-    description: 'Você libera todo o potencial do Modo Turbo, se tornando uma máquina de combate.',
-    mechanicEffect: 'Pode aumentar sua força e velocidade em o dobro do deslocamento por 3 turnos. Seu corpo se adapta a qualquer ambiente, incluindo espaço ou submersão profunda. Pode gerar rajadas de energia super concentradas.',
-    limitation: 'Modo Turbo dura 3 turnos, uma vez por combate',
-    prerequisites: [
-      { type: 'custom', name: 'Modo Turbo Avançado', description: 'Modo Turbo Avançado ou Acessórios Nano-Tecnológicos' },
-      { type: 'level', name: 'Nível', value: 12, description: 'Nível 12+' }
-    ],
-    rarity: 'epic',
-    characterSpecific: 'Max Steel'
-  },
-  // Sábados Secretos Talents
-  {
-    id: 'mestre-criptozoologista',
-    name: 'Mestre Criptozoologista',
-    category: 'mental',
-    description: 'Você entende todas as criaturas ocultas do mundo e pode controlá-las.',
-    mechanicEffect: 'Pode se comunicar com qualquer criptoide e convencê-lo a ajudar. Ganha resistência total contra magia de criaturas míticas. Pode invocar um Criptoide para lutar ao seu lado 1x por dia.',
-    prerequisites: [
-      { type: 'custom', name: 'Conhecimento Profundo', description: 'Conhecimento Profundo sobre Criaturas Místicas e Criptoides' },
-      { type: 'level', name: 'Nível', value: 10, description: 'Nível 10+' }
-    ],
-    rarity: 'epic',
-    characterSpecific: 'Sábados Secretos'
-  },
-  // Titã Simbiônico Talents
-  {
-    id: 'fusao-maxima',
-    name: 'Fusão Máxima',
-    category: 'technology',
-    description: 'Você pode se fundir com qualquer máquina ou ser tecnológico, criando um Titã supremo.',
-    mechanicEffect: 'Qualquer máquina pilotável se torna uma armadura viva para você. Se fundindo com outro personagem, os status combinam e atingem o máximo. Pode controlar tecnologias à distância como se fossem parte de você.',
-    prerequisites: [
-      { type: 'custom', name: 'Pilotagem de Mechas', description: 'Pilotagem de Mechas ou Fusão de Entidades Tecnológicas' },
-      { type: 'level', name: 'Nível', value: 12, description: 'Nível 12+' }
-    ],
-    rarity: 'epic',
-    characterSpecific: 'Titã Simbiônico'
-  },
-  // Miraculous Talents
-  {
-    id: 'miraculous-supremo',
-    name: 'Miraculous Supremo',
-    category: 'combat',
-    description: 'Você libera 100% do potencial do seu Miraculous, desbloqueando poder absoluto.',
-    mechanicEffect: 'Pode usar seu poder especial quantas vezes quiser sem limite de tempo. Seu Kwami pode ajudar ativamente em combate.',
-    prerequisites: [
-      { type: 'custom', name: 'Portador de Miraculous', description: 'Portador de um Miraculous e Conexão Total com seu Kwami' },
-      { type: 'level', name: 'Nível', value: 15, description: 'Nível 15+' }
-    ],
-    rarity: 'legendary',
-    characterSpecific: 'Miraculous'
-  }
-];
-
-// Helper functions
-export function getTalentsByCategory(category: string): (GenericTalent | UniqueTalent)[] {
-  return [...genericTalents, ...uniqueTalents].filter(talent => talent.category === category);
-}
-
-export function getCharacterTalents(characterName: string): UniqueTalent[] {
-  return uniqueTalents.filter(talent => talent.characterSpecific === characterName);
-}
-
-export function checkPrerequisites(talent: GenericTalent | UniqueTalent, playerStats: Record<string, number>): { met: boolean; missing: string[] } {
-  const missing: string[] = [];
-
-  for (const prereq of talent.prerequisites) {
-    if (prereq.type === 'attribute') {
-      if ((playerStats[prereq.name] || 0) < (prereq.value || 0)) {
-        missing.push(`${prereq.name} ${prereq.value || 0}+`);
-      }
-    } else if (prereq.type === 'level') {
-      if ((playerStats['level'] || 0) < (prereq.value || 0)) {
-        missing.push(`Nível ${prereq.value || 0}+`);
-      }
-    }
-  }
-
-  return {
-    met: missing.length === 0,
-    missing
-  };
-}
-
-export const backgrounds: Background[] = [
-  {
-    id: "bg-cientista",
-    name: "Cientista Genial",
-    emoji: "🧪",
-    description: "Você sempre esteve à frente do seu tempo, criando invenções inovadoras",
-    skills: ["Investigação", "Tecnologia"],
-    equipment: ["Ferramentas científicas", "Tablet de dados", "Laboratório portátil"],
-    specialAbility: "Mente Brilhante",
-    abilityDescription: "Gastar 1 ponto de energia para entender rapidamente o funcionamento de qualquer tecnologia",
-  },
-  {
-    id: "bg-guerreiro",
-    name: "Guerreiro de Elite",
-    emoji: "⚔️",
-    description: "Treinado desde jovem para a batalha, você conhece os caminhos da guerra",
-    skills: ["Atletismo", "Intimidação"],
-    equipment: ["Armadura leve", "Espada de treinamento", "Medalhão de guerra"],
-    specialAbility: "Reflexos Rápidos",
-    abilityDescription: "Rolar um teste de Reflexos com vantagem uma vez por descanso longo",
-  },
-  {
-    id: "bg-escolhido",
-    name: "Escolhido por um Poder Maior",
-    emoji: "✨",
-    description: "O destino traçou um caminho especial para você",
-    skills: ["Religião", "Intuição"],
-    equipment: ["Amuleto sagrado", "Livro antigo de profecias", "Túnica mística"],
-    specialAbility: "Visões do Futuro",
-    abilityDescription: "Uma vez por dia, receber uma dica enigmática sobre o futuro",
-  },
-  {
-    id: "bg-agente",
-    name: "Agente Secreto",
-    emoji: "🕵️",
-    description: "Missões clandestinas, espionagem e combate nas sombras",
-    skills: ["Furtividade", "Enganação"],
-    equipment: ["Comunicações criptografadas", "Traje camuflado", "Arma discreta"],
-    specialAbility: "Cobertura Perfeita",
-    abilityDescription: "Se esconder em plena luz do dia uma vez por descanso curto",
-  },
-  {
-    id: "bg-aventureiro",
-    name: "Aventureiro Espacial",
-    emoji: "🚀",
-    description: "Você já explorou os confins do espaço",
-    skills: ["Pilotagem", "Sobrevivência"],
-    equipment: ["Traje pressurizado", "Comunicador interestelar", "Mapa galáctico"],
-    specialAbility: "Conhecimento Cósmico",
-    abilityDescription: "Sempre sabe onde está e pode identificar espécies alienígenas",
-  },
-  {
-    id: "bg-ex-vilao",
-    name: "Ex-Vilão Redimido",
-    emoji: "😈",
-    description: "Seu passado sombrio está atrás de você",
-    skills: ["Intimidação", "Persuasão"],
-    equipment: ["Relíquia de seu passado", "Capa escura", "Máscara antiga"],
-    specialAbility: "Sombra do Passado",
-    abilityDescription: "Convencer um inimigo de que ainda é um vilão",
-  },
-  {
-    id: "bg-humano",
-    name: "Humano Comum",
-    emoji: "🤔",
-    description: "Você é apenas uma pessoa normal... Ou pelo menos era",
-    skills: ["Persuasão", "Percepção"],
-    equipment: ["Smartphone", "Carteira de identidade", "Lembrança de casa"],
-    specialAbility: "Força de Vontade",
-    abilityDescription: "Substituir qualquer teste de atributo por um teste de Carisma",
-  },
-  {
-    id: "bg-artefato",
-    name: "Portador de um Artefato Poderoso",
-    emoji: "🏆",
-    description: "Você encontrou ou foi escolhido por um artefato de imenso poder",
-    skills: ["Arcano", "Investigação"],
-    equipment: ["Artefato misterioso", "Diário de anotações", "Luvas especiais"],
-    specialAbility: "Sinergia com o Artefato",
-    abilityDescription: "Gastar 1 ponto de energia para ativar uma habilidade única",
-  },
-  {
-    id: "bg-organizacao",
-    name: "Criado por uma Organização Secreta",
-    emoji: "🏛️",
-    description: "Desde jovem, você foi moldado por uma instituição misteriosa",
-    skills: ["Intimidação", "Investigação"],
-    equipment: ["Identificação da organização", "Traje especial", "Contato anônimo"],
-    specialAbility: "Treinamento Secreto",
-    abilityDescription: "Ganhar proficiência em uma perícia e rolar com vantagem",
-  },
-  {
-    id: "bg-sobrevivente",
-    name: "Sobrevivente de um Mundo Perdido",
-    emoji: "🌋",
-    description: "Você veio de uma realidade alternativa ou um reino perdido",
-    skills: ["Sobrevivência", "Intuição"],
-    equipment: ["Arma primitiva ou exótica", "Fragmento do seu mundo", "Mapa antigo"],
-    specialAbility: "Vontade de Ferro",
-    abilityDescription: "Gastar 1 ponto de energia para rolar novamente um teste de resistência",
-  },
-  {
-    id: "bg-estudante",
-    name: "Estudante de Magia ou Ciências Ocultas",
-    emoji: "📜",
-    description: "Você dedicou sua vida ao estudo dos segredos do universo",
-    skills: ["Arcano", "História"],
-    equipment: ["Grimório", "Conjunto de runas", "Óculos de leitura"],
-    specialAbility: "Conhecimento Proibido",
-    abilityDescription: "Lembrar de uma informação obscura sobre um ser ou fenômeno",
-  },
-  {
-    id: "bg-piloto",
-    name: "Piloto de Elite",
-    emoji: "🚗",
-    description: "Seja no ar, na terra ou no espaço, ninguém pilota como você",
-    skills: ["Pilotagem", "Reflexos"],
-    equipment: ["Chave de um veículo especial", "Traje de piloto", "Óculos de proteção"],
-    specialAbility: "Maestria em Pilotar",
-    abilityDescription: "Ganhar +2 em testes de pilotagem",
-  },
 ];

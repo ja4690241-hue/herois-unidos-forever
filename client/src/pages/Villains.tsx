@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
-import { villains } from "@/lib/gameData";
+import { villains } from "@/lib/villainsData";
 import { ChevronLeft, Heart, Shield, Sword } from "lucide-react";
 
 export default function Villains() {
