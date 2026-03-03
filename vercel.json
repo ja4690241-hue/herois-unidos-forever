@@ -3,10 +3,5 @@
   "outputDirectory": "dist/public",
   "env": {
     "NODE_ENV": "production"
-  },
-  "functions": {
-    "server/index.ts": {
-      "runtime": "nodejs20.x"
-    }
   }
 }
