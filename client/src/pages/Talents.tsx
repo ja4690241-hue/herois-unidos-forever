@@ -1,253 +1,198 @@
 import { useState } from "react";
-import { Card } from "@/components/ui/card";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
-import { talents, passives } from "@/lib/talentsData";
-import { ChevronLeft } from "lucide-react";
+import { talents, genericTalents, epCalculation } from "@/lib/talentsData";
+import { ChevronLeft, Zap, Shield, Star } from "lucide-react";
 
 export default function Talents() {
-  const [filterClass, setFilterClass] = useState<string | null>(null);
-  const [filterType, setFilterType] = useState<"ativo" | "passivo" | null>(null);
-  const [selectedTalentId, setSelectedTalentId] = useState(talents[0].id);
+  const [activeTab, setActiveTab] = useState<'class' | 'generic' | 'rules'>('class');
 
-  const selectedTalent = talents.find((t) => t.id === selectedTalentId);
-  const classes = Array.from(new Set(talents.map((t) => t.class)));
-
-  let filteredTalents = talents;
-  if (filterClass) {
-    filteredTalents = filteredTalents.filter((t) => t.class === filterClass);
-  }
-  if (filterType) {
-    filteredTalents = filteredTalents.filter((t) => t.type === filterType);
-  }
+  const getRarityColor = (rarity: string) => {
+    switch (rarity) {
+      case 'common': return 'text-slate-400 border-slate-400/30 bg-slate-400/10';
+      case 'uncommon': return 'text-green-400 border-green-400/30 bg-green-400/10';
+      case 'rare': return 'text-blue-400 border-blue-400/30 bg-blue-400/10';
+      case 'epic': return 'text-purple-400 border-purple-400/30 bg-purple-400/10';
+      case 'legendary': return 'text-orange-400 border-orange-400/30 bg-orange-400/10';
+      default: return 'text-slate-400';
+    }
+  };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white">
-      {/* Header */}
-      <header className="border-b border-slate-700 bg-slate-900/50 backdrop-blur-sm sticky top-0 z-50">
-        <div className="container py-4 flex items-center gap-4">
-          <Link href="/">
-            <Button variant="ghost" size="sm" className="text-slate-300">
-              <ChevronLeft className="mr-2" />
-              Voltar
-            </Button>
-          </Link>
-          <h1 className="text-2xl font-bold">⭐ Talentos e Habilidades</h1>
-        </div>
-      </header>
-
-      <div className="container py-12">
-        <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
-          {/* Filters */}
-          <div className="lg:col-span-1">
-            <h2 className="text-xl font-bold mb-4">Filtrar por Classe</h2>
-            <div className="space-y-2 mb-6">
-              <button
-                onClick={() => setFilterClass(null)}
-                className={`w-full text-left p-3 rounded-lg transition ${
-                  filterClass === null
-                    ? "bg-blue-600 border border-blue-500"
-                    : "bg-slate-800 border border-slate-700 hover:border-slate-600"
-                }`}
-              >
-                Todas
-              </button>
-              {classes.map((cls) => (
-                <button
-                  key={cls}
-                  onClick={() => setFilterClass(cls)}
-                  className={`w-full text-left p-3 rounded-lg transition ${
-                    filterClass === cls
-                      ? "bg-blue-600 border border-blue-500"
-                      : "bg-slate-800 border border-slate-700 hover:border-slate-600"
-                  }`}
-                >
-                  {cls}
-                </button>
-              ))}
-            </div>
-
-            <h2 className="text-xl font-bold mb-4">Filtrar por Tipo</h2>
-            <div className="space-y-2 mb-6">
-              <button
-                onClick={() => setFilterType(null)}
-                className={`w-full text-left p-3 rounded-lg transition ${
-                  filterType === null
-                    ? "bg-green-600 border border-green-500"
-                    : "bg-slate-800 border border-slate-700 hover:border-slate-600"
-                }`}
-              >
-                Todos
-              </button>
-              <button
-                onClick={() => setFilterType("ativo")}
-                className={`w-full text-left p-3 rounded-lg transition ${
-                  filterType === "ativo"
-                    ? "bg-green-600 border border-green-500"
-                    : "bg-slate-800 border border-slate-700 hover:border-slate-600"
-                }`}
-              >
-                ⚡ Ativos
-              </button>
-              <button
-                onClick={() => setFilterType("passivo")}
-                className={`w-full text-left p-3 rounded-lg transition ${
-                  filterType === "passivo"
-                    ? "bg-green-600 border border-green-500"
-                    : "bg-slate-800 border border-slate-700 hover:border-slate-600"
-                }`}
-              >
-                🛡️ Passivos
-              </button>
-            </div>
-
-            <h2 className="text-xl font-bold mb-4">Talentos</h2>
-            <div className="space-y-2 max-h-96 overflow-y-auto">
-              {filteredTalents.map((talent) => (
-                <button
-                  key={talent.id}
-                  onClick={() => setSelectedTalentId(talent.id)}
-                  className={`w-full text-left p-3 rounded-lg transition ${
-                    selectedTalentId === talent.id
-                      ? "bg-yellow-600 border border-yellow-500"
-                      : "bg-slate-800 border border-slate-700 hover:border-slate-600"
-                  }`}
-                >
-                  <div className="font-semibold text-sm">{talent.name}</div>
-                  <div className="text-xs text-slate-400 mt-1">
-                    {talent.type === "ativo" ? "⚡" : "🛡️"} Nível {talent.level}
-                  </div>
-                </button>
-              ))}
-            </div>
-          </div>
-
-          {/* Details */}
-          <div className="lg:col-span-3">
-            {selectedTalent && (
-              <>
-                <Card className="bg-slate-800 border-slate-700 p-8 mb-8">
-                  <div className="flex items-start justify-between mb-6">
-                    <div>
-                      <h2 className="text-4xl font-bold mb-2">{selectedTalent.name}</h2>
-                      <p className="text-slate-300">{selectedTalent.description}</p>
-                    </div>
-                    <div className={`px-4 py-2 rounded-lg font-bold ${
-                      selectedTalent.type === "ativo"
-                        ? "bg-yellow-600 text-white"
-                        : "bg-green-600 text-white"
-                    }`}>
-                      {selectedTalent.type === "ativo" ? "⚡ Ativo" : "🛡️ Passivo"}
-                    </div>
-                  </div>
-
-                  <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-6">
-                    <div className="bg-slate-700/50 p-4 rounded-lg border border-slate-600">
-                      <p className="text-slate-400 text-sm mb-1">Classe</p>
-                      <p className="text-2xl font-bold text-blue-400">{selectedTalent.class}</p>
-                    </div>
-                    <div className="bg-slate-700/50 p-4 rounded-lg border border-slate-600">
-                      <p className="text-slate-400 text-sm mb-1">Nível</p>
-                      <p className="text-2xl font-bold text-purple-400">{selectedTalent.level}</p>
-                    </div>
-                    <div className="bg-slate-700/50 p-4 rounded-lg border border-slate-600">
-                      <p className="text-slate-400 text-sm mb-1">Custo</p>
-                      <p className="text-2xl font-bold text-red-400">{selectedTalent.cost}</p>
-                      <p className="text-xs text-slate-500">Energia/Mana</p>
-                    </div>
-                    <div className="bg-slate-700/50 p-4 rounded-lg border border-slate-600">
-                      <p className="text-slate-400 text-sm mb-1">Tipo</p>
-                      <p className="text-lg font-bold text-green-400">
-                        {selectedTalent.type === "ativo" ? "⚡ Ativo" : "🛡️ Passivo"}
-                      </p>
-                    </div>
-                  </div>
-
-                  <div className="bg-slate-700/50 p-6 rounded-lg border border-slate-600">
-                    <h3 className="text-xl font-bold mb-3 text-green-300">Efeito:</h3>
-                    <p className="text-slate-300">{selectedTalent.effect}</p>
-                  </div>
-                </Card>
-
-                {/* All Talents by Class */}
-                {classes.map((cls) => {
-                  const classTalents = talents.filter((t) => t.class === cls);
-                  return (
-                    <div key={cls} className="mb-8">
-                      <h3 className="text-2xl font-bold mb-4">{cls}</h3>
-                      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        {classTalents.map((talent) => (
-                          <Card
-                            key={talent.id}
-                            className={`bg-slate-800 border-slate-700 p-6 cursor-pointer transition hover:border-yellow-500 ${
-                              selectedTalentId === talent.id ? "border-yellow-500" : ""
-                            }`}
-                            onClick={() => setSelectedTalentId(talent.id)}
-                          >
-                            <div className="flex items-start justify-between mb-3">
-                              <div>
-                                <p className="font-bold text-lg">{talent.name}</p>
-                                <p className="text-sm text-slate-400 mt-1">{talent.description}</p>
-                              </div>
-                              <span className={`px-3 py-1 rounded text-sm font-bold ${
-                                talent.type === "ativo"
-                                  ? "bg-yellow-600 text-white"
-                                  : "bg-green-600 text-white"
-                              }`}>
-                                {talent.type === "ativo" ? "⚡" : "🛡️"}
-                              </span>
-                            </div>
-                            <div className="flex justify-between text-xs text-slate-500">
-                              <span>Nível {talent.level}</span>
-                              <span>Custo: {talent.cost}</span>
-                            </div>
-                          </Card>
-                        ))}
-                      </div>
-                    </div>
-                  );
-                })}
-              </>
-            )}
+    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white p-6">
+      <div className="max-w-6xl mx-auto">
+        <div className="flex items-center justify-between mb-8">
+          <div className="flex items-center gap-4">
+            <Link href="/">
+              <Button variant="ghost" size="icon" className="text-slate-300">
+                <ChevronLeft className="h-6 w-6" />
+              </Button>
+            </Link>
+            <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-400 to-cyan-500 bg-clip-text text-transparent">
+              Talentos e Habilidades
+            </h1>
           </div>
         </div>
 
-        {/* Passives Section */}
-        <div className="mt-12">
-          <h2 className="text-3xl font-bold mb-6">🛡️ Habilidades Passivas Especiais</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {passives.map((passive) => (
-              <Card key={passive.id} className="bg-slate-800 border-slate-700 p-6">
-                <h3 className="text-xl font-bold mb-2">{passive.name}</h3>
-                <p className="text-sm text-slate-400 mb-4">{passive.description}</p>
-                <div className="bg-slate-700/50 p-3 rounded-lg mb-4">
-                  <p className="text-sm text-green-300 font-semibold">{passive.effect}</p>
-                </div>
-                <div className="space-y-1">
-                  {passive.bonus.map((bonus, idx) => (
-                    <p key={idx} className="text-xs text-slate-300">
-                      ✓ {bonus}
-                    </p>
-                  ))}
-                </div>
+        {/* Tabs */}
+        <div className="flex gap-2 mb-8 bg-slate-800/50 p-1 rounded-xl border border-slate-700 w-fit">
+          <Button 
+            variant={activeTab === 'class' ? 'default' : 'ghost'} 
+            onClick={() => setActiveTab('class')}
+            className={activeTab === 'class' ? 'bg-blue-600' : ''}
+          >
+            Habilidades de Classe
+          </Button>
+          <Button 
+            variant={activeTab === 'generic' ? 'default' : 'ghost'} 
+            onClick={() => setActiveTab('generic')}
+            className={activeTab === 'generic' ? 'bg-blue-600' : ''}
+          >
+            Talentos Genéricos
+          </Button>
+          <Button 
+            variant={activeTab === 'rules' ? 'default' : 'ghost'} 
+            onClick={() => setActiveTab('rules')}
+            className={activeTab === 'rules' ? 'bg-blue-600' : ''}
+          >
+            Regras de EP
+          </Button>
+        </div>
+
+        {activeTab === 'class' && (
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {talents.map((talent) => (
+              <Card key={talent.id} className="bg-slate-800 border-slate-700 hover:border-blue-500 transition-all overflow-hidden">
+                <CardHeader className="pb-2">
+                  <div className="flex justify-between items-start mb-2">
+                    <span className="text-[10px] uppercase font-black px-2 py-0.5 rounded bg-blue-900/40 text-blue-400 border border-blue-500/20">
+                      {talent.class}
+                    </span>
+                    <span className="text-xs font-bold text-slate-500">Nível {talent.level}</span>
+                  </div>
+                  <CardTitle className="text-xl font-bold text-white">{talent.name}</CardTitle>
+                </CardHeader>
+                <CardContent className="space-y-4">
+                  <p className="text-slate-400 text-sm italic">"{talent.description}"</p>
+                  <div className="flex justify-between items-center text-sm">
+                    <span className={`px-2 py-1 rounded text-xs font-bold uppercase ${talent.type === 'ativo' ? 'bg-orange-900/20 text-orange-400' : 'bg-teal-900/20 text-teal-400'}`}>
+                      {talent.type}
+                    </span>
+                    {talent.cost > 0 && (
+                      <span className="flex items-center gap-1 text-orange-400 font-bold">
+                        <Zap size={14} /> {talent.cost} EP
+                      </span>
+                    )}
+                  </div>
+                  <div className="p-3 bg-slate-900/50 rounded border-l-2 border-blue-500">
+                    <p className="text-sm text-slate-200">{talent.effect}</p>
+                  </div>
+                </CardContent>
               </Card>
             ))}
           </div>
-        </div>
+        )}
 
-        {/* CTA */}
-        <div className="mt-12 flex gap-4">
-          <Link href="/backgrounds" className="flex-1">
-            <Button className="w-full bg-blue-600 hover:bg-blue-700 text-lg py-6">
-              Ver Antecedentes
-            </Button>
-          </Link>
-          <Link href="/character-creator" className="flex-1">
-            <Button variant="outline" className="w-full border-slate-600 hover:bg-slate-800 text-lg py-6">
-              Criar Personagem
-            </Button>
-          </Link>
-        </div>
+        {activeTab === 'generic' && (
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {genericTalents.map((talent) => (
+              <Card key={talent.id} className="bg-slate-800 border-slate-700 hover:border-purple-500 transition-all">
+                <CardHeader>
+                  <div className="flex justify-between items-start mb-2">
+                    <span className={`text-[10px] uppercase font-black px-2 py-0.5 rounded border ${getRarityColor(talent.rarity)}`}>
+                      {talent.rarity}
+                    </span>
+                    <span className="text-xs font-bold text-slate-500 uppercase">{talent.category}</span>
+                  </div>
+                  <CardTitle className="text-xl font-bold text-white">{talent.name}</CardTitle>
+                </CardHeader>
+                <CardContent className="space-y-4">
+                  <p className="text-slate-400 text-sm">{talent.description}</p>
+                  <div className="p-3 bg-purple-900/10 rounded border border-purple-500/20">
+                    <h4 className="text-xs font-bold text-purple-400 uppercase mb-1">Efeito</h4>
+                    <p className="text-sm text-slate-200">{talent.mechanicEffect}</p>
+                  </div>
+                  {talent.prerequisites.length > 0 && (
+                    <div>
+                      <h4 className="text-xs font-bold text-slate-500 uppercase mb-2">Pré-requisitos</h4>
+                      <div className="flex flex-wrap gap-2">
+                        {talent.prerequisites.map((pre, i) => (
+                          <span key={i} className="text-[10px] bg-slate-900 px-2 py-1 rounded text-slate-400 border border-slate-700">
+                            {pre.description}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                </CardContent>
+              </Card>
+            ))}
+          </div>
+        )}
+
+        {activeTab === 'rules' && (
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <Card className="bg-slate-800 border-slate-700">
+              <CardHeader>
+                <CardTitle className="text-orange-400 flex items-center gap-2">
+                  <Zap /> Cálculo de Custo (EP)
+                </CardTitle>
+              </CardHeader>
+              <CardContent className="space-y-6">
+                <div>
+                  <h4 className="font-bold text-white mb-2">Habilidades Ofensivas</h4>
+                  <div className="p-4 bg-slate-900 rounded-lg border border-orange-500/30 text-center mb-4">
+                    <code className="text-lg text-orange-400">{epCalculation.offensive.formula}</code>
+                  </div>
+                  <div className="space-y-2">
+                    {epCalculation.offensive.examples.map((ex, i) => (
+                      <div key={i} className="flex justify-between text-sm text-slate-300 p-2 bg-slate-700/30 rounded">
+                        <span>{ex.name}</span>
+                        <span className="font-bold">{ex.cost} EP</span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+                <div>
+                  <h4 className="font-bold text-white mb-2">Redutores de Custo</h4>
+                  <div className="grid grid-cols-1 gap-2">
+                    {epCalculation.offensive.modifiers.map((mod, i) => (
+                      <div key={i} className="flex justify-between text-sm text-slate-300 p-2 bg-green-900/10 border border-green-500/20 rounded">
+                        <span>{mod.effect}</span>
+                        <span className="font-bold text-green-400">{mod.mod} EP</span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              </CardContent>
+            </Card>
+
+            <Card className="bg-slate-800 border-slate-700">
+              <CardHeader>
+                <CardTitle className="text-blue-400 flex items-center gap-2">
+                  <Shield /> Habilidades Utilitárias
+                </CardTitle>
+              </CardHeader>
+              <CardContent>
+                <div className="space-y-3">
+                  {epCalculation.utility.map((item, i) => (
+                    <div key={i} className="flex justify-between items-center p-3 bg-slate-900/50 rounded border border-slate-700">
+                      <span className="text-sm text-slate-300">{item.effect}</span>
+                      <span className="text-sm font-bold text-blue-400">{item.cost} EP</span>
+                    </div>
+                  ))}
+                </div>
+                <div className="mt-8 p-4 bg-blue-900/10 border border-blue-500/20 rounded-lg">
+                  <h4 className="text-sm font-bold text-blue-400 mb-2">Nota do Mestre</h4>
+                  <p className="text-xs text-slate-400 leading-relaxed">
+                    Habilidades passivas não possuem custo de EP, mas devem ser equilibradas com penalidades situacionais ou limites de uso por descanso longo.
+                  </p>
+                </div>
+              </CardContent>
+            </Card>
+          </div>
+        )}
       </div>
     </div>
   );

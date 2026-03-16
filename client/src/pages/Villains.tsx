@@ -2,192 +2,246 @@ import { useState } from "react";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
-import { villains } from "@/lib/gameData";
-import { ChevronLeft, Heart, Shield, Sword } from "lucide-react";
+import { villains } from "@/lib/villainsData";
+import { ChevronLeft, Heart, Shield, Sword, Skull, Zap, Sparkles, Target, Info } from "lucide-react";
+import { motion, AnimatePresence } from "framer-motion";
 
 export default function Villains() {
-  const [selectedVillain, setSelectedVillain] = useState(villains[0]);
+  const [selectedVillain, setSelectedVillain] = useState(villains?.[0] || null);
 
-  const getThreatColor = (threat: string) => {
-    switch (threat) {
-      case "Ameaça Cósmica":
-        return "text-red-500";
-      case "Ameaça Extrema":
-        return "text-orange-500";
-      case "Ameaça Global":
-        return "text-yellow-500";
+  if (!selectedVillain || !villains || villains.length === 0) {
+    return (
+      <div className="min-h-screen bg-gradient-to-br from-slate-950 via-blue-950 to-slate-950 text-white flex items-center justify-center">
+        <div className="text-center">
+          <h1 className="text-2xl font-bold mb-4">Nenhum vilão disponível</h1>
+          <Link href="/">
+            <Button variant="ghost" className="text-slate-300 hover:text-cyan-400">
+              <ChevronLeft className="mr-2" />
+              Voltar para Home
+            </Button>
+          </Link>
+        </div>
+      </div>
+    );
+  }
+
+  const getThreatColor = (difficulty?: string) => {
+    switch (difficulty) {
+      case "Lendário":
+        return "from-red-500 to-orange-600 shadow-red-500/20";
+      case "Extremo":
+        return "from-orange-500 to-yellow-600 shadow-orange-500/20";
+      case "Difícil":
+        return "from-yellow-500 to-amber-600 shadow-yellow-500/20";
+      case "Médio":
+        return "from-green-500 to-emerald-600 shadow-green-500/20";
       default:
-        return "text-slate-400";
+        return "from-slate-500 to-slate-600 shadow-slate-500/20";
+    }
+  };
+
+  const getThreatText = (difficulty?: string) => {
+    switch (difficulty) {
+      case "Lendário": return "text-red-400";
+      case "Extremo": return "text-orange-400";
+      case "Difícil": return "text-yellow-400";
+      case "Médio": return "text-green-400";
+      default: return "text-slate-400";
     }
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white">
+    <div className="min-h-screen bg-gradient-to-br from-slate-950 via-blue-950 to-slate-950 text-white overflow-x-hidden">
+      {/* Animated Background Blobs */}
+      <div className="fixed inset-0 -z-10 opacity-20">
+        <div className="absolute top-0 left-1/4 w-96 h-96 bg-red-600 rounded-full mix-blend-screen filter blur-3xl animate-blob"></div>
+        <div className="absolute bottom-0 right-1/4 w-96 h-96 bg-purple-600 rounded-full mix-blend-screen filter blur-3xl animate-blob animation-delay-2000"></div>
+      </div>
+
       {/* Header */}
-      <header className="border-b border-slate-700 bg-slate-900/50 backdrop-blur-sm">
-        <div className="container py-4 flex items-center gap-4">
+      <header className="border-b border-cyan-500/20 bg-slate-900/50 backdrop-blur-xl sticky top-0 z-50">
+        <div className="container py-4 flex items-center justify-between">
           <Link href="/">
-            <Button variant="ghost" size="sm" className="text-slate-300">
+            <Button variant="ghost" size="sm" className="text-slate-300 hover:text-cyan-400 hover:bg-cyan-500/10 transition">
               <ChevronLeft className="mr-2" />
               Voltar
             </Button>
           </Link>
-          <h1 className="text-2xl font-bold">Vilões Poderosos</h1>
+          <h1 className="text-2xl font-bold text-glow flex items-center gap-2">
+            <Skull className="text-red-500" /> Vilões & Ameaças
+          </h1>
+          <div className="w-20"></div> {/* Spacer */}
         </div>
       </header>
 
       <div className="container py-12">
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-          {/* Villains List */}
-          <div className="lg:col-span-1">
-            <h2 className="text-xl font-bold mb-4">Ameaças Disponíveis</h2>
-            <div className="space-y-2">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
+          {/* Villains List Sidebar */}
+          <div className="lg:col-span-4 xl:col-span-3">
+            <h2 className="text-xl font-bold mb-6 flex items-center gap-2">
+              <Target className="text-cyan-400" /> Ameaças Ativas
+            </h2>
+            <div className="space-y-3 max-h-[70vh] overflow-y-auto pr-2 custom-scrollbar">
               {villains.map((villain) => (
-                <button
+                <motion.button
                   key={villain.id}
+                  whileHover={{ scale: 1.02 }}
+                  whileTap={{ scale: 0.98 }}
                   onClick={() => setSelectedVillain(villain)}
-                  className={`w-full text-left p-3 rounded-lg transition ${
-                    selectedVillain.id === villain.id
-                      ? "bg-red-600 border border-red-500"
-                      : "bg-slate-800 border border-slate-700 hover:border-slate-600"
+                  className={`w-full text-left p-4 rounded-xl transition-all duration-300 glass border ${
+                    selectedVillain?.id === villain.id
+                      ? "border-cyan-500 bg-cyan-500/10 shadow-[0_0_15px_rgba(6,182,212,0.2)]"
+                      : "border-white/10 hover:border-white/20 bg-white/5"
                   }`}
                 >
-                  <div className="flex items-center gap-2">
-                    <span className="text-2xl">😈</span>
-                    <div>
-                      <div className="font-semibold text-sm">{villain.name}</div>
-                      <div className="text-xs text-slate-400">
-                        Nível {villain.level} • {villain.threat}
+                  <div className="flex items-center gap-4">
+                    <div className={`w-12 h-12 rounded-lg flex items-center justify-center text-2xl bg-gradient-to-br ${getThreatColor(villain.difficulty)}`}>
+                      {villain.icon || "😈"}
+                    </div>
+                    <div className="flex-1 min-w-0">
+                      <div className="font-bold text-sm truncate">{villain.name}</div>
+                      <div className={`text-xs font-semibold ${getThreatText(villain.difficulty)}`}>
+                        {villain.difficulty}
                       </div>
                     </div>
+                    {selectedVillain?.id === villain.id && (
+                      <motion.div layoutId="active-indicator" className="w-1.5 h-1.5 rounded-full bg-cyan-400 shadow-[0_0_8px_#22d3ee]" />
+                    )}
                   </div>
-                </button>
+                </motion.button>
               ))}
             </div>
           </div>
 
-          {/* Villain Details */}
-          <div className="lg:col-span-2">
-            <Card className="bg-slate-800 border-slate-700 p-8">
-              {/* Villain Header */}
-              <div className="mb-8 pb-8 border-b border-slate-700">
-                <div className="mb-4">
-                  <p className={`text-sm font-bold mb-2 ${getThreatColor(selectedVillain.threat)}`}>
-                    {selectedVillain.threat}
-                  </p>
-                  <h3 className="text-4xl font-bold mb-2">{selectedVillain.name}</h3>
-                  <p className="text-slate-400 italic mb-4">
-                    "{selectedVillain.quote}"
-                  </p>
-                  <div className="flex gap-4 text-sm">
-                    <span className="bg-slate-700 px-3 py-1 rounded">
-                      Nível {selectedVillain.level}
-                    </span>
-                    <span className="bg-slate-700 px-3 py-1 rounded">
-                      {selectedVillain.title}
-                    </span>
-                  </div>
-                </div>
-              </div>
-
-              {/* Stats */}
-              <div className="mb-8 pb-8 border-b border-slate-700">
-                <h4 className="text-lg font-bold mb-4">Estatísticas</h4>
-                <div className="grid grid-cols-2 gap-4">
-                  <div className="bg-slate-700/50 p-4 rounded-lg">
-                    <div className="flex items-center gap-2 mb-2">
-                      <Heart className="w-5 h-5 text-red-500" />
-                      <span className="text-sm text-slate-400">Pontos de Vida</span>
+          {/* Villain Details Main Area */}
+          <div className="lg:col-span-8 xl:col-span-9">
+            <AnimatePresence mode="wait">
+              <motion.div
+                key={selectedVillain.id}
+                initial={{ opacity: 0, x: 20 }}
+                animate={{ opacity: 1, x: 0 }}
+                exit={{ opacity: 0, x: -20 }}
+                transition={{ duration: 0.3 }}
+              >
+                <Card className="glass-card-dark border-cyan-500/20 overflow-hidden">
+                  {/* Villain Hero Header */}
+                  <div className="relative p-8 pb-0">
+                    <div className="absolute top-0 right-0 p-8 opacity-10">
+                      <Skull size={120} />
                     </div>
-                    <p className="text-3xl font-bold text-red-400">
-                      {selectedVillain.hp}
-                    </p>
-                  </div>
-                  <div className="bg-slate-700/50 p-4 rounded-lg">
-                    <div className="flex items-center gap-2 mb-2">
-                      <Shield className="w-5 h-5 text-blue-500" />
-                      <span className="text-sm text-slate-400">
-                        Classe de Armadura
-                      </span>
-                    </div>
-                    <p className="text-3xl font-bold text-blue-400">
-                      {selectedVillain.ca}
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              {/* Attacks */}
-              <div className="mb-8 pb-8 border-b border-slate-700">
-                <h4 className="text-lg font-bold mb-4 flex items-center gap-2">
-                  <Sword className="w-5 h-5 text-orange-400" />
-                  Ataques
-                </h4>
-                <div className="space-y-4">
-                  {selectedVillain.attacks.map((attack, idx) => (
-                    <div
-                      key={idx}
-                      className="bg-slate-700/50 p-4 rounded-lg border-l-4 border-orange-500"
-                    >
-                      <h5 className="font-semibold text-orange-300 mb-2">
-                        {attack.name}
-                      </h5>
-                      <div className="space-y-1 text-sm text-slate-300">
-                        <p>
-                          <span className="text-slate-400">Bônus:</span> +
-                          {attack.bonus}
-                        </p>
-                        <p>
-                          <span className="text-slate-400">Dano:</span>{" "}
-                          {attack.damage}
-                        </p>
-                        {attack.effect && (
-                          <p>
-                            <span className="text-slate-400">Efeito:</span>{" "}
-                            {attack.effect}
-                          </p>
-                        )}
+                    
+                    <div className="relative z-10">
+                      <div className={`inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider mb-4 bg-gradient-to-r ${getThreatColor(selectedVillain.difficulty)} text-white shadow-lg`}>
+                        <Zap size={14} /> Ameaça {selectedVillain.difficulty}
                       </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
+                      
+                      <h3 className="text-5xl font-black mb-4 text-glow tracking-tight">
+                        {selectedVillain.name}
+                      </h3>
+                      
+                      <div className="flex items-center gap-3 mb-6">
+                        <span className="px-3 py-1 rounded bg-white/10 border border-white/10 text-cyan-300 text-sm font-medium">
+                          {selectedVillain.title}
+                        </span>
+                      </div>
 
-              {/* Abilities */}
-              <div className="mb-8 pb-8 border-b border-slate-700">
-                <h4 className="text-lg font-bold mb-4">Habilidades Especiais</h4>
-                <div className="space-y-4">
-                  {selectedVillain.abilities.map((ability, idx) => (
-                    <div
-                      key={idx}
-                      className="bg-slate-700/50 p-4 rounded-lg border-l-4 border-purple-500"
-                    >
-                      <h5 className="font-semibold text-purple-300 mb-1">
-                        ⚡ {ability.name}
-                      </h5>
-                      <p className="text-slate-300 text-sm">
-                        {ability.description}
+                      <p className="text-xl text-slate-300 italic leading-relaxed max-w-3xl border-l-4 border-cyan-500/50 pl-6 py-2">
+                        "{selectedVillain.description}"
                       </p>
                     </div>
-                  ))}
-                </div>
-              </div>
+                  </div>
 
-              {/* Weakness */}
-              <div>
-                <h4 className="text-lg font-bold mb-3 text-yellow-400">
-                  🎯 Fraqueza
-                </h4>
-                <div className="bg-yellow-900/20 p-4 rounded-lg border border-yellow-700/50">
-                  <p className="text-slate-300 text-sm">
-                    {selectedVillain.weakness}
-                  </p>
-                </div>
-              </div>
-            </Card>
+                  <div className="p-8 grid grid-cols-1 xl:grid-cols-2 gap-8">
+                    {/* Left Column: Stats & Info */}
+                    <div className="space-y-8">
+                      <section>
+                        <h4 className="text-sm font-bold uppercase tracking-widest text-cyan-400 mb-4 flex items-center gap-2">
+                          <Sparkles size={16} /> Atributos de Combate
+                        </h4>
+                        <div className="grid grid-cols-3 gap-4">
+                          <div className="glass p-4 rounded-xl border-white/5 text-center group hover:border-red-500/30 transition-colors">
+                            <Heart className="w-5 h-5 text-red-500 mx-auto mb-2 group-hover:scale-110 transition-transform" />
+                            <div className="text-xs text-slate-400 uppercase font-bold">Vida</div>
+                            <div className="text-2xl font-black text-red-400">{selectedVillain.stats?.hp}</div>
+                          </div>
+                          <div className="glass p-4 rounded-xl border-white/5 text-center group hover:border-blue-500/30 transition-colors">
+                            <Shield className="w-5 h-5 text-blue-500 mx-auto mb-2 group-hover:scale-110 transition-transform" />
+                            <div className="text-xs text-slate-400 uppercase font-bold">Defesa</div>
+                            <div className="text-2xl font-black text-blue-400">{selectedVillain.stats?.ca}</div>
+                          </div>
+                          <div className="glass p-4 rounded-xl border-white/5 text-center group hover:border-orange-500/30 transition-colors">
+                            <Sword className="w-5 h-5 text-orange-500 mx-auto mb-2 group-hover:scale-110 transition-transform" />
+                            <div className="text-xs text-slate-400 uppercase font-bold">Ataque</div>
+                            <div className="text-2xl font-black text-orange-400">{selectedVillain.stats?.attack}</div>
+                          </div>
+                        </div>
+                      </section>
+
+                      <section>
+                        <h4 className="text-sm font-bold uppercase tracking-widest text-cyan-400 mb-4 flex items-center gap-2">
+                          <Info size={16} /> Lore & Comportamento
+                        </h4>
+                        <div className="glass p-6 rounded-xl border-white/5 text-slate-300 text-sm leading-relaxed">
+                          {selectedVillain.description}
+                        </div>
+                      </section>
+                    </div>
+
+                    {/* Right Column: Abilities */}
+                    <div>
+                      <h4 className="text-sm font-bold uppercase tracking-widest text-cyan-400 mb-4 flex items-center gap-2">
+                        <Zap size={16} /> Habilidades Especiais
+                      </h4>
+                      <div className="space-y-4">
+                        {selectedVillain.abilities?.map((ability, idx) => (
+                          <motion.div
+                            key={idx}
+                            initial={{ opacity: 0, y: 10 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ delay: idx * 0.1 }}
+                            className="glass p-5 rounded-xl border-white/5 hover:border-cyan-500/30 transition-all group"
+                          >
+                            <div className="flex items-start gap-4">
+                              <div className="w-10 h-10 rounded-lg bg-cyan-500/10 flex items-center justify-center text-cyan-400 group-hover:bg-cyan-500 group-hover:text-white transition-colors">
+                                <Zap size={20} />
+                              </div>
+                              <div className="flex-1">
+                                <h5 className="font-bold text-cyan-300 mb-1 group-hover:text-cyan-100 transition-colors">
+                                  {ability.name}
+                                </h5>
+                                <p className="text-slate-400 text-sm leading-relaxed group-hover:text-slate-200 transition-colors">
+                                  {ability.effect}
+                                </p>
+                              </div>
+                            </div>
+                          </motion.div>
+                        ))}
+                      </div>
+                    </div>
+                  </div>
+                </Card>
+              </motion.div>
+            </AnimatePresence>
           </div>
         </div>
       </div>
+
+      <style>{`
+        .custom-scrollbar::-webkit-scrollbar {
+          width: 4px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-track {
+          background: rgba(255, 255, 255, 0.05);
+          border-radius: 10px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+          background: rgba(6, 182, 212, 0.3);
+          border-radius: 10px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+          background: rgba(6, 182, 212, 0.5);
+        }
+      `}</style>
     </div>
   );
 }

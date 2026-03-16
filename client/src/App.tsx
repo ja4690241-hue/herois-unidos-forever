@@ -23,6 +23,10 @@ import CombatSimulator from "./pages/CombatSimulator";
 import MasterCode from "./pages/MasterCode";
 import Talents from "./pages/Talents";
 import Backgrounds from "./pages/Backgrounds";
+import Skills from "./pages/Skills";
+import EvolutionPoints from "./pages/EvolutionPoints";
+import Passives from "./pages/Passives";
+import ClassAbilities from "./pages/ClassAbilities";
 
 
 function Router() {
@@ -34,9 +38,11 @@ function Router() {
       <Route path="/combat-rules" component={CombatRules} />
       <Route path="/character-creator" component={CharacterCreator} />
       <Route path="/evolution" component={Evolution} />
+      <Route path="/evolution-points" component={EvolutionPoints} />
       <Route path="/rules" component={Rules} />
       <Route path="/classes" component={Classes} />
       <Route path="/equipment" component={Equipment} />
+      <Route path="/skills" component={Skills} />
       <Route path="/skill-trees" component={SkillTrees} />
       <Route path="/progression" component={Progression} />
       <Route path="/class-progression" component={ClassProgression} />
@@ -47,6 +53,8 @@ function Router() {
       <Route path="/master-code" component={MasterCode} />
       <Route path="/talents" component={Talents} />
       <Route path="/backgrounds" component={Backgrounds} />
+      <Route path="/passives" component={Passives} />
+      <Route path="/class-abilities" component={ClassAbilities} />
       <Route path="/404" component={NotFound} />
       {/* Final fallback route */}
       <Route component={NotFound} />

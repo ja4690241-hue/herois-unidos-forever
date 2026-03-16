@@ -1,0 +1,2671 @@
+**regeneram metade do HP
+
+🌟
+
+—--------------------------------------------------------------------------------​
+Árvores de Habilidades e Especializações​
+Como Funciona?​
+Exemplo​
+1️⃣ Cada classe tem pelo menos 3 árvores de habilidades.​
+2️⃣ A cada níveis específicos (ex: 3, 5, 10,), o jogador
+escolhe habilidades dentro da árvore.​
+3️⃣ Algumas habilidades exigem pré-requisitos para serem
+liberadas
+
+🌳
+
+Árvores de Habilidades por Classe
+Blaster (Atacante à Distância)
+
+💥 Exemplo de Árvore:
+Precisão Mortal → Foca em dano
+crítico e tiros certeiros.​
+💨 Árvore: Velocidade
+Relâmpago → Dá movimentação
+extra e ataques rápidos.​
+🔋 Árvore:
+Sobrecarga Tecnológica → Usa armas
+energéticas com efeitos especiais.
+Exemplo de Habilidades:​
+✔ (Nível 3) Mira Laser: +2 em ataques à distância.​
+✔ (Nível 6) Disparo Duplo: Atira duas vezes no mesmo
+turno.​
+✔ (Nível 10) Sniper Perfeito: Se ficar parado, ignora 50%
+da CA do alvo
+Mutante Evolutivo
+
+🦸 Árvore: Adaptação Genética
+→ Aumenta resistências e
+cura.​
+👹 Árvore: Mutação
+Ofensiva → Ganha garras, presas,
+rajadas bioenergéticas.​
+🧠 Árvore: Evolução
+Mental → Poderes psíquicos e
+controle biológico.
+
+Exemplo de Habilidades:​
+✔ (Nível 3) Pele Endurecida: +1 CA natural.​
+✔ (Nível 6) Regeneração Rápida: Cura 5 HP por turno se
+abaixo de 50%.​
+✔ (Nível 10) Forma Suprema: Pode se transformar em uma
+versão aprimorada temporariamente
+Fantasma/Sombra
+
+👻 Árvore: Intangibilidade
+Avançada → Atravesse paredes
+e evite ataques.​
+🌑 Árvore: Mestre ataques
+das Sombras → Controle sombras para
+e furtividade.​
+🌀 Árvore: Ilusãoconfunda
+Fantasmagórica → Crie duplicatas e
+inimigos.
+​
+✔ (Nível 3) Invisibilidade Parcial: +3 em furtividade.​
+✔ (Nível 6) Forma Etérea: Pode atravessar ataques 1x por
+combate.​
+✔ (Nível 10) Viagem Sombria: Teletransporte entre
+sombras.
+
+🔥 Árvore baseados
+de Poder Elemental (Para personagens com poderes
+em fogo, gelo, eletricidade, etc.)
+
+Nível 1 - Controle Elemental (Pré-requisito: Nível 1+ e
+Afinidade Elemental) – Escolha um elemento; seus
+ataques ganham +1d4 de dano desse tipo.​
+Nível 2 - Resistência Elemental (Pré-requisito: Nível 3+ e
+Controle Elemental) – Você recebe resistência ao mesmo
+tipo de dano do seu elemento.​
+Nível 3 - Rajada Elemental (Pré-requisito: Nível 5+ e
+Resistência Elemental) – Você pode gastar 2 pontos de
+energia para liberar uma explosão elemental em um raio de
+3 metros.​
+Nível 4 - Imunidade Elemental (Pré-requisito: Nível 10+ e
+Rajada Elemental) – Agora você se torna imune ao seu
+próprio elemento.​
+Nível 5 - Avatar Elemental (Pré-requisito: Nível 15+ e
+Imunidade Elemental) – Você pode entrar em um estado
+onde ganha +2 CA e +2 de dano com seu elemento por 1
+minuto.
+
+⚔ Árvore do Guerreiro Supremo (Para lutadores corpo a corpo e
+especialistas em combate físico.)
+
+Nível 1 - Ataque Poderoso (Pré-requisito: Força 12+) –
+Reduza sua precisão em -2 para causar +4 de dano.​
+Nível 2 - Postura Defensiva (Pré-requisito: Constituição
+12+ e Nível 3+) – Ao gastar 1 EP, recebe +2 CA por 1 turno.​
+Nível 3 - Investida Brutal (Pré-requisito: Força 14+ e Nível
+5+) – Se você se mover pelo menos 3 metros antes de
+atacar, causa dano dobrado.​
+Nível 4 - Ataque Devastador (Pré-requisito: Força 16+ e
+Nível 8+) – Uma vez por combate, pode causar o triplo de
+dano com um ataque bem-sucedido.​
+Nível 5 - Modo Berserker (Pré-requisito: Constituição 18+ e
+Nível 12+) – Entra em fúria extrema, ganhando +4 no dano
+e +2 em testes físicos, mas sofrendo -2 na CA
+
+🛠️ Como Criar Novas Árvores?
+1️⃣ Escolha 3 especializações para cada classe.​
+2️⃣ Defina habilidades iniciais fáceis de acessar.​
+3️⃣ Adicione habilidades mais poderosas nos níveis
+avançados.​
+4️⃣ Dê pré-requisitos para habilidades mais fortes
+​
+—--------------------------------------------------------------------------------​
+Antecedentes​
+​
+1. Cientista Genial
+
+⭐
+
+🧪🔬
+
+"Você sempre esteve à frente do seu tempo, criando
+invenções inovadoras ou descobrindo segredos do
+universo."
+●​ Perícias: Investigação, Tecnologia.
+●​ Equipamento Inicial: Ferramentas científicas, tablet de
+dados, laboratório portátil.
+●​ Habilidade Especial: Mente Brilhante – Você pode
+gastar 1 ponto de energia para entender rapidamente
+o funcionamento de qualquer tecnologia ou criatura
+desconhecida.
+2. Guerreiro de Elite
+
+⚔️🔥
+
+"Treinado desde jovem para a batalha, você conhece os
+caminhos da guerra e da disciplina."
+●​ Perícias: Atletismo, Intimidação.
+●​ Equipamento Inicial: Armadura leve, espada de
+treinamento, medalhão de guerra.
+●​ Habilidade Especial: Reflexos Rápidos – Você pode
+rolar um teste de Reflexos com vantagem uma vez por
+descanso longo
+3. Escolhido por um Poder Maior
+
+✨👁️
+
+"O destino traçou um caminho especial para você, e forças
+misteriosas influenciam sua jornada."
+●​ Perícias: Religião, Intuição.
+●​ Equipamento Inicial: Amuleto sagrado, livro antigo de
+profecias, túnica mística.
+●​ Habilidade Especial: Visões do Futuro – Uma vez por
+dia, você pode fazer uma pergunta ao mestre e
+receber uma dica enigmática sobre o futuro.
+4. Agente Secreto
+
+🕶️🕵️
+
+"Missões clandestinas, espionagem e combate nas
+sombras fazem parte do seu passado."
+●​ Perícias: Furtividade, Enganação.
+●​ Equipamento Inicial: Comunicações criptografadas,
+traje camuflado, arma discreta.
+●​ Habilidade Especial: Cobertura Perfeita – Você pode
+se esconder em plena luz do dia uma vez por
+descanso curto
+5. Aventureiro Espacial
+
+🚀🛸
+
+"Você já explorou os confins do espaço e encontrou
+mistérios além da imaginação."
+●​ Perícias: Pilotagem, Sobrevivência.
+●​ Equipamento Inicial: Traje pressurizado, comunicador
+interestelar, mapa galáctico.
+●​ Habilidade Especial: Conhecimento Cósmico – Você
+sempre sabe onde está e pode identificar espécies
+alienígenas comuns sem testes
+6. Ex-Vilão Redimido
+
+😈⚡
+
+"Seu passado sombrio está atrás de você, mas sua
+experiência ainda é uma arma poderosa."
+●​ Perícias: Intimidação, Persuasão.
+
+●​ Equipamento Inicial: Relíquia de seu passado
+vilanesco, capa escura, máscara antiga.
+●​ Habilidade Especial: Sombra do Passado – Uma vez
+por dia, você pode convencer um inimigo de que
+ainda é um vilão, fazendo-o hesitar ou revelar
+informações
+7. Humano Comum (Ou Quase)
+
+🤔🌎
+
+"Você é apenas uma pessoa normal… Ou pelo menos era,
+até entrar nesse mundo de heróis."
+●​ Perícias: Persuasão, Percepção.
+●​ Equipamento Inicial: Smartphone, carteira de
+identidade, uma lembrança de casa.
+●​ Habilidade Especial: Força de Vontade – Você pode
+substituir qualquer teste de atributo por um teste de
+Carisma uma vez por descanso longo
+
+8. Portador de um Artefato Poderoso
+
+🏆🔮
+
+"Você encontrou ou foi escolhido por um artefato de
+imenso poder, que mudou sua vida para sempre."
+●​ Perícias: Arcano, Investigação.
+●​ Equipamento Inicial: Artefato misterioso (Omnitrix,
+Miraculous, Relíquia Alienígena, etc.), diário de
+anotações, luvas especiais.
+●​ Habilidade Especial: Sinergia com o Artefato – Você
+pode gastar 1 ponto de energia para ativar uma
+habilidade única do seu artefato por 1 turno
+9. Criado por uma Organização Secreta
+
+🏛️🕴️
+
+"Desde jovem, você foi moldado por uma instituição
+misteriosa, seja para o bem ou para o mal."
+●​ Perícias: Intimidação, Investigação.
+
+●​ Equipamento Inicial: Identificação da organização,
+traje especial, contato anônimo.
+●​ Habilidade Especial: Treinamento Secreto – Escolha
+uma perícia; você ganha proficiência nela e pode rolar
+com vantagem uma vez por descanso longo
+10. Sobrevivente de um Mundo Perdido
+
+🌋🏹
+
+"Você veio de uma realidade alternativa, um reino perdido
+ou um planeta destruído."
+●​ Perícias: Sobrevivência, Intuição.
+●​ Equipamento Inicial: Arma primitiva ou exótica,
+fragmento do seu mundo, mapa antigo.
+●​ Habilidade Especial: Vontade de Ferro – Você pode
+gastar 1 ponto de energia para rolar novamente um
+teste de resistência contra medo ou encanto
+11. Estudante de Magia ou Ciências Ocultas
+
+📜🔥
+
+"Você dedicou sua vida ao estudo dos segredos do
+universo, seja magia, ciência ou ambos."
+●​ Perícias: Arcano, História.
+●​ Equipamento Inicial: Grimório ou caderno de
+anotações, conjunto de runas ou reagentes mágicos,
+óculos de leitura.
+●​ Habilidade Especial: Conhecimento Proibido – Você
+pode gastar 1 ponto de energia para lembrar de uma
+informação obscura sobre um ser, local ou fenômeno
+sobrenatural
+12. Piloto de Elite
+
+🚗✈️
+
+"Seja no ar, na terra ou no espaço, ninguém pilota como
+você."
+●​ Perícias: Pilotagem, Reflexos.
+●​ Equipamento Inicial: Chave de um veículo especial,
+traje de piloto, óculos de proteção.
+
+●​ Habilidade Especial: Reação Relâmpago – Você pode
+gastar 1 ponto de energia para agir primeiro na ordem
+de iniciativa
+13. Detetive Paranormal
+
+🕵️‍♂️👻
+
+"Você investiga eventos inexplicáveis, lidando com o que
+a maioria considera lendas ou boatos."
+●​ Perícias: Percepção, Investigação.
+●​ Equipamento Inicial: Gravador de voz, lanterna UV, kit
+de exorcismo ou caçador de fantasmas.​
+●​ Habilidade Especial: Olho para o Oculto – Você pode
+gastar 1 ponto de energia para ver criaturas invisíveis
+ou detectar magia por 1 minuto
+14. Humano Modificado por um Experimento
+
+🧬🦠
+
+"Seu corpo foi alterado, seja por acidente, ciência ou
+intenção, te dando habilidades únicas."
+Perícias: Medicina, Reflexos.
+Equipamento Inicial: Frasco com uma amostra de seu
+próprio DNA alterado, equipamento médico
+improvisado, diário de registros.
+Habilidade Especial: Regeneração Parcial – Uma vez
+por descanso curto, você pode recuperar 1d10 pontos
+de vida como ação bônus​
+​
+15. # : : : Antecedente: Experimento Fracassado
+
+🧬🦠
+
+"Você foi criado, alterado ou aprimorado por mãos
+ambiciosas — mas algo deu errado."​
+Medicina​
+Furtividade​
+Equipamento Inicial:​
+Frasco com uma substância instável​
+Registro incompleto do experimento​
+Uniforme ou contenção do laboratório de origem​
+Habilidade Especial:
+Instabilidade Mutagênica →
+➤ Você pode gastar 1 ponto de energia (EP) para
+ganhar vantagem em um teste de resistência de
+Constituição ou causar +1d4 de dano adicional em um
+ataque corpo a corpo. Após usar, role 1d6: se sair 1,
+você sofre 1d4 de dano devido à instabilidade.​
+​
+Ideal para personagens marcados pelo passado,
+fugidos de laboratórios, ou com poderes
+imprevisíveis
+
+🏹:🌲: Antecedente: Guardião Selvagem
+
+16.## :
+
+"Você cresceu em meio à natureza indomada,
+protegendo florestas, montanhas ou ruínas
+esquecidas."
+** Perícias:**
+Sobrevivência
+Atletismo
+** Equipamento Inicial:**
+- Arma rústica (arco, lança ou machado)
+- Capa de camuflagem natural
+- Talismã protetor da natureza
+
+** Habilidade Especial:**
+**Instinto Primitivo** →
+➤ Você pode gastar **1 ponto de energia (EP)** para
+**detectar automaticamente** a presença de
+**criaturas escondidas ou emboscadas** num raio de
+**12 metros**.
+Ideal para personagens **solitários**, **protetores da
+natureza** ou com forte ligação com o **mundo
+selvagem**
+
+🦸🗡️
+
+17.##
+Antecedente: Anti-Herói​
+"Você luta pelo bem... mas do seu jeito. Suas ações
+nem sempre são nobres, mas seus resultados são
+inegáveis."
+**Perícias:**
+Intimidação
+Furtividade
+** Equipamento Inicial:**
+- Capa ou casaco longo
+- Arma oculta (adaga ou pistola)
+- Símbolo pessoal ou marca registrada
+** Habilidade Especial:**
+**Moral Duvidosa** →
+➤ Você pode gastar **1 ponto de energia (EP)** para
+**ignorar penalidades sociais** e **intimidar** ou
+**persuadir** alguém automaticamente em situações
+onde o risco é evidente.
+
+Ideal para personagens com **zonas cinzentas**,
+**vigilantes**, **mercenários** ou que operam **fora
+das regras**!
+
+🫅
+
+18. ## Antecedente: Legado​
+_"Você carrega o nome e o fardo de uma linhagem
+lendária. Seja herdeiro de um herói, vilão ou dinastia,
+seu passado molda seu presente."_ ​
+**Perícias:** ​
+História ​
+Persuasão
+** Equipamento Inicial:**
+- Insígnia ou símbolo familiar
+- Relíquia ancestral (espada, livro ou anel)
+- Documento provando sua linhagem
+
+**Habilidade Especial:**
+**Peso do Nome** →
+➤ Você pode gastar **1 ponto de energia (EP)** para
+**impor respeito ou temor** automaticamente ao se
+**apresentar com sua linhagem**, obtendo **vantagem
+em Persuasão ou Intimidação** por **1 cena**.
+
+Ideal para personagens com **heranças
+importantes**, **famílias poderosas** ou **missões
+familiares**
+19.##
+
+🎭Antecedente: Mestre do Disfarce
+
+_"Sua verdadeira identidade é um mistério. Você vive
+atrás de máscaras e personagens, manipulando o
+mundo ao seu redor."_
+** Perícias:**
+Enganação
+Furtividade
+** Equipamento Inicial:**
+- Kit de disfarces completo
+- Documento de identidade falso
+- Coleção de máscaras ou roupas temáticas
+** Habilidade Especial:**
+**Identidade Flexível** →
+➤ Você pode gastar **1 ponto de energia (EP)** para
+**assumir rapidamente uma nova identidade** e
+**enganar** qualquer observador, garantindo
+**vantagem em Enganação** ou **Furtividade** até ser
+descoberto.
+
+Ideal para personagens **espiões**, **atores**,
+**infiltradores** ou **mestres das aparências**!
+
+⚽## Antecedente: Mestre dos Esportes
+
+20.
+
+_"A disciplina, o esforço físico e a competição
+moldaram quem você é. Sua vida sempre foi movida
+por recordes e vitórias."_ ​
+** Perícias:** ​
+Atletismo ​
+Reflexos ​
+** Equipamento Inicial:** ​
+- Uniforme esportivo personalizado ​
+- Medalha ou troféu de campeonato ​
+- Kit de treino (corda, halteres ou bola) ​
+** Habilidade Especial:** ​
+**Fôlego de Campeão** → ​
+➤ Você pode gastar **1 ponto de energia (EP)** para
+**ignorar penalidades de exaustão física** por **1
+cena**, realizando proezas atléticas ou combates
+exigentes sem desvantagem. ​
+Ideal para personagens **atletas**, **combatentes
+ágeis** ou **competidores natos**!
+
+👷💡
+
+21.
+## Antecedente: Inventor Visionário​
+_"Você sempre teve a mente inquieta, criando
+engenhocas, armas ou dispositivos que mudam o
+mundo ao seu redor."_ ​
+** Perícias:** ​
+Engenharia ​
+Tecnologia ​
+** Equipamento Inicial:** ​
+- Ferramentas de precisão ​
+- Protótipo de invenção inacabada
+- Óculos de proteção ​
+** Habilidade Especial:** ​
+**Improviso Criativo** → ​
+➤ Você pode gastar **1 ponto de energia (EP)** para
+**criar rapidamente um dispositivo improvisado** que
+proporciona **vantagem em um teste** de Engenharia,
+Furtividade ou Ataque Tecnológico, conforme a
+situação.
+
+Ideal para personagens **criativos**, **engenheiros**,
+**hackers** ou **gênios da tecnologia**!
+
+🧙🔮
+##Antecedente: Filho do Sobrenatural​
+"Seu sangue carrega traços místicos ou
+
+21.
+
+monstruosos. Desde cedo, habilidades estranhas
+despertaram dentro de você."​
+Perícias:​
+Intuição​
+Arcano​
+Equipamento Inicial:​
+Amuleto que suprime ou canaliza seus poderes​
+Diário de manifestações sobrenaturais​
+Capa ou vestimenta com símbolos protetores​
+Habilidade Especial:​
+Despertar Sobrenatural →​
+➤ Você pode gastar 1 ponto de energia (EP) para
+ativar um poder inato (como resistência elemental,
+visão no escuro ou aumento temporário de força) por
+1 minuto​
+Ideal para personagens com linhagem mística,
+heranças monstruosas ou poderes ocultos!
+
+🔥
+
+—----------------------------------------------------------------------------​
+SISTEMA DE PODERES ESPECIAIS & MAGIA​
+1️⃣ Como os Poderes Fazer
+###
+
+✅ 1. **Classificação Essencial*
+➤ **Categoria:**
+
+- **Ofensivo:** Focado em dano ou debuff.
+- **Defensivo:** Focado em proteção, resistência ou cura.
+- **Utilitário:** Focado em mobilidade, manipulação ou
+suporte.
+
+➤ **Tipo:**
+- **Passivo:** Sempre ativo, sem custo.
+- **Ativo:** Precisa ser ativado, consome EP.
+- **Reação:** Usado fora do turno, normalmente consome
+EP.
+###
+
+✅ 2. **Logo abaixo**
+
+## :zap: SISTEMA AJUSTADO: Custo de Energia (EP) para
+Poderes/Magias
+
+### :white_check_mark: Como calcular o **Custo de EP**?
+
+O custo agora depende diretamente da **força/dano** ou
+da **complexidade do efeito**.
+### :white_check_mark: 1. Para **Poderes Ofensivos**
+(com dano)
+
+➤ **Fórmula Base:**
+**(Total de dano em dados x 5) = Custo de EP**
+**Exemplos:**
+- **Magia Fraca:** Lança de Fogo (2d6 + Poder) → **2x5 =
+10 EP**
+- **Magia Média:** Raio Congelante (4d6 + Poder) → **4x5 =
+20 EP**
+- **Magia Forte:** Lança Solar (5d6 + Poder) → **5x5 = 25
+EP**
+
+:white_check_mark: **Opcional:** Pode reduzir o custo se
+o efeito tiver:
+- **Alcance curto** (-5 EP)
+- **Tempo de conjuração longo** (-5 EP)
+- **Requer componentes raros** (-5 EP)
+
+### :white_check_mark: 2. Para **Poderes Defensivos ou
+Utilitários** (sem dano)
+
+➤ Baseie no **efeito e duração**:
+
+| **Efeito**
+
+| **Custo Padrão** |
+
+|--------------------------------------|---------------| Defesa simples (+AC ou resistência) | 10 EP por Ac |
+| Absorção ou anulação de dano
+
+| 10-15 EP
+
+| Regeneração/Auto-cura | 10 EP por 1d8
+
+|
+|
+
+| Teleporte ou voo| 10-20 EP (curta distância) |
+| Invisibilidade ou intangibilidade | 15-50 EP (por minuto) |
+### :white_check_mark: 3. Para **Poderes Passivos**
+➤ **Sem custo de EP**, mas são sempre efeitos
+**menores** ou **equilibrados**.
+➤ Para poderes passivos **muito fortes**, aplicar:
+- Penalidades situacionais
+- Limite de uso (Ex.: "X vezes por descanso")
+
+## :dart: EXEMPLO PRÁTICO:
+
+**Nome:** Lança Solar
+**Tipo:** Ativo, Ofensivo
+**Dano:** 5d6 + Poder
+**Alcance:** 15m, linha reta
+**Custo:** **25 EP**
+**Descrição:**
+Você conjura uma lança feita de pura luz solar, perfurando
+e queimando tudo em seu caminho!
+➤ Cada **2d6 de dano** → **5 EP**
+➤ Pode acumular:
+| **Dano**
+
+| **Custo** |
+
+|---------------|-----------|
+
+###
+
+✅
+
+| 2d6
+
+| 5 EP
+
+|
+
+| 4d6
+
+| 10 EP
+
+|
+
+| 6d6
+
+| 20 EP
+
+|
+
+| 8d6
+
+| 30 EP
+
+|
+
+| 10d6
+
+| 40 EP
+
+|
+
+Se quiser, pode usar outros tipos de dado (Ex.: d8), adaptando:​
+Cada 2d8 → 5 EP também.
+
+###
+
+✅###3.:white_check_mark:
+**Efeitos Secundários** ​
+
+➤ Efeitos que **aumentam a utilidade ou controle**
+também custam EP extra:
+| **Efeito**
+
+| **Custo** |
+
+|---------------------------------------|-----------|
+| Causa condição leve (Ex.: Derruba) | +5 EP
+
+|
+
+| Causa condição grave (Ex.: Paralisia)| +10 EP
+
+|
+
+| Ignora resistência/imunidade
+
+| +30 EP
+
+|
+
+| Área de efeito (cone/esfera até 6m) | +5 EP
+
+|
+
+| Área de efeito (maior que 6m)
+
+| +10 EP
+
+|
+
+| Dano contínuo (por turnos)
+
+| +5 EP
+
+|
+
+| Movimentação extra (Empurrar, puxar) | +5 EP
+| Escalável (pode aumentar o dano)
+incremento
+###
+
+|
+
+| +5 EP por
+
+✅ 4. **Teste de Resistência**
+
+➤ Define se o alvo pode evitar ou reduzir o efeito.
+- **Força:** Para resistir a puxões, agarrões.
+- **Reflexos:** Para evitar ou reduzir dano.
+- **Vontade:** Para resistir a ilusões ou efeitos mentais.
+###
+
+✅ 5. **Descreva com Estilo**
+➤ Nome marcante.
+
+➤ O que faz (em detalhes).
+➤ Como é visualmente (opcional, mas legal!).
+
+⚔️ Equipamentos,
+Itens e Artefatos​
+1️⃣ Equipamentos Básicos
+🔫 Armas
+Armas são divididas em três categorias:
+●​ Leves (rápidas, menos dano, podem ser usadas em
+duas mãos).
+●​ Médias (equilíbrio entre dano e velocidade).
+●​ Pesadas (muito dano, mas lentas)
+
+🔫 Armas Leves
+Arma
+
+Dano
+
+Crític
+o
+
+Propriedades
+
+Pistola Energética
+
+1d8
+
+19/20
+
+Ataque à distância (15/30m), 6 tiros por carga
+
+Revolver Pesado
+
+2d6
+
+20
+
+Simples, alcance (9m)
+
+Pistola Silenciada
+
+1d8
+
+19/20
+
+Ataque à distância (9m), 6 tiros por carga Furtiva, difícil de
+detectar
+
+Fuzil de Plasma
+
+2d8
+
+20
+
+Ataque à distância (30m), superaquece
+
+Adagas Gêmeas
+
+1d6 (cada)
+
+2x
+
+Ataque duplo
+
+Arco de Pulso
+
+1d8
+
+19/20
+
+Ataque silencioso, dispara flechas de energia
+
+Submetralhadora
+Compacta
+
+2d4
+
+20
+
+Rajada (pode disparar duas vezes, mas com -2 de precisão)
+
+Canivete Retrátil
+
+1d4
+
+18/20
+
+Oculto (pode ser escondido facilmente)
+
+Adaga de Energia
+
+1d6
+
+19/20
+
+Causa dano energético, pode cortar metais leves
+
+Luva Taser
+
+1d6
+
+20
+
+Pode atordoar por 1 turno (Teste de Resistência de
+Constituição)
+
+Shuriken de Carbono
+
+1d4
+
+18/20
+
+Pode ser recuperada após o ataque
+
+Nunchaku de Liga
+Metálica
+
+1d6
+
+19/20
+
+Garante um ataque bônus com -1 de dano
+
+Bastão Retrátil
+
+1d6
+
+2x
+
+Pode ser escondido facilmente
+
+Boleadeiras
+
+-
+
+-
+
+Se acertar, reduz deslocamento do alvo pela metade por 1
+turno
+
+Corrente de Espinhos
+
+2d6
+
+19/20
+
+Causa sangramento contínuo
+
+🔫 Armas Leves
+Corrente com Gancho
+
+1d8
+
+20
+
+Pode puxar inimigos e objetos
+
+Corrente Bumerangue
+
+1d6
+
+19/20
+
+Retorna ao usuário após o ataque
+
+Soco Inglês
+
+1d6
+
+19-20
+
+Atordoamento (1 turno)
+
+Espada Curta
+
+1d8
+
+20
+
+Leve, pode ser usada em combate ágil
+
+🛠️ Melhorias e Modificações
+As armas podem ser customizadas com acessórios para
+melhorar seu desempenho.
+●​
+●​
+●​
+●​
+●​
+
+🔬
+Mira Avançada (+1 em ataques à distância)
+🔇
+Silenciador (Disparo não gera alerta imediato)
+🔥
+Munição Explosiva (+1d4 de dano em área)
+⚡
+Carga Elétrica (Dano adicional de eletricidade)
+🧊 Munição Criogênica (Pode congelar um alvo por 1
+turno)
+
+🔫 Armas Médias
+Arma
+
+Dano
+
+Crítico
+
+Propriedades
+
+Espada de Energia
+
+1d10
+
+19/20
+
+Garante um ataque bônus com -1 de acerto
+
+Revolver de Combate
+
+2d8
+
+20
+
+Simples, alcance (9m)
+
+Machado de Combate
+
+1d10
+
+20
+
+Pode causar sangramento
+
+Lança de Carbono
+
+1d8
+
+19/20
+
+Alcance extra, pode ser arremessada (9m),
+
+Martelo Tático
+
+1d10
+
+2x
+
+Derruba oponentes em acertos críticos
+
+Arco de Pulso
+
+1d8
+
+19/20
+
+Ataque silencioso, dispara flechas de energia
+
+Espingarda de Combate
+
+2d6
+
+20
+
+Disparo espalhado (atinge múltiplos alvos próximos
+
+Rifle de Assalto
+
+1d10
+
+20
+
+Rajada (pode disparar duas vezes, mas com -1 de
+precisão)
+
+Bastão Energético
+
+1d8
+
+19/20
+
+Pode atordoar por 1 turno (Teste de Resistência)
+
+Lança-Chamas Compacto
+
+2d6
+
+20
+
+Dano em área, ignora coberturas leves
+
+🔫 Armas Médias
+Shuriken de Carbono
+
+1d4
+
+18/20
+
+Pode ser recuperada após o ataque
+
+Espada Bumerangue
+
+1d8
+
+19/20
+
+Garante um ataque bônus com -1 de dano
+
+Chicote de Plasma
+
+1d6
+
+2x
+
+Alcance aumentado (6m)
+
+Corrente de Ferro
+
+1d8
+
+20
+
+Alcance 3m, pode imobilizar alvos fracos
+
+Corrente Fantasma
+
+1d12
+
+19/20
+
+Atravessa barreiras
+
+Corrente com Gancho duplo
+
+2d8
+
+20
+
+Pode puxar inimigos e objetos
+
+Corrente de Fogo
+
+2d8
+
+19/20
+
+Incendeia alvos atingidos
+
+🛠️ Melhorias e Modificações
+​
+
+As armas médias podem ser customizadas para melhorar
+sua eficiência.
+
+🎯
+Mira Avançada (+1 em ataques à distância)
+🔥
+Lâmina Afiada (+1 no dano cortante)
+⚡
+Descarga Elétrica (Dano extra elétrico, chance de
+atordoar)
+●​ 🔥 Munição Explosiva (+1d4 de dano em área)
+●​
+●​
+●​
+
+🔫 Armas Pesadas
+Arma
+
+Dano
+
+Crítico
+
+Propriedades
+
+Espada Titânica
+
+2d10
+
+20
+
+Muito pesada, requer força elevada
+
+Martelo de Impacto
+
+2d12
+
+20
+
+Pode derrubar inimigos ao acertar
+
+Lança de Plasma
+
+2d8
+
+19/20
+
+Alcance longo, pode perfurar 2 alvos
+
+Lança-Mísseis
+
+3d10
+
+2x
+
+Dano em área, usa munição limitada 3
+
+Metralhadora Giratória
+
+2d6 por
+tiro
+
+20
+
+Pode disparar múltiplas vezes em um turno
+
+Canhão de Energia
+
+3d12
+
+2x
+
+Precisa recarregar após cada disparo
+
+Escopeta de Assalto
+
+3d6
+
+20
+
+Causa dano massivo a curta distância (3m)
+
+🔫 Armas Pesadas
+Espada de Vibração Pesada
+
+2d8
+
+20
+
+Vibração aumenta o dano contra armaduras +1 de dado
+
+Punho de Aço
+
+2d10
+
+19/20
+
+Pode ser embutido em uma armadura ou traje
+
+Lança-Chamas Pesado
+
+3d8
+
+20
+
+Dano em área, ignora coberturas leves
+
+Canhão de Partículas
+
+4d10
+
+20
+
+Causa dano massivo, mas esquenta rapidamente ate 3
+tiros
+
+Arpão de Titânio
+
+2d8
+
+19/20
+
+Pode prender inimigos e puxá-los
+
+Bazuca Quântica
+
+4d12
+
+2x
+
+Causa explosões energéticas em grande escala
+
+Corrente Laminada
+
+2d10
+
+20
+
+Alcance 3m,
+
+Corrente de Energia
+
+2d10
+
+19/20
+
+Pode causar choque paralisante
+
+Corrente Sísmica
+
+2d10
+
+20
+
+Pode causar tremores ao atingir o solo
+
+Corrente Quântica
+
+3d8
+
+19/20
+
+Alcance longo, pode perfurar 2 alvos
+
+🛠️ Melhorias e Modificações
+As correntes podem ser modificadas para maior eficiência:
+●​
+●​
+●​
+●​
+●​
+
+🔥
+Chamas Eternas (Dano de fogo contínuo)
+⚡
+Eletrochoque (Paralisa inimigos por 1 turno)
+🔄
+Retrátil (Pode ser escondida no braço ou cintura)
+🩸
+Veneno Mortal (Dano contínuo por 3 turnos)
+🛡️ Corrente Defensiva (+1 de CA ao usá-la para
+bloquear ataques)​
+
+⚔️Armas Exóticas
+Arma
+
+Dano
+
+Crítico
+
+Efeito Especial
+
+Espada de Luz
+
+2d8
+
+20
+
+Corta quase qualquer material, ignora armadura
+metálica
+
+Lança Sônica
+
+1d10
+
+19/20
+
+Emite ondas sônicas que atordoam o inimigo
+
+Canhão de Antimatéria
+
+4d10
+
+2x
+
+Dano massivo, mas exige 1 turno para recarregar
+
+Chakram de Plasma
+
+2d6
+
+19/20
+
+Pode ser arremessado e retorna para o usuário
+
+Besta de Gravidade
+
+2d8
+
+19/20
+
+Pode puxar ou empurrar inimigos 3 metros
+
+⚔️Armas Exóticas
+Manoplas Explosivas
+
+2d8
+
+2x
+
+Causam dano de impacto e explosão
+simultaneamente
+
+🛡️ Armaduras
+Armadura
+
+CA
+
+Efeito
+
+Roupa Tática
+
+12
+
++1 Reflexos
+
+Armadura Leve
+
+10
+
+Nenhum penalizador de velocidade
+
+Armadura Média
+
+14
+
+Reduz 3 de dano físico
+
+Armadura Pesada
+
+18
+
+Reduz 5 de dano, mas reduz mobilidade.
+
+Exotraje de Combate
+
+20
+
+Aumenta Força em +2, resistência a dano energético
+
+Armadura NeuroTech
+
+18
+
+resiste a dano psíquico
+
+Uniforme de Camuflagem
+
+10
+
+Dá invisibilidade por 3 turnos
+
+Traje do Caçador Estelar
+
+13
+
+Imune a venenos e adapta-se a qualquer ambiente
+
+Exoesqueleto de Batalha
+
+20
+
+Dá +3 em Força e resistência a dano balístico
+
+​
+​
+
+📡 Dispositivos Tecnológicos
+Dispositivo
+
+Efeito
+
+Jetpack
+
+Permite voar por até 10 minutos
+
+Óculos de
+Escaneamento
+
+Detecta inimigos escondidos
+
+Mão Cibernética
+
++1 em testes de força e manuseio de armas
+
+Propulsor de Gravidade
+
+Permite pular 3x mais alto
+
+Capa de Invisibilidade
+
+Torna invisível por 1 minuto
+
+Nano Drones de Ataque
+
+Pequenos robôs que atacam automaticamente.
+
+Pulseira de Teleporte
+
+Permite teletransporte de até 30 metros
+
+📡 Dispositivos Tecnológicos
+Gerador de Campo de
+Força
+
+Absorve 20 de dano antes de desativar
+
+Máscara de Respiração
+
+Permite respirar debaixo d’água ou em vácuo
+
+Bracelete de Superforça
+
+Aumenta Força em +3 por 1 minuto
+
+​
+
+🥩 Itens Consumíveis
+Item
+
+Efeito
+
+Poção de Cura
+
+Recupera 3d6 HP.
+
+Estimulante
+
+Aumenta velocidade em +3 por 3 turnos.
+
+Granada Sônica
+
+Causa surdez temporária em inimigos
+
+Antídoto
+
+Cura venenos e doenças
+
+Carga Energética
+
+Restaura 10 EP para usar poderes
+
+Soro de Energia
+
+Restaura completamente os Pontos de Energia (EP)
+
+Pílula de Adrenalina
+
+Dá +2 em todos os testes físicos por 1 minuto
+
+Gás Nocauteador
+
+Faz os inimigos dormirem por 2 turnos
+
+Cristal de Reanimação
+
+Ressuscita um aliado caído
+
+​
+Indisponível nenhum player pode pega
+2️⃣ Artefatos Especiais
+Artefato
+
+Efeito Especial
+
+Omni-Núcleo
+
+Permite transformar-se em diferentes formas alienígenas
+
+Miraculous
+
+Dá habilidades mágicas
+
+Espada Dimensional
+
+Corta através do espaço-tempo
+
+Luvas Titânicas
+
+Concede força sobre-humana
+
+Anel Celestial
+
+Permite controlar a gravidade
+
+2️⃣ Artefatos Especiais
+Espada Celestial
+
+Causa dano radiante e pode cortar a escuridão
+
+3️⃣ Implantes Biotecnológicos
+Implante
+
+Efeito
+
+Olhos Cibernéticos
+
+Visão noturna e infravermelha
+
+Pele de Titânio
+
+Redução de dano físico em 3 pontos
+
+Coração Energético
+
+Regenera 5 HP por turno
+
+Processador Neural
+
++2 em testes de Inteligência e Reflexos
+
+Pernas Hidráulicas
+
+Dobra a velocidade de movimento
+
+4️⃣ Criação e Evolução de Equipamentos
+
+Os jogadores podem melhorar e personalizar seus
+equipamentos através de:
+1️⃣ Melhorias Tecnológicas → Atualizar armas e armaduras
+para aumentar dano, resistência ou adicionar novos
+efeitos.​
+2️⃣ Fusão de Materiais → Unir diferentes materiais raros
+para criar equipamentos especiais.​
+3️⃣ Energização Arcana → Infundir itens com magia para
+habilidades especiais.​
+4️⃣ Adaptação Biotecnológica → Modificar o corpo com
+implantes ou trajes biotecnológicos.
+
+🔹
+
+Exemplo de Evolução:​
+Espada Longa Comum → 1d10 dano.​
+Espada de Energia → 1d12 dano, pode cortar metais.​
+Lâmina Elemental → 2d8 dano, pode ser envolvida em
+fogo, gelo ou eletricidade
+
+🔹
+🔹
+
+🚗
+
+—----------------------------------------------------------------​
+Veículos ​
+1️⃣ Veículos Terrestres
+
+🏎️
+
+Nome
+
+Velocidad
+e
+
+Capacidade
+
+Efeito Especial
+
+Moto VelozTech
+
+200 km/h
+
+1 piloto
+
+Pode andar em paredes por 2 turnos
+
+Carro Blindado
+Aegis
+
+150 km/h
+
+4
+passageiros
+
+Reduz 50% do dano de explosões
+
+T.R.A.X
+
+80 km/h
+
+6
+passageiros
+
+Canhão embutido (4d10 dano explosivo)
+
+Buggy Off-Road X5
+
+160 km/h
+
+2
+passageiros
+
+Imune a terrenos difíceis
+
+Hypercar Quantum
+
+400 km/h
+
+2
+passageiros
+
+Pode ativar turbo e dobrar velocidade por 1
+turno
+
+2️⃣ Veículos Aéreos
+
+✈️
+
+Nome
+
+Velocidade
+
+Capacidade
+
+Efeito Especial
+
+Jato Furtivo Shadow
+
+1.200 km/h
+
+2 pilotos
+
+Invisível a radares e sensores
+
+Drone de Combate
+Striker
+
+500 km/h
+
+0 (controlado
+remotamente)
+
+Possui metralhadora de energia
+(2d8 dano)
+
+Helicóptero Gavião
+
+600 km/h
+
+6 passageiros
+
+Possui guincho para resgates
+
+Asa Delta Gravítica
+
+200 km/h
+
+2 piloto
+
+Pode planar sem precisar de
+motor
+
+3️⃣ Veículos Aquáticos
+
+🌊
+
+Nome
+
+Velocidad
+e
+
+Capacidade
+
+Efeito Especial
+
+Submarino Leviatã
+
+100 km/h
+
+10
+passageiros
+
+Pode ficar invisível debaixo d’água
+
+Jet Ski Cyclone
+
+180 km/h
+
+2 passageiros
+
+Pode andar na superfície da água sem
+afundar
+
+Hovercraft Térmico
+
+150 km/h
+
+5 passageiros
+
+Resistente a ataques de gelo e calor
+extremo
+
+Cápsula Abissal
+
+90 km/h
+
+1 piloto
+
+Permite explorar grandes profundidades
+
+Navio de Guerra
+Atlante
+
+90 km/h
+
+30
+passageiros
+
+Equipado com canhões de energia aquática
+
+​
+Indisponível NO Momento
+4️⃣ Veículos Espaciais
+
+🚀
+
+Nome
+
+Velocidade
+
+Capacidade
+
+Efeito Especial
+
+Nave Estelar Fênix
+
+30.000
+km/h
+
+6 tripulantes
+
+Pode realizar saltos hiperespaciais
+
+Caça Estelar Raijin
+
+50.000
+km/h
+
+6 tripulantes
+
+Possui escudo de plasma e lasers duplos
+
+4️⃣ Veículos Espaciais
+
+🚀
+
+Cruzador
+Interestelar
+
+20.000
+km/h
+
+50
+tripulantes
+
+Pode lançar drones de ataque
+
+Moto Cósmica
+
+100.000
+km/h
+
+1 piloto
+
+Pode viajar pelo vácuo sem necessidade de
+proteção
+
+Ônibus Espacial
+Nexus
+
+25.000
+km/h
+
+50
+passageiros
+
+Sistema de sobrevivência para longas
+jornadas
+
+​
+
+Personalização e Modificações
+
+🛠️
+
+Os jogadores podem modificar seus veículos com
+upgrades, como:
+●​ Armas embutidas (metralhadoras, lança-foguetes,
+laser)
+●​ Propulsores extras (aumentam velocidade)
+●​ Dispositivos furtivos (evitam rastreamento)
+●​ Blindagens especiais (proteção contra danos
+específicos)
+
+⌚
+
+—-----------------------------------------------------------------------​
+Omnitrix​
+​
+
+🎮 Como Funciona?
+1️⃣ Ativação
+
+●​ A ativação do Omnitrix é uma Ação Livre.
+●​ O usuário escolhe um alien e realiza um Teste de
+Controle do Omnitrix (1d20).
+
+⌚Teste de Controle do Omnitrix
+
+2️⃣
+Resultado
+(D20)
+
+Efeito
+
+⌚Teste de Controle do Omnitrix
+
+2️⃣
+1-5
+
+Falha! O Omnitrix ativa sozinho, escolhendo uma
+espécie aleatória
+
+6-10
+
+O Omnitrix se ativa, mas o usuário vira um alien
+aleatório da categoria escolhida
+
+11-15
+
+O usuário pode escolher o alien desejado, mas sua
+duração é reduzida pela metade
+
+16-19
+
+O usuário pode escolher normalmente
+
+20
+
+Perfeição! O usuário pode escolher o alien e
+ganhar +2 em todas as rolagens durante a
+transformação
+
+⏳ Duração da Transformação
+●​ A transformação dura um número de minutos igual ao
+modificador de Resistência + 5.
+●​ Quando o tempo se esgota, o Omnitrix recarrega por
+2d6 rodadas antes de poder ser ativado novamente.
+●​ Modo Prolongado: O usuário pode tentar continuar
+transformado fazendo um Teste de Resistência de
+Resistência CD 15 a cada rodada após o tempo limite.
+Cada tentativa falha impõe 1 nível de Exaustão
+
+🎭 Modo de Transformação
+Modos de Uso do Omnitrix
+
+🔵 Modo Normal → Escolhe
+um alien da sua lista e assume
+sua forma.​
+🟡 Modo Aleatório
+→ Se o Teste de Controle falhar, um
+alien inesperado é ativado.​
+🔴
+Modo Sobrecarregado → Ativação forçada,
+aumentando o tempo de espera após a transformação
+(+8d6 rodadas).​
+🟣 Modo Supremo
+→ Se desbloqueado, pode acessar
+versões evoluídas dos aliens
+
+🛸 Biblioteca de DNA do Omnitrix
+
+Cada Omnitrix pode conter até 10 espécies de DNA
+alienígena desbloqueadas inicialmente.​
+O Mestre pode permitir o desbloqueio de novos aliens ao
+longo da campanha
+​
+Exemplos de Espécies e Suas Habilidades
+Espécie
+
+Atributos
+
+Habilidades Especiais
+
+Exemplos de Espécies e Suas Habilidades
+Kinecelerano
+
++4 Agilidade,
++2 Inteligência
+
+Supervelocidade, Reflexos
+Avançados, Corrida sobre
+paredes
+
+Petrosapien
+
++4 Resistência, Pele Indestrutível, Rajadas de
++2 Força
+Cristal, Criação de Escudos
+
+Ectonurita
+
++3 Carisma, +3
+Agilidade
+
+Pyronita
+
++4 Resistência, Corpo Flamejante, Projéteis de
++2 Ponder
+Fogo, Voo Curto
+
+Appoplexiano
+
++4 Força, +2
+Resistência
+
+Fúria Berserker, Garras Afiadas,
+Regeneração
+
+Crystalsapien
+
++2 Inteligência,
++4 Ponder
+
+Absorção de Energia, Raio
+Cósmico
+
+Intangibilidade, Invisibilidade,
+Grito Fantasma
+
+🔧 Melhorias do Omnitrix
+Com o tempo, o usuário pode aprimorar o Omnitrix,
+desbloqueando novas funções:
+
+📡 Melhorias Disponíveis
+
+●​ Modo Supremo (Nível 10+) → Habilita versões
+evoluídas dos aliens.
+●​ Desbloqueio de DNA Perdido (Nível 3+) → Adiciona
+novas espécies ao Omnitrix.
+●​ Modo Fusão (Nível 15+) → Permite misturar duas
+espécies alienígenas, combinando suas habilidades.
+●​ Banco de DNA Ilimitado (Nível 20) → Armazena todas
+as espécies conhecidas e pode alternar entre elas
+sem recarga!
+
+🌌 Criando Novos Aliens para o Omnitrix
+
+Se quiser adicionar novas espécies ao Omnitrix, siga estas
+regras:
+1️⃣ Escolha um tipo físico: Humanoide, Monstruoso,
+Robótico, Etéreo, etc.​
+2️⃣ Ajuste os atributos: +4 em um atributo principal, +2 em
+um secundário.​
+3️⃣ Dê ao alien 3 habilidades únicas.​
+4️⃣ Determine sua fraqueza: Pode ser vulnerável a água,
+fogo, energia, etc.
+Exemplo de novo alien:
+Nome: Cybernoide (Espécie Robótica)
+●​ +4 Inteligência, +2 Resistência
+●​ Habilidades: Interface Digital (controla eletrônicos),
+Campo de Força, Autorreparação.
+●​ Fraqueza: Vulnerável a EMPs e descargas elétricas
+
+🔥 Modo Supremo – Evolução Alienígena
+
+Ao atingir o Nível 10, o usuário pode ativar o Modo
+Supremo, transformando seus aliens em versões mais
+poderosas!
+
+✅✅
+✅
+
+Cada alien supremo ganha:​
++2 em todos os atributos​
+Nova habilidade única​
+Aumento de dano e resistência
+
+⭐
+
+Exemplo:​
+Diamante Supremo (Petrosapien Evoluído)
+
+●​ +6 Constituição, +4 Força
+●​ Nova Habilidade: Explosão de Cristais (rajadas de
+espinhos afiados em área)
+●​ Resistência extra: Imune a ataques perfurantes
+
+🦾
+🔬 Como Funciona?
+
+—------------------------------------------------------------------------​
+Nanites​
+●​ O personagem infectado com Nanites Ativos pode
+manifestar armas, armaduras e habilidades através de
+um Teste de Controle de Nanites.
+●​ Ele pode desbloquear novas formas e evoluir seus
+poderes ao longo da campanha
+
+🎮
+
+​
+Ativação das Transformações​
+Ao tentar ativar uma transformação ou habilidade, o
+usuário faz um Teste de Inteligência ou Resistência (1d20 +
+mod.)​
+1️⃣ Teste de Controle de Nanites
+Resultado
+(D20)
+
+Efeito
+
+1-5
+
+Falha! Os Nanites não respondem ou ativam algo inesperado
+
+1️⃣ Teste de Controle de Nanites
+6-10
+
+Sucesso Parcial! A habilidade funciona, mas com -2 em testes relacionados
+
+11-15
+
+Sucesso! A transformação ocorre normalmente
+
+16-19
+
+Sucesso Avançado! Ganha +2 em todas as rolagens enquanto a habilidade
+estiver ativa
+
+20+
+
+Ativação Perfeita! A habilidade dura o dobro do tempo e não consome recursos
+
+⏳ Duração das Transformações
+●​ Cada ativação dura 1d6 + Mod. de Resistência
+rodadas.
+●​ Após o tempo acabar, os Nanites precisam de 2d6
+rodadas para recarregar antes da próxima ativação.
+●​ O usuário pode tentar manter a forma gastando
+Energia (EP)
+
+🦾 Formas Nanotecnológicas Disponíveis
+1️⃣ Armamento Biomecânico
+
+●​ O usuário manifesta armas feitas de Nanites, como
+espadas, garras, canhões de plasma, etc.
+●​ Dano base: 1d8 + Mod. de Força ou Agilidade.
+●​ Pode evoluir as armas para aumentar o dano ou
+adicionar efeitos (exemplo: choque, veneno,
+explosão).
+2️⃣ Armadura Viva
+
+●​ O corpo se reveste com uma armadura de Nanites,
+aumentando a defesa e resistência.
+●​ Bônus de CA: +2 no início, pode evoluir até +6.
+●​ Pode ganhar resistência contra dano cortante,
+perfurante ou energético.
+3️⃣ Regeneração Acelerada
+
+●​ Os Nanites reparam o corpo do usuário rapidamente.
+●​ Recupera 1d10 + Nível de Personagem de HP por
+rodada enquanto ativo.
+●​ Pode remover venenos, doenças ou efeitos negativos
+conforme evolui.
+4️⃣ Supermobilidade
+
+●​ Os Nanites melhoram a estrutura muscular e óssea do
+usuário.
+
+●​ Pode conceder habilidades como superpulo,
+supervelocidade, escalada ou voo temporário.
+●​ Aumento de deslocamento: +3m no início, até +12m
+no máximo.
+5️⃣ Controle de Máquinas
+
+●​ O usuário pode hackear eletrônicos e interagir com
+tecnologia apenas tocando nela.
+●​ Teste de Inteligência (CD 10 + nível da tecnologia)
+para invadir sistemas.
+●​ Pode evoluir para controlar robôs, drones e até
+veículos remotamente
+
+🔧 Evolução dos Nanites
+Nível Melhoria dos Nanites
+1
+
+Habilita 1 forma nanotecnológica
+
+3
+
+Desbloqueia uma segunda forma
+
+5
+
+Nanites aprimorados (Bônus de +2 em Teste de Controle de
+Nanites)
+
+7
+
+Forma Combate (Ganha +1 Ataque por turno enquanto
+transformado)
+
+10
+
+Evolução Avançada (Pode fundir duas formas
+simultaneamente)
+
+15
+
+Modo Overdrive (Os Nanites podem operar além do tempo
+limite, mas custam 2x mais Energia)
+
+20
+
+Nanites Perfeitos (Transformações ilimitadas, resistência
+total a venenos e doenças)
+
+⚡ Modos de Ativação Especiais
+
+🔵 Modosem
+Automático → Os Nanites ativam habilidades
+precisar de um Teste de Controle.​
+🟡 Modo mas
+Berserker → A transformação dura mais tempo,
+o usuário perde parte do controle.​
+🔴 Nanites,
+Modo Omega → O usuário libera 100% do potencial dos
+dobrando os bônus, mas sofrendo Exaustão
+depois
+
+🔥 Criando Novas Formas de Nanites
+Se quiser criar novas habilidades para os Nanites, siga
+estas diretrizes:
+1️⃣ Escolha um foco: Defesa, Ataque, Suporte ou
+Mobilidade.​
+2️⃣ Defina os atributos aumentados: Cada forma pode dar +2
+em um atributo.​
+3️⃣ Dê uma habilidade especial única.​
+4️⃣ Adicione um efeito colateral: Alto consumo de energia,
+risco de mau funcionamento, etc.
+Exemplo:
+
+🔹 Forma Besta Metálica
+●​ +4 Força, +2 Resistência
+●​ Garras de Plasma (Dano 2d6 + 2 Fogo)
+●​ Modo Feral (Ganha um ataque extra corpo a corpo)
+●​ Efeito Colateral: Difícil de desativar, pode atacar
+aliados sem querer
+
+💾 Perguntas Frequentes
+
+❔ Os Nanites podem ser removidos?
+Somente com tecnologia avançada ou poder extremo, pois
+eles se integram ao DNA do usuário.
+
+❔ Os Nanites podem evoluir sozinhos?
+
+Sim! O Mestre pode permitir que os Nanites aprendam e
+adaptem-se a novos desafios.
+
+❔ Posso transferir Nanites para outra pessoa?
+
+Sim, mas o receptor pode não suportar a fusão, exigindo
+um Teste de Constituição CD 18 para sobreviver!
+
+⚡
+Modo Turbo​
+🔋 Como Ativar o Modo Turbo?
+
+1️⃣ O personagem deve possuir um núcleo de energia turbo
+no corpo, seja através de tecnologia avançada ou mutação
+biológica.​
+2️⃣ O usuário pode ativar o Modo Turbo gastando Energia
+(EP) e fazendo um Teste de Controle Turbo (1d20 + Mod. de
+Resistência ou Inteligência)
+
+🎮 Teste de Controle Turbo
+Resultado
+(D20)
+
+Efeito
+
+1-5
+
+Falha! A energia sobrecarrega e o usuário sofre 1d6 de dano por excesso de
+energia
+
+6-10
+
+Ativação Parcial! O Modo Turbo ativa, mas os bônus são reduzidos pela metade
+
+11-15
+
+Sucesso! O Modo Turbo ativa normalmente
+
+16-19
+
+Ativação Aprimorada! Ganha +2 em todas as rolagens enquanto estiver no
+Modo Turbo
+
+20+
+
+Turbo Perfeito! O Modo Turbo dura o dobro do tempo e não consome Energia
+na primeira ativação
+
+⏳ Duração do Modo Turbo
+●​ Cada ativação dura 1d6 + Mod. de Resistência
+rodadas.
+●​ Após esse tempo, o usuário precisa de 2d6 rodadas
+para recarregar antes de ativar novamente.
+●​ Se tentar ativar antes de recarregar, precisa fazer um
+Teste de Resistência CD 15, ou o Turbo entra em
+sobrecarga e desativa por 1 hora
+
+🌀 Modos Turbo Disponíveis
+1️⃣ Turbo Força
+
+●​ +4 Força e +2 Resistência.
+●​ Aumento de dano corpo a corpo: +1d6.
+●​ Pode erguer e arremessar objetos massivos (até 3x o
+peso normal).
+2️⃣ Turbo Velocidade
+
+●​ +4 Agilidade e +2 Reflexos.
+●​ Aumento de deslocamento: +6m, podendo atingir
++15m no nível máximo.
+●​ Pode agir duas vezes por turno (gasta mais energia).
+3️⃣ Turbo Camuflagem
+
+●​ +4 Furtividade e +2 Inteligência.
+●​ Permite ficar invisível por 1d4 rodadas.
+●​ Pode se infiltrar em sistemas eletrônicos e hackear
+dispositivos.
+4️⃣ Turbo Defesa
+
+●​ +4 CA e +2 Resistência.
+●​ Reduz todo dano recebido em 3 pontos.
+●​ Pode absorver ataques de energia e redirecioná-los
+(1x por combate).
+5️⃣ Turbo Voo
+
+●​ +4 Reflexos e +2 Inteligência.
+●​ Pode voar a até 30m por rodada.
+●​ Pode gerar campos de força para proteger aliados
+
+⚡ Modo Turbo Supremo (Nível 20+)
+
+Ao atingir o nível máximo, o usuário pode entrar em um
+estado Turbo Supremo, no qual combina vários Modos
+Turbo simultaneamente!
+
+✅
+✅
+✅
+
+Efeitos do Turbo Supremo:​
+Pode combinar duas formas Turbo ao mesmo tempo.​
+Duração dobrada.​
+Redução de dano aprimorada (-5 em todo dano
+recebido).​
+Ataques energizados causam +2d6 de dano adicional.​
+Pode lançar um pulso de energia que atordoa todos os
+inimigos próximos (Teste de Resistência CD 18).
+
+✅
+
+✅
+
+🛠️ Evolução do Modo Turbo
+Nív
+el
+
+Aprimoramento do Modo Turbo
+
+1
+
+Ganha o primeiro Modo Turbo.
+
+3
+
+Desbloqueia um segundo Modo Turbo
+
+5
+
+Turbo Aprimorado (+1 rodada de duração)
+
+7
+
+Turbo Adaptável (Pode trocar de modo durante o combate)
+
+10
+
+Turbo Total (Pode usar 2 modos simultaneamente por 1
+minuto)
+
+15
+
+Turbo Extremo (+3 em todas as rolagens enquanto ativo)
+
+20
+
+Turbo Supremo (Acesso à fusão de todos os modos e
+resistência total a dano energético)
+
+🔥 Criando Novos Modos Turbo
+Para adicionar mais variações do Modo Turbo, siga estas
+diretrizes:
+1️⃣ Escolha o foco: (Força, Velocidade, Defesa, Poder
+Energético, etc.)​
+2️⃣ Defina os bônus: Cada Modo Turbo deve aumentar +4 em
+um atributo e fornecer 1 efeito especial.​
+3️⃣ Adicione um custo: (Aumento no consumo de Energia,
+limitação de tempo, risco de sobrecarga).​
+4️⃣ Crie uma vantagem exclusiva: Algo único para
+diferenciar esse Turbo de outros.
+Exemplo:
+
+🔹 Turbo Magnetismo
+●​ +4 Inteligência e +2 Resistência.
+●​ Pode controlar metais à distância (Telecinese
+magnética).
+●​ Pode atrair ou repelir projéteis de metal.
+●​ Custo: Precisa recarregar após 3 ativações.
+
+💡 Perguntas Frequentes
+
+❔ O Modo Turbo pode ser melhorado?
+Sim! O Mestre pode permitir upgrades, evoluções e novas
+fusões ao longo da campanha.
+
+❔ O Turbo pode se sobrecarregar?
+
+Se ativado muitas vezes seguidas, pode causar Exaustão,
+reduzindo os atributos temporariamente.
+
+❔ Como o Turbo interage com outras habilidades?
+
+O Turbo pode ser combinado com outras habilidades do
+personagem, aumentando suas capacidades naturais.
+
+🦋
+📜 Como Funciona um Miraculous?
+
+—----------------------------------------------------------------------------​
+Miraculous​
+Cada Miraculous contém um espírito mágico chamado
+Kwami, que concede poderes ao portador. Para ativar o
+poder, o usuário deve dizer um comando de transformação
+e ativar o item.
+●​ A transformação dura um número de rodadas igual a
+1 + Nível do Usuário.
+●​ Após esse tempo, o usuário precisa esperar 1d4
+minutos antes de reativá-lo
+
+🦸 Criando um Usuário de Miraculous
+
+Passo 1: Escolha um Miraculous.​
+Passo 2: Escolha seus poderes básicos e um Poder
+Supremo.​
+Passo 3: Defina um comando de transformação e um
+comando de liberação.​
+Passo 4: Determine sua fraqueza única, pois todo
+Miraculous tem um limite
+
+🌀 Lista de Miraculous e Poderes
+
+🐞 Miraculous da Joaninha (Criação & Sorte)
+●​ Poder Básico: Reflexos Aprimorados (+4 em Reflexos)
+●​ Arma: Ioiô indestrutível (Alcance 9m)
+●​ Poder Supremo: Sortudo – Pode criar qualquer objeto
+pequeno uma vez por transformação.
+●​ Fraqueza: Só pode usar o poder supremo uma vez por
+transformação
+
+🐱 Miraculous do Gato (Destruição & Azar)
+
+●​ Poder Básico: Super Agilidade (+6m de
+deslocamento, +2 em Saltos)
+●​ Arma: Bastão retrátil (Pode se estender até 6m)
+
+●​ Poder Supremo: Cataclismo – Ao tocar algo, pode
+destruí-lo instantaneamente.
+●​ Fraqueza: O poder só pode ser usado uma vez por
+transformação e afeta seres vivos
+
+🐢 Miraculous da Tartaruga (Proteção & Defesa)
+
+●​ Poder Básico: Pele Resistente (+4 CA)
+●​ Arma: Escudo indestrutível (Pode ser usado para
+defesa total por 1 turno)
+●​ Poder Supremo: Shellter – Cria uma cúpula de energia
+impenetrável por 3 rodadas.
+●​ Fraqueza: A cúpula impede ataques do usuário
+também​
+​
+Miraculous da Raposa (Ilusão & Engano)
+●​ Poder Básico: Enganar (+2 em testes de Enganação e
+Furtividade)
+●​ Arma: Flauta mágica (Amplifica ilusões)
+●​ Poder Supremo: Miragem – Cria uma ilusão
+hiper-realista por 3 rodadas.
+●​ Fraqueza: A ilusão desaparece ao ser tocada
+
+🦊
+
+🐍 Miraculous da Cobra (Tempo & Repetição)
+
+●​ Poder Básico: Memória Aprimorada (+2 em Percepção
+e Reflexos)
+●​ Arma: Bracelete enfeitiçado
+●​ Poder Supremo: Segunda Chance – Volta até 6
+segundos no tempo.
+●​ Fraqueza: Só pode usar o poder uma vez por
+transformação
+
+🐝 Miraculous da Abelha (Rapidez & Controle)
+
+●​ Poder Básico: Ataque Preciso (+2 em ataques corpo a
+corpo)
+●​ Arma: Pente mágico (Consegue paralisar um alvo por
+1 turno)
+
+●​ Poder Supremo: Veneno Paralizante – Imobiliza um
+alvo por 3 rodadas.
+●​ Fraqueza: Afeta apenas um alvo por transformação
+
+🐲 Miraculous do Dragão (Elementos & Metamorfose)
+
+●​ Poder Básico: Adaptação Elemental (+2 em testes
+relacionados ao ambiente)
+●​ Arma: Espada Dragão (Pode mudar de forma entre
+lança e chicote)
+●​ Poder Supremo: Mudança Elemental – Pode alternar
+entre fogo, água e vento.
+●​ Fraqueza: Só pode trocar de elemento uma vez a cada
+2 turnos
+
+🦅 Miraculous da Águia (Visão & Velocidade)
+
+●​ Poder Básico: Olhos de Águia (+2 em Percepção,
+pode ver no escuro)
+●​ Arma: Garras retráteis
+●​ Poder Supremo: Voo Relâmpago – Pode voar a alta
+velocidade por 1 minuto.
+●​ Fraqueza: Não pode parar de se mover enquanto
+estiver no ar
+
+🦋
+Miraculous da Borboleta (Criação de Vilões &
+Aliados)
+
+●​ Poder Básico: Conexão Mental (Pode se comunicar
+telepaticamente com um alvo)
+●​ Arma: Broche místico (Amplifica influência)
+●​ Poder Supremo: Akumatização – Concede poderes a
+um NPC em troca de controle parcial.
+●​ Fraqueza: Se o alvo resistir à influência, o usuário
+perde energia
+
+🦚
+Miraculous do Pavão (Criação & Controle de
+Criaturas Mágicas)
+
+●​ Poder Básico: Empatia Sobrenatural (Pode sentir
+emoções alheias a até 9m)
+●​ Arma: Leque encantado (Usado para canalizar
+poderes)
+●​ Poder Supremo: Sentimonstro – Cria um ser mágico
+para lutar ao seu lado até o fim da transformação.
+●​ Fraqueza: Se o Sentimonstro for destruído, o usuário
+sofre um impacto emocional forte, sofrendo -2 em
+todas as jogadas até o fim do combate
+
+🐁 Miraculous do Rato (Multiplicação & Agilidade)
+
+●​ Poder Básico: Reflexos Rápidos (+2 em Reflexos e
+Testes de Furtividade)
+●​ Arma: Pequeno cachimbo mágico (Amplifica poderes)
+●​ Poder Supremo: Multiplicação – Cria até 4 clones de
+si mesmo, que duram 3 turnos.
+●​ Fraqueza: Os clones são frágeis e desaparecem se
+sofrerem dano
+
+🐯 Miraculous do Tigre (Força & Impacto)
+
+●​ Poder Básico: Golpe Potente (+2 em ataques corpo a
+corpo)
+●​ Arma: Luvas de impacto (Amplificam socos)
+●​ Poder Supremo: Colisão do Tigre – Causa um golpe
+de impacto devastador, jogando todos em um raio de
+3m para trás.
+●​ Fraqueza: O golpe só pode ser usado uma vez por
+transformação
+
+🐂 Miraculous do Boi (Resistência & Imunidade)
+
+●​ Poder Básico: Pele Resistente (+3 CA contra ataques
+físicos)
+●​ Arma: Anel de metal mágico
+●​ Poder Supremo: Resistência Absoluta – Durante 2
+turnos, se torna imune a qualquer dano físico.
+
+●​ Fraqueza: Não pode se mover enquanto estiver
+usando a resistência suprema
+
+🐇 Miraculous do Coelho (Tempo & Teletransporte)
+
+●​ Poder Básico: Reflexos Rápidos (+2 em Reflexos e
+Testes de Iniciativa)
+●​ Arma: Guarda-chuva encantado (Funciona como
+catalisador de poder)
+●​ Poder Supremo: Buraco Temporal – Pode viajar no
+tempo por até 1 minuto no passado ou no futuro.
+●​ Fraqueza: O poder só pode ser usado uma vez por
+transformação e pode criar paradoxos perigosos
+
+🐎
+Miraculous do Cavalo (Teleporte & Viagem
+Dimensional)
+
+●​ Poder Básico: Deslocamento Rápido (+6m de
+movimento por turno)
+●​ Arma: Ferradura mágica (Amplifica poderes)
+●​ Poder Supremo: Galope Dimensional – Pode se
+teletransportar instantaneamente para qualquer local
+conhecido.
+●​ Fraqueza: O teletransporte não pode ser usado para
+sair de combate direto (como fugir de um ataque já
+em andamento)
+
+🐐
+Miraculous da Cabra (Criação & Personalização de
+Armas)
+
+●​ Poder Básico: Criatividade Estratégica (+2 em testes
+de Inteligência e Engenhosidade)
+●​ Arma: Chifre duplo encantado (Transforma-se em
+qualquer ferramenta ou arma)
+●​ Poder Supremo: Criação Adaptável – Pode criar
+temporariamente uma arma personalizada com
+habilidades únicas.
+●​ Fraqueza: A arma desaparece após 3 turnos e só pode
+ser criada uma vez por transformação
+
+🐵 Miraculous do Macaco (Caos & Desorientação)
+●​ Poder Básico: Enganar & Trapacear (+2 em testes de
+Enganação e Acrobacia)
+●​ Arma: Bastão de truques (Pode se transformar em
+diferentes objetos)
+●​ Poder Supremo: Caos Controlado – Cria um efeito
+aleatório (como confusão, ilusão ou desarmar
+oponente).
+●​ Fraqueza: O efeito do Caos é imprevisível e pode
+afetar aliados também
+
+🐓 Miraculous do Galo (Comando & Voz de Controle)
+
+●​ Poder Básico: Presença Imponente (+2 em testes de
+Intimidação e Diplomacia)
+●​ Arma: Medalhão dourado encantado
+●​ Poder Supremo: Ordem Absoluta – Pode dar um
+comando mental a um alvo, que deve obedecer por 2
+turnos.
+●​ Fraqueza: O alvo pode resistir com um teste de
+Vontade (CD 15 + nível do usuário).
+
+🐶
+Miraculous do Cachorro (Rastreamento &
+Recuperação)
+
+●​ Poder Básico: Faro Aguçado (+2 em testes de
+Percepção e Investigação)
+●​ Arma: Apito encantado (Pode ser usado para
+convocar aliados animais)
+●​ Poder Supremo: Apropriação Canina – Pode marcar
+um item e chamá-lo de volta a qualquer momento.
+●​ Fraqueza: Só pode marcar um item por
+transformação.
+
+🐖 Miraculous do Porco (Alegria & Inspiração)
+
+●​ Poder Básico: Aura Positiva (+2 em testes de Carisma
+e Diplomacia)
+●​ Arma: Pequeno espelho encantado (Reflete emoções)
+●​ Poder Supremo: Visão dos Sonhos – Permite que um
+alvo veja um sonho ou visão inspiradora.
+●​ Fraqueza: A visão não tem efeitos físicos diretos,
+apenas emocionais e psicológicos
+
+🛠️ Melhorando os Miraculous
+Nível
+
+Aprimoramento do Miraculous
+
+1
+
+Teste de Transformação mais fácil (+2).
+
+3
+
+O Poder Supremo pode ser usado 2x por transformação
+
+5
+
+Consegue usar o Miraculous por 10 rodadas
+
+7
+
+Ganha um segundo efeito especial
+
+10
+
+Pode combinar o poder de dois Miraculous diferentes
+
+20
+
+Modo Divino – A transformação dura 1 hora e remove todas as
+fraquezas!
+
+⚡ Criando Novos Miraculous
+Quer criar um novo Miraculous? Siga este esquema:
+1️⃣ Escolha um tema animal.​
+2️⃣ Defina um poder básico e uma arma especial.​
+3️⃣ Escolha um Poder Supremo único.​
+4️⃣ Dê uma fraqueza balanceada para limitar o poder
+
+🏮
+📜 Regras Gerais para Talismãs
+
+—-------------------------------------------------------------------------​
+Talismãs Mágicos​
+●​ Ativação: Cada Talismã precisa de um comando
+mental ou físico (toque, gesto, palavra-chave).
+●​ Uso: Alguns efeitos são passivos, outros exigem um
+gasto de Energia (EP).
+●​ Fusão: Se alguém reunir todos os 12 Talismãs, poderá
+despertar um poder cósmico absoluto (com
+consequências)
+
+🐀
+
+​
+Talismã do Rato (Animação de Objetos)
+
+●​ Poder: Dá vida a objetos inanimados, permitindo que
+sigam ordens simples por 1d4+1 turnos.
+●​ Uso: Gasta 2 EP por objeto animado.
+●​ Fraqueza: Os objetos animados não possuem
+inteligência própria e podem agir de forma errática
+
+🐂
+
+​
+Talismã do Boi (Força Sobrenatural)
+
+●​ Poder: Concede Força sobre-humana, dobrando o
+dano corpo a corpo e permitindo erguer até 10
+toneladas.
+●​ Uso: Ativação passiva.
+
+●​ Fraqueza: O usuário pode quebrar acidentalmente
+objetos frágeis ao tocá-los
+
+🐅 Talismã do Tigre (Equilíbrio Yin-Yang)
+
+●​ Poder: Separa o usuário em duas versões de si
+mesmo – uma boa e outra má, ambas com 100% do
+poder original.
+●​ Uso: Duração de 1 minuto (10 turnos).
+●​ Fraqueza: Ambas as metades agem
+independentemente e podem entrar em conflito
+
+🐇 Talismã do Coelho (Super Velocidade)
+
+●​ Poder: Multiplica a velocidade do usuário por 5,
+permitindo ataques rápidos e esquivas relâmpago.
+●​ Uso: Ativação passiva.
+●​ Fraqueza: O usuário pode perder o controle ao se
+mover em alta velocidade.
+
+🐉 Talismã do Dragão (Explosões de Energia)
+●​ Poder: Dispara rajadas de energia flamejante (3d10 de
+dano em área de 3m).
+●​ Uso: Gasta 5 EP por disparo.
+●​ Fraqueza: O usuário pode sofrer recuo da explosão.
+
+🐍 Talismã da Serpente (Invisibilidade)
+●​ Poder: O usuário se torna totalmente invisível por
+1d6+2 turnos.
+●​ Uso: Gasta 3 EP por ativação.

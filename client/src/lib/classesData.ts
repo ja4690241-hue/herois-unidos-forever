@@ -23,6 +23,8 @@ export interface ClassData {
   specializations: Specialization[];
   gameStyle: string;
   recommendedSkills: string[];
+  hpPerLevel: number;
+  manaPerLevel: number;
 }
 
 export const classes: ClassData[] = [
@@ -35,14 +37,16 @@ export const classes: ClassData[] = [
       primary: "Força",
       secondary: "Resistência",
     },
+    hpPerLevel: 10,
+    manaPerLevel: 5,
     uniqueAbilities: [
       {
-        name: "Golpe Poderoso",
-        description: "Dano aumentado em ataques corpo a corpo",
+        name: "Fúria Combatente",
+        description: "+2 no dano corpo a corpo.",
       },
       {
-        name: "Resistência Aprimorada",
-        description: "Redução de dano de ataques físicos",
+        name: "Postura Defensiva",
+        description: "+2 CA gastando 1 EP.",
       },
     ],
     specializations: [
@@ -71,14 +75,16 @@ export const classes: ClassData[] = [
       primary: "Agilidade",
       secondary: "Vontade",
     },
+    hpPerLevel: 8,
+    manaPerLevel: 6,
     uniqueAbilities: [
       {
-        name: "Desvio Rápido",
-        description: "Bônus ao esquivar de ataques",
+        name: "Reflexos Sobrenaturais",
+        description: "+2 em esquiva.",
       },
       {
-        name: "Ataque Relâmpago",
-        description: "Pode atacar e se mover antes do inimigo",
+        name: "Ataque Veloz",
+        description: "+1 iniciativa e movimento extra.",
       },
     ],
     specializations: [
@@ -107,14 +113,16 @@ export const classes: ClassData[] = [
       primary: "Inteligência",
       secondary: "Agilidade",
     },
+    hpPerLevel: 7,
+    manaPerLevel: 10,
     uniqueAbilities: [
       {
         name: "Tiro Preciso",
         description: "Bônus ao atacar de longa distância",
       },
       {
-        name: "Análise Tática",
-        description: "Pode prever movimentos inimigos",
+        name: "Disparo Duplo",
+        description: "Atira duas vezes no mesmo turno gastando EP.",
       },
     ],
     specializations: [
@@ -143,19 +151,21 @@ export const classes: ClassData[] = [
       primary: "Resistência",
       secondary: "Poder",
     },
+    hpPerLevel: 12,
+    manaPerLevel: 5,
     uniqueAbilities: [
       {
         name: "Regeneração Acelerada",
-        description: "Cura rápida de ferimentos",
+        description: "+2 HP por turno se abaixo de 50%.",
       },
       {
-        name: "Mutação Adaptativa",
-        description: "Pode mudar de forma para resistir a ataques",
+        name: "Pele Resistente",
+        description: "+1 CA natural permanente.",
       },
     ],
     specializations: [
       {
-        id: "absorvedor-energia",
+        id: "absorvedor-energy",
         name: "Absorvedor de Energia",
         description: "Usa energia inimiga para se fortalecer",
         bonuses: ["+2 em Resistência", "Absorve 10% do dano"],
@@ -168,43 +178,7 @@ export const classes: ClassData[] = [
       },
     ],
     gameStyle: "Adaptação, regeneração e mudanças corporais",
-    recommendedSkills: ["Natureza", "Sobrevivência", "Medicina"],
-  },
-  {
-    id: "mago-arcano",
-    name: "Mago/Arcano",
-    icon: "🔮",
-    description: "Mestre das artes mágicas, manipulação de energia e feitiços.",
-    attributes: {
-      primary: "Inteligência",
-      secondary: "Vontade",
-    },
-    uniqueAbilities: [
-      {
-        name: "Magia Elemental",
-        description: "Pode lançar feitiços baseados em fogo, gelo, eletricidade etc.",
-      },
-      {
-        name: "Escudo Arcano",
-        description: "Proteção contra ataques físicos e mágicos",
-      },
-    ],
-    specializations: [
-      {
-        id: "mago-batalha",
-        name: "Mago de Batalha",
-        description: "Combina magia com combate físico",
-        bonuses: ["+2 em dano mágico", "+1 em CA"],
-      },
-      {
-        id: "invocador",
-        name: "Invocador",
-        description: "Chama criaturas para lutar ao seu lado",
-        bonuses: ["+1 em Magia", "Invoca aliado 1x por combate"],
-      },
-    ],
-    gameStyle: "Magia, manipulação de energia e feitiços",
-    recommendedSkills: ["Arcana", "Investigação", "Percepção"],
+    recommendedSkills: ["Sobrevivência", "Atletismo", "Medicina"],
   },
   {
     id: "ciborgue-engenheiro",
@@ -215,14 +189,16 @@ export const classes: ClassData[] = [
       primary: "Inteligência",
       secondary: "Poder",
     },
+    hpPerLevel: 9,
+    manaPerLevel: 8,
     uniqueAbilities: [
       {
-        name: "Modo Turbo",
-        description: "Aumento temporário de velocidade e força",
+        name: "Cibernética",
+        description: "+1 em CA permanente.",
       },
       {
-        name: "Hacking Avançado",
-        description: "Pode invadir sistemas e desativar dispositivos",
+        name: "Reparo Rápido",
+        description: "Recupera 5 HP gastando 10 EP.",
       },
     ],
     specializations: [
@@ -240,7 +216,7 @@ export const classes: ClassData[] = [
       },
     ],
     gameStyle: "Tecnologia avançada, implantes cibernéticos",
-    recommendedSkills: ["Tecnologia", "Investigação", "Enganação"],
+    recommendedSkills: ["Tecnologia", "Engenharia", "Investigação"],
   },
   {
     id: "fantasma-sombra",
@@ -251,14 +227,16 @@ export const classes: ClassData[] = [
       primary: "Agilidade",
       secondary: "Vontade",
     },
+    hpPerLevel: 6,
+    manaPerLevel: 12,
     uniqueAbilities: [
       {
-        name: "Passar pela Matéria",
-        description: "Pode atravessar paredes e objetos",
+        name: "Sopro Espectral",
+        description: "Dano em cone (4m) gastando EP.",
       },
       {
-        name: "Ataque Fantasma",
-        description: "Dano extra contra inimigos desprevenidos",
+        name: "Visão Espectral",
+        description: "Enxerga seres invisíveis e no escuro.",
       },
     ],
     specializations: [
@@ -276,7 +254,7 @@ export const classes: ClassData[] = [
       },
     ],
     gameStyle: "Invisibilidade, intangibilidade, ataques surpresa",
-    recommendedSkills: ["Furtividade", "Percepção", "Enganação"],
+    recommendedSkills: ["Furtividade", "Arcano", "Enganação"],
   },
   {
     id: "predador-assassino",
@@ -287,14 +265,16 @@ export const classes: ClassData[] = [
       primary: "Agilidade",
       secondary: "Inteligência",
     },
+    hpPerLevel: 7,
+    manaPerLevel: 6,
     uniqueAbilities: [
       {
         name: "Ataque Furtivo",
-        description: "Dano extra ao atacar inimigos desprevenidos",
+        description: "+1d6 dano em alvos distraídos ou surpresos.",
       },
       {
-        name: "Camuflagem",
-        description: "Pode se esconder facilmente",
+        name: "Movimento Silencioso",
+        description: "+2 em testes de Furtividade.",
       },
     ],
     specializations: [
@@ -312,7 +292,7 @@ export const classes: ClassData[] = [
       },
     ],
     gameStyle: "Ataques furtivos, golpes críticos, rastreamento",
-    recommendedSkills: ["Furtividade", "Rastreamento", "Acrobacias"],
+    recommendedSkills: ["Furtividade", "Enganação", "Acrobacias"],
   },
   {
     id: "guardiao-suporte",
@@ -323,15 +303,16 @@ export const classes: ClassData[] = [
       primary: "Vontade",
       secondary: "Poder",
     },
+    hpPerLevel: 11,
+    manaPerLevel: 7,
     uniqueAbilities: [
       {
-        name: "Aura Protetora",
-        description:
-          "Ativa uma aura de 6 metros que concede +2 na CA e resistência a dano elemental a todos os aliados. Duração: 3 rodadas. Usável 3 vezes por descanso longo.",
+        name: "Interceptar",
+        description: "Impõe desvantagem em ataque contra aliado próximo.",
       },
       {
-        name: "Toque Restaurador",
-        description: "Como uma ação, cura um aliado em até 1d8 + Mod. Vontade pontos de vida.",
+        name: "Aura Protetora",
+        description: "Aliados a até 3m ganham +2 CA.",
       },
     ],
     specializations: [
@@ -349,7 +330,7 @@ export const classes: ClassData[] = [
       },
     ],
     gameStyle: "Proteção de aliados, bônus e cura de ferimentos",
-    recommendedSkills: ["Medicina", "Percepção", "Persuasão"],
+    recommendedSkills: ["Medicina", "Intimidação", "Persuasão"],
   },
 ];
 
@@ -364,7 +345,6 @@ export interface Weapon {
 }
 
 export const weapons: Weapon[] = [
-  // Armas Leves
   {
     id: "pistola-energetica",
     name: "Pistola Energética",
@@ -375,83 +355,6 @@ export const weapons: Weapon[] = [
     range: "15/30m",
   },
   {
-    id: "revolver-pesado",
-    name: "Revolver Pesado",
-    type: "leve",
-    damage: "2d6",
-    critical: "20",
-    properties: ["Simples", "Alcance (9m)"],
-    range: "9m",
-  },
-  {
-    id: "pistola-silenciada",
-    name: "Pistola Silenciada",
-    type: "leve",
-    damage: "1d8",
-    critical: "19/20",
-    properties: ["Ataque à distância (9m)", "Furtiva", "Difícil de detectar"],
-    range: "9m",
-  },
-  {
-    id: "adagas-gemeas",
-    name: "Adagas Gêmeas",
-    type: "leve",
-    damage: "1d6 (cada)",
-    critical: "2x",
-    properties: ["Ataque duplo"],
-  },
-  {
-    id: "arco-pulso",
-    name: "Arco de Pulso",
-    type: "leve",
-    damage: "1d8",
-    critical: "19/20",
-    properties: ["Ataque silencioso", "Dispara flechas de energia"],
-    range: "30m",
-  },
-  {
-    id: "adaga-energia",
-    name: "Adaga de Energia",
-    type: "leve",
-    damage: "1d6",
-    critical: "19/20",
-    properties: ["Causa dano energético", "Pode cortar metais leves"],
-  },
-  {
-    id: "luva-taser",
-    name: "Luva Taser",
-    type: "leve",
-    damage: "1d6",
-    critical: "20",
-    properties: ["Pode atordoar por 1 turno"],
-  },
-  {
-    id: "shuriken-carbono",
-    name: "Shuriken de Carbono",
-    type: "leve",
-    damage: "1d4",
-    critical: "18/20",
-    properties: ["Pode ser recuperada após o ataque"],
-  },
-  {
-    id: "nunchaku-liga",
-    name: "Nunchaku de Liga Metálica",
-    type: "leve",
-    damage: "1d6",
-    critical: "19/20",
-    properties: ["Garante um ataque bônus com -1 de dano"],
-  },
-  {
-    id: "bastao-retratil",
-    name: "Bastão Retrátil",
-    type: "leve",
-    damage: "1d6",
-    critical: "2x",
-    properties: ["Pode ser escondido facilmente"],
-  },
-
-  // Armas Médias
-  {
     id: "fuzil-plasma",
     name: "Fuzil de Plasma",
     type: "média",
@@ -461,92 +364,12 @@ export const weapons: Weapon[] = [
     range: "30m",
   },
   {
-    id: "submetralhadora",
-    name: "Submetralhadora Compacta",
-    type: "média",
-    damage: "2d4",
-    critical: "20",
-    properties: ["Rajada (pode disparar duas vezes, mas com -2 de precisão)"],
-    range: "20m",
-  },
-  {
-    id: "espada-energia",
-    name: "Espada de Energia",
-    type: "média",
-    damage: "2d6",
-    critical: "19/20",
-    properties: ["Causa dano energético", "Brilha no escuro"],
-  },
-  {
-    id: "machado-pesado",
-    name: "Machado Pesado",
-    type: "média",
-    damage: "2d8",
-    critical: "19/20",
-    properties: ["Dano aumentado contra armaduras"],
-  },
-  {
-    id: "lanca-plasma",
-    name: "Lança de Plasma",
-    type: "média",
-    damage: "2d6",
-    critical: "20",
-    properties: ["Alcance (6m)", "Causa queimadura contínua"],
-    range: "6m",
-  },
-
-  // Armas Pesadas
-  {
-    id: "rifle-pesado",
-    name: "Rifle Pesado",
-    type: "pesada",
-    damage: "3d8",
-    critical: "20",
-    properties: ["Ataque à distância (40m)", "Requer duas mãos"],
-    range: "40m",
-  },
-  {
     id: "espada-grande",
     name: "Espada Grande",
     type: "pesada",
     damage: "3d6",
     critical: "19/20",
     properties: ["Requer duas mãos", "Dano massivo"],
-  },
-  {
-    id: "martelo-guerra",
-    name: "Martelo de Guerra",
-    type: "pesada",
-    damage: "2d10",
-    critical: "20",
-    properties: ["Requer duas mãos", "Empurra inimigos 3m"],
-  },
-  {
-    id: "canhao-laser",
-    name: "Canhão Laser",
-    type: "pesada",
-    damage: "4d8",
-    critical: "19/20",
-    properties: ["Ataque à distância (50m)", "Requer recarga"],
-    range: "50m",
-  },
-
-  // Armas Exóticas
-  {
-    id: "espada-temporal",
-    name: "Espada Temporal",
-    type: "exótica",
-    damage: "3d8",
-    critical: "18/20",
-    properties: ["Ignora 50% da defesa", "Rara"],
-  },
-  {
-    id: "lanca-infinita",
-    name: "Lança Infinita",
-    type: "exótica",
-    damage: "3d10",
-    critical: "19/20",
-    properties: ["Sempre retorna", "Lendária"],
   },
 ];
 
@@ -580,13 +403,6 @@ export const armors: Armor[] = [
     ca: 15,
     properties: ["Máxima proteção", "Reduz velocidade"],
   },
-  {
-    id: "armadura-energetica",
-    name: "Armadura Energética",
-    type: "exótica",
-    ca: 16,
-    properties: ["Absorve dano energético", "Recarregável"],
-  },
 ];
 
 export interface Skill {
@@ -598,87 +414,21 @@ export interface Skill {
 
 export const skills: Skill[] = [
   {
-    id: "acrobacias",
-    name: "Acrobacias",
-    description: "Movimentos corporais complexos e equilíbrio",
-    attribute: "Agilidade",
-  },
-  {
     id: "atletismo",
     name: "Atletismo",
     description: "Força física e resistência",
     attribute: "Força",
   },
   {
-    id: "arcana",
-    name: "Arcana",
-    description: "Conhecimento de magia e feitiços",
+    id: "tecnologia",
+    name: "Tecnologia",
+    description: "Uso de dispositivos e hacking",
     attribute: "Inteligência",
-  },
-  {
-    id: "enganacao",
-    name: "Enganação",
-    description: "Mentir e enganar outros",
-    attribute: "Carisma",
   },
   {
     id: "furtividade",
     name: "Furtividade",
-    description: "Se mover silenciosamente e se esconder",
+    description: "Se mover silenciosamente",
     attribute: "Agilidade",
-  },
-  {
-    id: "investigacao",
-    name: "Investigação",
-    description: "Procurar por pistas e resolver mistérios",
-    attribute: "Inteligência",
-  },
-  {
-    id: "luta",
-    name: "Luta",
-    description: "Combate corpo a corpo",
-    attribute: "Força",
-  },
-  {
-    id: "medicina",
-    name: "Medicina",
-    description: "Curar ferimentos e diagnosticar doenças",
-    attribute: "Inteligência",
-  },
-  {
-    id: "natureza",
-    name: "Natureza",
-    description: "Conhecimento de plantas e animais",
-    attribute: "Inteligência",
-  },
-  {
-    id: "percepcao",
-    name: "Percepção",
-    description: "Notar detalhes e observar arredores",
-    attribute: "Sabedoria",
-  },
-  {
-    id: "persuasao",
-    name: "Persuasão",
-    description: "Convencer e influenciar outros",
-    attribute: "Carisma",
-  },
-  {
-    id: "tecnologia",
-    name: "Tecnologia",
-    description: "Usar e consertar dispositivos tecnológicos",
-    attribute: "Inteligência",
-  },
-  {
-    id: "rastreamento",
-    name: "Rastreamento",
-    description: "Seguir trilhas e rastrear criaturas",
-    attribute: "Sabedoria",
-  },
-  {
-    id: "sobrevivencia",
-    name: "Sobrevivência",
-    description: "Sobreviver em ambientes selvagens",
-    attribute: "Sabedoria",
   },
 ];

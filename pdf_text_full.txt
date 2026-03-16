@@ -1,0 +1,7504 @@
+🦸Herois Unidos
+Sistema
+
+​
+1. Criação de Personagem​
+
+🧔Raças​
+​
+
+🧔1. Escolhendo a Raça​
+
+Cada jogador escolhe uma Raça Base para seu personagem. Algumas raças permitem
+evolução ou transformação ao longo do jogo.​
+​
+
+Algumas raças também têm fraquezas específicas
+
+✅
+✅
+✅
+✅
+
+●​ Cada Raça concede:​
++2 em dois Qualquer atributo​
+Resistências naturais a certos tipos de dano​
+Habilidades Especiais​
+Evoluções ou Transformações (caso aplicável)
+●​ Algumas raças também têm fraquezas específicas
+
+🧔
+
+​
+2. Lista de Raças e Suas Características
+
+🔹 HumanosCunningham,
+Aprimorados (Exemplo: Max Steel, Randy
+Os Thundermans)
+●​ Atributos: +2 em Carisma e Resistência
+●​ Habilidades Especiais:​
+Treinamento Intensivo — +2 em uma Perícia à sua
+escolha ao criar a ficha​
+Resistência Humana — Recebe +5 pontos de vida (PV)
+extras permanentemente​
+Superação — 1 vez por dia, pode refazer um teste
+falho, seja de ataque, resistência ou perícia
+
+✅
+✅
+✅
+
+👽
+Alienígenas (Exemplo: Ben 10 e suas transformações)​
+Atributos: +2 em um Atributo à escolha (ex.: Força, Destreza,
+​
+
+Inteligência...)+1 em outro Atributo à escolha​
+Habilidades Especiais:​
+Adaptabilidade Extraterrestre — Não sofre penalidades
+ao respirar ou sobreviver em ambientes hostis (espaço, fundo
+do mar, planetas tóxicos)​
+Resistência Alienígena — +2 em testes de resistência
+contra efeitos físicos ou mentais.​
+Poder Inato — Escolha 1 habilidade especial que reflita a
+natureza da sua espécie (ex.: telepatia, garras naturais, asas,
+camuflagem, etc.)​
+​
+Mutantes Biomecânicos (Exemplo: Mutante Rex)​
+Atributos: +2 em Força e Resistência​
+Habilidades Especiais:​
+Regeneração: Cura 5 PV por turno​
+Criação Biomecânica: Pode criar armas ou armaduras
+biológicas​
+Mutação Rápida: 1 por dia, pode adaptar seu corpo para
+ganhar uma nova habilidade temporária por um 1 minuto
+
+✅
+✅
+✅
+
+⚙️
+
+✅
+✅
+
+✅
+
+✅
+
+👻Fantasmas/Espíritos
+(Exemplo: Danny Phantom)​
+Atributos: +2 em Agilidade e Vontade​
+
+Habilidades Especiais:​
+Intangibilidade — Pode atravessar paredes, objetos sólidos
+e armadilhas sem sofrer efeitos, até numero de uso de acordo
+com a pro proficiência ​
+Voo: Pode se mover livremente no ar​
+Grito Fantasma: Pode emitir uma onda sônica destrutiva
+Alcance: Cone de 9m​
+Efeito: Causa 4d8 de dano sônico e empurra criaturas 3
+metros.
+
+✅
+
+✅
+
+🐲Dragões/Híbridos
+Dracônicos (Exemplo: Jake Long)​
+Atributos: +2 em Força e Poder​
+Habilidades Especiais:​
+✅
+Transformação Parcial — Pode ativar partes dracônicas
+(Ex.: garras, asas, cauda) por até 1 minutos. Enquanto ativo​
+Garras: dano de (dano 2d8 + mod cortante)​
+Asas: deslocamento de voo igual ao terrestre​
+Resistência Elemental: Escolha um elemento (fogo, gelo,
+raio ect) e ganhe resistência contra ele​
+Sopro Dracônico — pode lançar uma rajada de
+elemental:Alcance: Cone de 6 metros,​
+Dano: 4d6 do elemento escolhido,​
+Teste de resistência: Agilidade (CD baseada no Poder) para
+metade do dano.
+
+✅
+
+✅
+
+🤖ciborgues/Androides
+(Exemplo: Titã Simbiônico, Max
+Steel em modo cibernético)​
+Atributos: +2 em Inteligência e Resistência​
+Habilidades Especiais:​
+Corpo de Aço: Resistência a dano físico (+2 na Defesa)​
+Sistemas Avançados — Pode armazenar e analisar dados
+rapidamente, obtendo vantagem em testes de Tecnologia e
+Investigação​
+Regeneração Mecânica — Pode consertar seu corpo
+utilizando ferramentas ou sistemas de reparo. Recupera 5 PV
+por minuto fora de combate ou como ação ao usar kits
+tecnológicos
+
+✅
+✅
+✅
+
+🎃Seres com
+Simbiontes (Exemplo: Titã Simbiônico)​
+Atributos: +2 em Poder e Vontade​
+Habilidades Especiais:​
+✅ Ligação
+Simbiótica ​
++5 PV extras​
++1 bônus em todos os ataques físicos​
+✅Melhorar
+Adaptação Rápida — Pode mudar de forma para:​
+ataque → recebe +2 de dano por 1 turno​
+
+Melhorar defesa → recebe +2 na Defesa (CA) por 1 turno​
+Pode usar essa adaptação até 3 vezes por descanso.​
+Armas Naturais — Pode criar lâminas, garras tentáculos​
+(dano 2d8 + mod)
+
+✅
+
+🎩Magos/Sobrenaturais (Exemplo: Feiticeiros,)
+
+●​ Atributos: +2 em Inteligência e Carisma
+●​ Habilidades Especiais:​
+Magia Inata — Pode lançar feitiços básicos (como
+criar luz, mover objetos pequenos ou detectar magia) sem
+custo adicional de energia.​
+(Efeito e lista a definir com o mestre.)​
+Resistência à Magia — Recebe +2 na Defesa (CA)
+contra ataques mágicos e efeitos arcanos​
+Ritualista — Pode preparar 1 encantamento especial
+antes de cada batalha que dura até 10 minutos ou até ser
+usado:
+
+✅
+✅
+✅
+
+●​ Exemplo: escudo mágico (+2 CA), arma encantada (+1
+dano) ou bênção (+2 em um teste).,
+●​ Pode ser personalizado conforme a especialização
+mágica
+
+👹Criaturas Genéticas/Experimentos
+Científicos (Exemplo:
+Criaturas dos Sábados Secretos)
+●​ Atributos: +2 em Resistência e Força
+●​ Habilidades Especiais:​
+Habilidades Inusitadas — Escolha 1 mutação única ao
+criar o personagem, como:
+●​ Visão térmica
+●​ Braços extras
+●​ Garras retráteis
+●​ Carapaça protetora (+1 CA)
+●​ (ou outra, com aprovação do mestre)​
+Camuflagem Biológica — Pode alterar sua aparência
+para se esconder, recebendo vantagem em testes de
+Furtividade quando em ambiente compatível (Ex.: floresta,
+esgoto, laboratório)​
+Instinto de Sobrevivência — Sempre age primeiro
+no primeiro turno de combate, independentemente da
+iniciativa, graças ao seu reflexo predatório.
+
+✅
+✅
+✅
+
+⬆️3. Evolução das Raças
+
+Cada raça pode evoluir ou se aprimorar gastando Pontos de
+Evolução (PE).10
+●​ Exemplo de Evolução por Raça:
+​
+​
+​
+Raça
+
+Evolução Disponível
+
+Humano
+Aprimorado
+
+Humano Supremo — amplifica suas capacidades
+físicas ao extremo, ganhando +1 adicional em
+todos os atributos e acesso a uma habilidade
+exclusiva
+
+Alienígena
+
+Pode evoluir para: Forma Avançada — o
+alienígena atinge o ápice de sua evolução,
+obtendo +2 em um novo Atributo e ganhando uma
+habilidade alienígena extra.
+
+Mutante
+Biomecânico
+
+Pode evoluir para: Forma Apex — um ser de pura
+biomecânica, com capacidades ampliadas:
++1 adicional em Força e Constituição,
+Ganha uma nova arma biológica permanente,
+
+Fantasma
+
+Forma Espectral Suprema — controla
+completamente seus poderes:Dano do Grito
+Fantasma aumenta para 6d8.,
+Pode manter Intangibilidade por até 1 minuto
+contínuo
+
+Dragão
+
+Forma Dracônica Completa — transforma-se
+totalmente em um dragão, aumentando:
++2 em Força adicional,
+Deslocamento de voo dobrado,
+Sopro Dracônico aumenta para 6d6
+
+Ciborgue
+
+melhora seus sistemas com upgrades de última
+geração:
++1 adicional em Inteligência e Resistência,
+Ganha um arma ou sistema cibernético exclusivo
+(Ex.: canhão embutido, propulsores, camuflagem
+óptica).
+
+Simbionte
+
+Forma de Fusão Suprema — onde a ligação
+simbiótica atinge o auge, tornando o ser
+praticamente indivisível do simbionte:
++2 adicionais em Poder e Vontade,
+
+Ganha uma habilidade exclusiva do simbionte (Ex.:
+tentáculos, explosão de energia, forma gigante).
+Mago
+
+Arquimago um mestre das artes arcanas:
++1 adicional em Inteligência e Carisma,
+Pode preparar 2 encantamentos especiais antes
+de cada batalha
+
+Criatura Genética
+
+Forma Mutante Suprema — sua biologia se
+aperfeiçoa, obtendo:
++1 adicional em Força e Resistência,
+Nova mutação à escolha
+​
+
+🤕4. Fraquezas das Raças
+Raça
+
+Fraqueza
+
+Humanos
+
+A vulnerabilidade ou fraqueza depende do tipo
+de aprimoramento (Ex.: tecnologia vulnerável a
+EMP, mutação instável, etc. — a ser definida com
+o mestre)
+
+Alienígenas
+
+A depender da espécie, escolha ou defina com o
+mestre uma fraqueza relevante (Ex.: vulnerável a
+temperaturas extremas, sensível a luz solar,
+fraqueza a um elemento...).
+
+Mutantes
+Biomecânicos
+
+Vulnerável a ataques que interfiram com
+tecnologia (Ex.: pulsos eletromagnéticos ou
+vírus cibernéticos).
+
+Fantasmas
+
+Vulnerável a equipamentos de contenção
+espectral, energia ectoplasmática ou tecnologia
+anti-fantasma ou ferro
+
+Dragões
+
+Orgulho dracônico: sofre desvantagem em testes
+
+🤕4. Fraquezas das Raças
+sociais quando insultado ou provocado.
+Vulnerável a magias ou armas que causam dano
+específico ao elemento oposto ao escolhido.
+Ciborgues
+
+Vulnerável a pulsos eletromagnéticos (PEM) e
+hacks — ao ser alvo, faz teste de Resistência
+(CD ) ou fica Paralisado por 1 turno.
+
+Simbiontes
+
+Dependente do simbionte: se a ligação for
+cortada (Ex.: tecnologia disruptiva ou veneno
+simbiótico fogo raio ou som forte), sofre
+desvantagem em todas as ações até
+restabelecer a conexão
+
+Magos
+
+Vulnerável a efeitos que bloqueiam ou anulam
+magia (Ex.: zonas anti-magia, campos de
+contenção mística)
+
+Criaturas Genéticas
+
+Vulnerável a produtos químicos experimentais ou
+soro supressor que pode enfraquecer suas
+mutações temporariamente.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Sub-Raças e Híbridos
+
+🧛🦸
+🦸1. Sub-Raças
+Raça Base
+
+Sub-Raça
+
+Benefícios Adicionais
+
+🦸1. Sub-Raças
+Humano
+Aprimorado
+
+Inventor Nato
+
+A cada descanso longo, cria 1 dispositivo
+tecnológico de uso único, com efeitos definidos
+pelo mestre (Ex.: granada de pulso, drone de
+vigilância, campo de força).,
+Pode ter até 3 dispositivos ativos
+simultaneamente.
+
+Humano
+Aprimorado
+
+Poder Latente Escolha 1 Poder Inato ao criar o personagem:
+Leve Telecinese — Mover objetos pequenos
+(até 2 kg) com a mente, alcance de 6m.,
+Resistência Física — Redução de 1 ponto de
+dano físico por ataque recebido.,
+Eletrocinese Leve — Gerar pequenas
+descargas elétricas (1d12 elétrico, alcance de
+toque).,
+Regeneração Acelerada — Recupera +5 PV
+por turno, desde que não esteja inconsciente.
+
+Alienígen
+
+Marciano
+
+Telepatia Pode se comunicar mentalmente com
+qualquer criatura a até **12 metros** que
+compreenda uma língua.
+Metamorfose Parcial Pode alterar aspectos
+físicos menores, como cor da pele, estrutura
+facial ou extensão dos membros.
+Tempo de transformação: 1 ação.*
+Limite: Até 3 mudanças antes de um descanso
+curto.*
+
+Alienígen
+
+Xenomorfo
+
+Garras Afiadas — Ataques corpo a corpo
+causam +2 de dano adicional (corte ou
+perfuração, escolha ao atacar)
+Resistência a Venenos — Testes de resistência
+contra venenos são feitos com vantagem e
+
+🦸1. Sub-Raças
+sofre metade do dano de fontes venenosas ou
+químicas
+Mutante
+Biomecânico
+
+Adaptador
+
+No início de cada combate ou desafio, pode
+escolher uma resistência temporária até o fim
+da cena:
+Fogo,,
+Frio,,
+Elétrico,,
+Ácido,,
+Radiação.,
+Membros Modulares — Pode transformar uma
+parte do corpo em ferramenta ou arma simples,
+como:
+Braço-lâmina (dano 1d8 cortante),,
+Gancho escalador (+2 em testes de Atletismo),,
+Ferramenta técnica (+2 em testes de
+Tecnologia).
+
+Mutante
+Biomecânico
+
+Artífice
+
+Regeneração Acelerada — Recupera 7 PV por
+turno automaticamente, desde que esteja
+consciente.
+Sistemas de Reparos Internos Pode realizar
+um teste de Constituição (CD com o mestra )
+para interromper qualquer condição debilitante
+(ex.: envenenamento, sangramento), uma vez
+por descanso curto.
+
+Fantasma
+
+Poltergeist
+
+Manipulação à Distância — Pode mover ou
+manipular objetos de até 10 kg dentro de um
+raio de 12 metros como uma ação.
+→ Pode usar essa habilidade para abrir portas,
+
+🦸1. Sub-Raças
+puxar alavancas ou atacar com objetos
+improvisados (1d6 de dano contundente)
+Assombração — Ganha +2 em testes de
+Intimidação ao usar sua manipulação
+paranormal
+Fantasma
+
+Sombrio
+
+Invisibilidade Temporária — Pode se tornar
+invisível por até 1 minuto ou até realizar uma
+ação ofensiva.
+→ Usável 1 vez por descanso curto
+Afinidade com a Escuridão — Ganha +2 em
+testes de Furtividade enquanto estiver em
+áreas de baixa iluminação ou escuridão total
+
+Dragão
+
+Dragão
+Serpentino
+
+Corpo Ágil — Ganha +2 em testes de Acrobacia
+e pode passar por espaços tão estreitos quanto
+30 cm, mesmo sem se espremer.
+Sopro Serpentino — Pode liberar uma rajada
+de ar pressurizado ou jato d'água:
+Alcance: linha de 9 metros.,
+Dano: 4d6 de dano de concussão ou água,
+conforme o elemento escolhido.,
+Teste de resistência: Agilidade (CD baseada no
+Poder) para metade do dano.
+Movimento Fluído — Não provoca ataques de
+oportunidade ao sair do alcance de inimigos.
+
+Dragão
+
+Dragões
+Sinápticos
+
+Manipulação Estelar — Pode criar uma esfera
+de energia estelar concentrada:
+
+🦸1. Sub-Raças
+Alcance: 12 metros,
+Dano: 4d10 radiante,
+Área: explosão de 3 metros de raio,
+Recarga: 1 vez por descanso longo,
+Consciência Cósmica — Ganha +2 em testes
+de Percepção e Intuição, podendo detectar
+presenças vivas até 10 metros,
+Armadura de Plasma — Sua pele emana calor
+estelar: criaturas que causarem dano corpo a
+corpo ao dragão sofrem automaticamente 1d8
+de dano Plasma como represália.
+
+Ciborgue
+
+IA Autônoma
+
+Pode se desconectar do corpo como uma ação,
+projetando sua consciência em rede ou
+sistemas eletrônicos próximos, por até 1
+minutos.​
+​
+Durante a desconexão:
+O corpo permanece inerte.,
+A IA pode se mover através de redes digitais ou
+se manifestar em sistemas até 30 metros de
+distância.,
+Pode realizar uma ação de manipulação por
+rodada (ex.: abrir portas, desativar segurança,
+coletar dados).,
+Resistência Cibernética — Ganha vantagem
+em testes de resistência contra intrusão digital
+(hackers) e efeitos que tentem controlar ou
+desligar sistemas cibernéticos.
+
+🦸1. Sub-Raças
+Ciborgue
+
+Exterminador
+
+Aprimoramento de Combate — Recebe +2 em
+testes e rolagens de ataque com armas corpo a
+corpo ou à distância.
+Resistência Mecânica — Reduz em 2 pontos
+todo dano causado por armas não-energéticas
+(balísticas, contundentes, cortantes) e recebe
+vantagem em testes de resistência contra
+efeitos que causem dano mecânico ou
+estrutural
+
+Simbionte
+
+Simbioide
+Sombrio
+
+Asas de Trevas — Pode manifestar asas
+simbióticas, ganhando a capacidade de voar a
+até 12 metros de deslocamento por rodada.
+→ As asas podem ser recolhidas ou ativadas
+como uma ação bônus.
+Camuflagem Sombria — Quando em áreas de
+escuridão ou penumbra, recebe +2 em testes
+de Furtividade
+
+Simbionte
+
+Simbioide
+Energético
+
+Aprimoramento Neural — Recebe +2 em testes
+de Reflexos e Iniciativa.
+Velocidade Sobrenatural — Aumenta o
+deslocamento base em +6 metros.
+→ Pode realizar uma ação de movimento
+adicional 1 vez por combate sem custo de
+ação.
+Ataque Acelerado — Quando usa a ação de
+Ataque, pode realizar um ataque corpo a corpo
+adicional (com desvantagem)
+
+🦸1. Sub-Raças
+Mago
+
+Feiticeiro
+
+Dom da Aprendizagem — Ao subir de nível,
+pode criar 1 magia personalizada, com efeitos
+definidos junto ao mestre, ao invés de escolher
+apenas magias existentes.
+Estudo Acelerado — Ganha +2 em testes de
+Conhecimento Arcano e Arcanismo.
+Versatilidade Mágica — Pode modificar magias
+já conhecidas:
+Alterar tipo de dano (ex.: de fogo para gelo),,
+Ajustar alcance ou área (até +2 mestros ).,
+1 vez por descanso longo.
+
+Mago
+
+Encantador
+
+Encantamento Temporário — Pode imbuir uma
+arma ou armadura com magia, concedendo:
+Armas: +1 de dano (mágico) por 1 Minuto.,
+Armaduras: +1 na Classe de Armadura (CA)
+por 1 Minuto .,
+→ Tempo de conjuração: 1 ação.
+→ Limite: até 1 objetos simultaneamente.
+Forjador Arcano — Recebe +2 em testes de
+Arcanismo relacionados à criação, identificação
+e desativação de itens mágicos.
+Reforço Duradouro — Com 1 hora de trabalho
+e componentes apropriados, pode criar um
+encantamento permanente de nível 1
+em um item uma vez por semana (com
+aprovação do mestre).
+
+Criatura
+Genética
+
+Híbrido
+Animal
+
+Transformação Parcial — Pode transformar
+partes do corpo (braços, pernas, olhos, etc.)
+para ganhar habilidades relacionadas a um
+
+🦸1. Sub-Raças
+animal escolhido.
+→ Exemplos:
+Garras de Lobo: +1d6 de dano cortante.,
+Visão de Águia: +2 em testes de Percepção.,
+Braços de Gorila: +2 em testes de Força.,
+→ Transformar ou desfazer leva uma ação
+bônus.
+Instinto Selvagem — Recebe +2 em testes de
+Sobrevivência e pode detectar presas ou
+predadores num raio de 12 metros.
+Criatura
+Genética
+
+Regenerador
+
+Regeneração Acelerada — Recupera 5 PV
+automaticamente por turno, desde que esteja
+consciente.
+Autocura Concentrada — Pode gastar uma
+ação para se concentrar na regeneração,
+recuperando 1d10 + Mod. Constituição
+Resistência Natural — Recebe vantagem em
+testes contra sangramento e veneno, graças à
+rápida substituição celular.
+
+🧛‍♂️
+
+​
+**Nome do Híbrido:** [Exemplo: Dragão-Fantasma,
+Ciborgue-Mutante, etc.] ​
+
+📜 **Descrição:**
+
+[Explique brevemente a combinação das raças, como se
+manifestam fisicamente, culturalmente ou em habilidades. Ex.:
+Um híbrido Dragão-Fantasma possui escamas etéreas e pode
+atravessar paredes.] ​
+​
+**Atributos Híbridos:**
+
+💪
+
+✅ +2 em [atributo principal da Raça 1]
+✅ +2 em [atributo principal da Raça 2] ​
+🌀 **Habilidades Híbridas:**
+
+✅ **[Nome da habilidade da Raça 1]** — [descrição e efeito]
+✅ **[Nome da habilidade da Raça 2]** — [descrição e efeito]
+✅ **[Nome da habilidade da Raça 3]** — [descrição e efeito]
+⚠️ **Fraqueza:**
+✅ **[Escolha uma fraquezae deefeito].
+uma das raças]** — [descrição
+🚫 Limitações de Híbridos — Heróis Unidos
+
+nao poder pega nenhum sub-raças so as principals e o Híbrido
+tem que se aprovado pelo mestres primero
+
+🧛 Exemplos de Híbridos Populares
+
+Híbrido
+
+Atributos
+
+Habilidades
+Especiais
+
+Fraqueza
+
+Meio-Alien
+
++1 Agi, ​
+
+Evolução
+
+Pode ser detectado
+
+🧛 Exemplos de Híbridos Populares
+Meio-Humano
+
++1 Res
+
+alienígena +
+Adaptabilidade
+humana
+
+por tecnologia alien
+
+Fantasma-Drag +1 For, ​
+ão
++1 Von
+
+Sopro elemental +
+Intangibilidade
+
+Fraqueza a magia
+anti-dragão
+
+Mutante
+Ciborgue
+
+Regeneração
+mecânica +
+Armamento
+biológico
+
+Vulnerável a EMPs
+
+Mago-Simbiont +1 Int, ​
+e
++1 Von
+
+Magia evolutiva +
+Transformação
+simbiótica
+
+Dependência de
+energia mágica
+
+Criatura
+Genética
+Alienígena
+
+Mutação Adaptativa Fraqueza a
++ Sentidos
+tecnologia
+aprimorados
+anti-mutação
+
++1 Res​
++1 Int
+
++1 For​
++1 Res
+
+Humano-Dragã +1 Agi​
+o
++1 Pon
+
+Transformação
+Parcial +
+Resistência
+Elemental
+
+Magia anti-dragão
+ou controle mental
+
+Ciborgue-Fanta +1 Von​
+sma
++1 Int
+
+Intangibilidade
+cibernética +
+Processamento
+avançado
+
+Vulnerável a
+feitiços
+anti-fantasma
+
+Alienígena-Mag +1 Car, ​
+o
++1 Pon
+
+Magia alienígena +
+Resistência a
+ataques
+energéticos
+
+Dependência de
+catalisadores
+mágicos
+
+⏫3. Evolução de Híbridos e Sub-Raças
+Os personagens híbridos e de sub-raças podem evoluir
+gastando Pontos de Evolução (PE) para:
+
+🌱 **Evolução:**
+
+✅mais
+Pode evoluir para: **Híbrido Supremo** — combinando
+habilidades ou ampliando poderes de ambas as
+linhagens.
+
+✅ Custo de Evolução: **30 PE**
+
+📌 4. Criando Sua Própria Raça ouSub-Raça
+Se o jogador quiser criar um Raça ou Sub-Raça único, ele
+deve seguir este modelo:
+
+🧬Nome da Raça/Sub-Raça:
+
+📜
+
+[Nome exclusivo da raça ou sub-raça criada]​
+Descrição:​
+[Explique a origem, aparência física, cultura ou traços
+comportamentais da raça/sub-raça. O que a torna única?]​
+Atributos Raciais:​
+:+2 em [atributo principal]​
+:+2 em [atributo secundário]​
+: Habilidades Raciais:​
+: [Nome da Habilidade 1] — [descrição e efeito
+mecânico]​
+: [Nome da Habilidade 2] — [descrição e efeito
+mecânico]​
+: [Nome da Habilidade 3] — [descrição e efeito
+mecânico]​
+Fraqueza:​
+:[Descreva uma limitação ou vulnerabilidade clara]​
+(Ex.: vulnerável a fogo, fraco contra magia psíquica, etc.)​
+​
+Evolução:​
+:Pode evoluir para: [Nome da evolução ou forma
+superior] — [descrição dos novos poderes e mudanças
+físicas]​
+:Custo de Evolução: [10] PE
+
+✅
+✅
+✅
+✅
+
+💪
+✅
+✅🌀
+
+⚠️
+
+🌱
+
+✅
+
+✅
+
+📌 Classes
+As Classes definem o estilo de combate e as habilidades
+principais dos personagens. Elas determinam como o
+herói luta, quais poderes desenvolve e como interage com
+o mundo.
+
+✅
+✅
+✅
+
+Cada classe recebe:​
+Atributos principais (+2 em um atributo e +1 em outro)​
+Habilidades de Classe (benefícios únicos que evoluem
+com o tempo)​
+Perícias recomendadas​
+Progressão de Poderes (melhorias ao longo dos níveis)
+
+✅
+
+📌 1. Lista ​de Classes​
+🥊
+Lutador Corpo a Corpo​
+✅
+Atributos Prioritários: Força e Resistência​
+✅ Testes Resistidos:
+Resistência Física (Força
+Resistência)​
+
+✅ Estilo de Jogo: Fortee resistência​
+em combate direto, golpes físicos
+✅ Habilidades Únicas:
+●​ Golpe Poderoso – Dano aumentado em ataques corpo
+a corpo
+●​ Resistência Aprimorada – Redução de dano de
+ataques físicos
+
+📌
+Especializações:​
+🔸 Berserker
+– Fúria incontrolável que aumenta o dano​
+🔸 Tanque – Defesa elevada e resistência a dano
+🏃
+Combatente Ágil​
+✅
+Atributos Prioritários:Agilidade e Vontade​
+✅✅Testes
+Resistidos: Resistência Reflexiva (Agilidade)​
+Estilo de Jogo: Esquivas rápidas, ataques ágeis,
+acrobacias​
+✅ Habilidades Únicas:
+
+●​ Desvio Rápido – Bônus ao esquivar de ataques
+●​ Ataque Relâmpago – Pode atacar e se mover antes do
+inimigo
+
+📌
+Especializações:​
+🔸 Ninja – Furtividade e ataques surpresa​
+
+🔸 Acrobata – Movimentos impossíveis e ataques aéreos
+
+🏹
+Blaster (Atacante à Distância)​
+✅
+Atributos Prioritários: Inteligência e Agilidade​
+✅ Testes Resistidos: Resistência
+Mental (Inteligência
+Vontade)​
+✅ Estilo de Jogo: Ataquestáticas​
+de longo alcance, tecnologia e
+✅ Habilidades Únicas:
+●​ Tiro Preciso – Bônus ao atacar de longa distância
+●​ Análise Tática – Pode prever movimentos inimigos
+
+📌
+Especializações:​
+🔸 Sniper – Foco em tiros de precisão​
+
+🔸 Engenheiro de Armasgadgets
+– Criação de novas armas e
+🔹
+Mutante Evolutivo​
+✅
+Atributos Prioritários: Resistência e Ponder​
+✅ Testes Resistidos: Resistência
+Física (Resistência e
+Ponder )​
+✅ Estilo de Jogo: Adaptação,
+regeneração e mudanças
+corporais​
+✅ Habilidades Únicas:
+●​ Regeneração Acelerada – Cura rápida de ferimentos
+●​ Mutação Adaptativa – Pode mudar de forma para
+resistir a ataques
+
+📌
+Especializações:​
+🔸 Absorvedor de Energia
+– Usa energia inimiga para se
+fortalecer​
+🔸 Mutante Caótico –combate
+Habilidades mutáveis a cada
+
+🔮
+Mago/Arcano​
+✅
+Atributos Prioritários: Inteligência e Vontade​
+✅ Testes Resistidos:Inteligência
+Resistência Mental (Vontade e
+)​
+✅ Estilo de Jogo: Magia,
+manipulação de energia e
+feitiços​
+✅ Habilidades Únicas:
+●​ Magia Elemental – Pode lançar feitiços baseados em
+fogo, gelo, eletricidade etc.
+●​ Escudo Arcano – Proteção contra ataques físicos e
+mágicos
+
+📌
+Especializações:​
+🔸🔸Mago
+de Batalha – Combina magia com combate físico​
+Invocador – Chama criaturas para lutar ao seu lado
+​
+🤖
+Ciborgue/Engenheiro​
+✅
+Atributos Prioritários: Inteligência e Ponder​
+✅ Testes Resistidos: Resistência
+Mental (Inteligência e
+Ponder)​
+✅ Estilo de Jogo: Tecnologia
+avançada, implantes
+cibernéticos​
+✅ Habilidades Únicas:
+●​ Modo Turbo – Aumento temporário de velocidade e
+força
+●​ Hacking Avançado – Pode invadir sistemas e
+desativar dispositivos
+
+📌
+Especializações:​
+🔸🔸Ciborgue
+Blindado – Tanque com defesa aprimorada​
+Hacker Tecnológico – Mestre da invasão digital
+
+👻
+Fantasma/Sombra​
+✅ Atributos Prioritários: Agilidade e Vontade​
+
+✅
+Testes Resistidos: Resistência Reflexiva (Agilidade)​
+✅ Estilo de Jogo: Invisibilidade,
+intangibilidade, ataques
+surpresa​
+✅ Habilidades Únicas:
+●​ Passar pela Matéria – Pode atravessar paredes e
+objetos
+●​ Ataque Fantasma – Dano extra contra inimigos
+desprevenidos
+
+📌
+Especializações:​
+🔸
+Caçador de Almas – Rouba energia vital dos inimigos​
+🔸 Mestre da Invisibilidadedetectar
+– Torna-se quase impossível de
+🔪
+Predador/Assassino​
+✅
+Atributos Prioritários: Agilidade e Inteligência​
+✅✅Testes
+Resistidos: Resistência Reflexiva (Agilidade)​
+Estilo de Jogo: Ataques furtivos, golpes críticos,
+rastreamento​
+✅ Habilidades Únicas:
+●​ Ataque Furtivo – Dano extra ao atacar inimigos
+desprevenidos
+●​ Camuflagem – Pode se esconder facilmente
+
+📌
+Especializações:​
+🔸 Mestre da Caçada – Rastreamento e armadilhas​
+
+🔸 Assassino Silencioso – Elimina
+alvos sem ser notado​
+​
+🛡️
+Guardião de Suporte​
+✅
+Atributos Prioritários: Vontade e Ponder​
+✅ Testes Resistidos: Ponder)​
+Resistência Mental (Vontade e
+✅
+Estilo de Jogo: Especialista em proteger aliados,
+fornecer bônus e curar ferimentos. Atua no centro da
+equipe, reforçando a defesa, sustentação e removendo
+condições negativas.​
+Habilidades Únicas:​
+Aura Protetora — Pode ativar uma aura de 6 metros que
+concede +2 na Classe de Armadura (CA) e resistência a
+dano elemental a todos os aliados dentro da área.​
+→ Duração: 3 rodadas​
+→ Usável 3 vezes por descanso longo.​
+Toque Restaurador — Como uma ação, pode curar um
+aliado em até 1d8 + Mod. Vontade pontos de vida.​
+
+✅
+
+✅
+
+✅
+
+📌
+
+​
+Especializações:
+
+🔸
+Escudeiro Arcano — Foco na defesa mágica; pode
+projetar escudos de energia que absorvem até 10 pontos
+de dano por combate e anulam condições como
+envenenamento ou paralisia.
+
+🔸cura
+Bastião Vital — Foco em cura e sustentação; aumenta a
+do Toque Restaurador em +1d8 e pode reviver um
+aliado inconsciente com 1 PV, uma vez por descanso
+longo
+
+💖⚡
+
+​
+Vida e Energia​
+​
+o sistema Heróis Unidos, cada classe possui dois recursos
+principais:
+
+💖
+Vida (HP - Health Points) → Determina a
+resistência do personagem antes de ser derrotado.
+●​ ⚡ Energia (EP - Energy Points) → Usada para ativar
+poderes especiais, magias ou habilidades.
+💖 ⚡ 1. Como Funciona Vida e Energia?
+💖
+Vida (HP)​
+✅✅Começa
+com um valor base determinado pela classe.​
+Aumenta a cada nível com base no dado de vida da
+classe + Constituição.​
+✅
+Quando chega a 0, o personagem pode ficar
+inconsciente ou morrer, dependendo da situação.
+⚡
+Energia (EP)​
+✅ Usada para ativar habilidades
+especiais, golpes fortes e
+magias.​
+✅
+Recuperada ao descansar ou com certos efeitos.​
+✅ Se acabar, o personagem fica exausto e não pode usar
+●​
+
+podere
+
+💖 ⚡Tabela de Vida e Energia por Classe
+Classe
+
+Dado de Vida
+(HP)
+
+Dado de Energia
+(EP)
+
++ Res por 1d6 + Pon por nível
+🥊Lutador Corpo a Corpo 1d12
+nível
++ Res por 1d8 + Von por nível
+🏃Combatente Ágil 1d10
+nível
+1d8 + Res por
+1d10 + Int por nível
+🏹Blaster
+nível
++ Res por 1d8 + Int por nível
+🔹Mutante Evolutivo 1d12
+nível
+
+💖 ⚡Tabela de Vida e Energia por Classe
+
+🔮Mago/Arcano
+
+1d8 + Res por
+nível
+
+1d12 + Pon por nível
+
+​
+Ciborgue/Engenheiro​
+
+1d10 + Res por
+nível
+
+1d10 + Int por nível
+
+🤖
+
++ Res por
+1d12 + Von por nível
+👻Fantasma/Sombra 1d8
+nível
++ Res por 1d8 + Int por nível
+🔪Predador/Assassino 1d10
+nível
++ Res por 1d10 + Pon por nível
+🛡️ Guardião de Suporte 1d10
+nível
+
+💖 ⚡ Explicação dos Dados:
+●​ Vida (HP): O dado maior significa mais resistência.
+Um Lutador Corpo a Corpo tem 1d12, enquanto um
+Mago/Arcano tem 1d8.​
+●​ Energia (EP): O dado maior significa mais energia
+para usar poderes. Um Mago/Arcano tem 1d12,
+enquanto um Lutador tem 1d6
+
+💖 ⚡3. Como Determinar Vida e Energia Inicial?
+
+Cada personagem começa com um valor inicial de HP e
+EP.
+
+💖 HP⚡Inicial:
+Dado de Vida máximo + Resistência​
+EP Inicial: Dado de Energia máximo +
+Inteligência/Vontade/Ponder/ (o que a classe usa)
+
+📌 Exemplo 1:
+
+●​ Um Lutador Corpo a Corpo (1d12 HP, 1d6 EP) com
+Resistência +3 começa com:
+○​ HP Inicial: 12 + 3 = 15 HP
+○​ EP Inicial: 6 + 1 (Inteligência baixa) = 7 EP
+
+📌 Exemplo 2:
+
+●​ Um Mago/Arcano (1d6 HP, 1d12 EP) com Ponder +4
+começa com:
+○​ HP Inicial: 6 + 2 = 8 HP
+○​ EP Inicial: 12 + 4 = 16 EP
+
+📌 4. Aumento de HP e EP por Nível
+
+✅de HP
+A cada nível, o personagem ganha 1 rolagem do dado
++ CON e 1 rolagem do dado de EP + INT/SAB/CAR.
+💖 ⚡ Exemplo:
+●​ Um Lutador Corpo a Corpo no Nível 5
+
+○​ HP inicial: 15
+○​ Rolou 1d12 por nível e obteve: 8, 7, 10, 9
+○​ HP Total: 15 + 8 + 7 + 10 + 9 = 49 HP
+○​ EP Total: 7 + (1d6 por nível)
+
+💖 ⚡5. Como Recuperar Vida e Energia?
+🔹 Vida (HP)
+​
+
+●​ Cura natural: Recupera 1d6 HP por hora de descanso.
+●​ Cura acelerada: Poderes de cura, medkits,
+regeneração.
+●​ Regeneração especial: Alguns personagens (ex:
+Mutantes) podem regenerar HP mais rápido.
+
+🔹 Energia (EP)
+
+●​ Descanso curto: Recupera 25% do EP em 10 minutos
+de descanso.
+●​ Descanso longo: Recupera todo o EP em 8 horas de
+descanso.
+●​ Itens e poderes: Alguns itens e habilidades restauram
+EP.
+
+💖 ⚡6. Exemplo de Vida e Energia em Combate
+🔹 Exemplo 1: Jake Long (Combatente Ágil)
+​
+
+●​ HP: 32/40
+●​ EP: 8/20
+●​ Ele decide descansar 10 minutos → Recupera 5 EP
+
+🔹 Exemplo 2: Ben 10 (Mutante Evolutivo usando Rath)
+●​ HP: 10/60 (muito ferido!)
+●​ EP: 5/15
+●​ Ele usa sua regeneração → Recupera 10 HP
+automaticamente!
+
+📌Perícias, Proficiências e​ Recompensas por Classe​
+
+📌 1. Como Funcionam Perícias e Proficiências?
+
+🔹personagem.
+Perícias: Representam habilidades e treinamentos do
+Cada classe pode escolher um número
+limitado de perícias para se especializar.
+
+🔹ferramentas
+Proficiências: Indicam os tipos de armas, armaduras e
+que a classe pode usar sem penalidades.
+​
+
+📌 2. Tabela de Perícias, Proficiências e por Classe
+Classe
+
+Perícias (Escolha Proficiências
+X)
+
+🔹
+Lutador Corpo a Atletismo,
+Corpo
+Intimidação,
+
+Sobrevivência,
+Percepção,
+Reflexos
+
+🔹 Combatente Ágil Acrobacia,
+Furtividade,
+🔹
+Blaster
+(Atacante à
+Distância)
+
+🔹
+Mutante
+Evolutivo
+
+Armas corpo a corpo,
+armaduras pesadas e
+médias
+
+Armas leves e médias,
+armaduras leves
+
+Reflexos,
+Atletismo,
+Percepção
+Reflexos,
+Engenharia,
+Investigação, ​
+Percepção​
+Sobrevivência
+
+Armas de longo alcance,
+armaduras leves e médias
+
+Resistência,
+Atletismo,
+
+Armas naturais,
+armaduras médias
+
+📌 2. Tabela de Perícias, Proficiências e por Classe
+🔹 Mago/Arcano
+
+Engenharia,
+Medicina,
+Reflexos
+Conhecimento
+Arcano,
+Investigação,,
+Intuição,
+Reflexos
+
+Engenharia,
+🔹
+Ciborgue/Engenheir Conhecimento
+o
+
+Tecnológico,
+Sobrevivência,
+Reflexos
+
+Furtividade,
+🔹
+Fantasma/Sombra
+Acrobacia,
+
+Magia, armas leves,
+armaduras leves
+
+Armas tecnológicas,
+ferramentas, armaduras
+médias
+
+Magia espectral, armas
+leves, armaduras leves
+
+Reflexos,
+Intimidação
+
+Furtividade,
+🔹
+Predador/Assassino Acrobacia,
+
+🛡️
+Guardião de
+Suporte
+
+Armas médias,, armas
+leves, armaduras leves
+
+Intimidação,
+Reflexos
+Intuição,
+Medicina,
+Percepção,
+Reflexos
+
+Armas de Level e médias​
+armaduras médias e
+pesadas
+
+📌 3. Explicação dos Elementos
+
+✅
+Perícias: Cada classe pode escolher 3 ou 4 perícias
+entre as listadas. Se o personagem já possui uma perícia
+de outra fonte (como antecedentes), pode escolher outra
+da lista da classe.
+
+✅armadura
+Proficiências: Se o personagem usar uma arma ou
+na qual não tem proficiência, recebe -4 de
+penalidade nos testes de ataque ou defesa.
+
+✅
+Recompensas de Classe: Pequenos bônus exclusivos
+que cada classe recebe, tornando-as mais únicas no início
+do jogo.
+
+📌 Progressão​ de Classes​
+
+📌 1. Regras Gerais da Progressão
+
+🔹
+
+​
+Atributos → No nível 4, 8, 12, 16 e 20, o personagem
+pode aumentar +2 em um atributo ou +1 em dois
+diferentes.​
+Habilidades Exclusivas → Cada classe recebe
+habilidades únicas nos níveis 1, 3, 5, 7, 10, 14, 18 e 20.​
+Ataques Extras → Algumas classes ganham ataques
+adicionais no nível 5, 11 e 17.
+
+🔹
+
+🔹
+
+📌 2. Progressão por Classe​
+
+🥊Lutador Corpo a Corpo (Tanque e Dano Corpo a Corpo)
+Nível
+
+Habilidade Ganha
+
+1
+
+Fúria Combatente (Dano extra em combate corpo a corpo)
+
+2
+
+Defesa Aprimorada (+1 CA quando sem armadura pesada)
+
+3
+
+Golpe Poderoso (Pode usar EP para dobrar dano em um ataque)
+
+4
+
++2 em um Atributo
+
+🥊Lutador Corpo a Corpo (Tanque e Dano Corpo a Corpo)
+5
+
+Ataque Extra
+
+6
+
+Pele Resistente (+2 resistência a dano físico)
+
+7
+
+Golpe Brutal (Se acertar crítico, rola dano extra)
+
+8
+
++2 em um Atributo
+
+9
+
+Regeneração de Combate (Recupera 5 HP por turno abaixo de 50% de HP)
+
+10
+
+Defesa Inquebrável (Reduz todo dano recebido pela metade 1x por dia)
+
+11
+
+Ataque Extra 2
+
+12
+
++2 em um Atributo
+
+13
+
+Impacto Avassalador (+3 de dano em ataques corpo a corpo)
+
+14
+
+Resistência Suprema (+5 resistência a dano físico)
+
+15
+
+Golpe Sísmico (Causa dano em área ao bater no chão)
+
+16
+
++2 em um Atributo
+
+17
+
+Ataque Extra 3
+
+18
+
+Golpe Colossal (Se critar, causa dano em área)
+
+19
+
+Determinação Absoluta (Se chegar a 0 HP, pode continuar lutando por 1 turno)
+
+20
+
+Modo Berserker (Por 1 minuto, dano dobrado e resistência aumentada)
+
+​
+
+🏃Combatente Ágil (Dano e Mobilidade)
+Nível
+
+Habilidade Ganha
+
+1
+
+Reflexos Sobrenaturais (Bônus +2 em esquiva)
+
+2
+
+Ataque Veloz (+1 de iniciativa e pode se mover depois de atacar)
+
+3
+
+Golpe Acrobático (Dano extra se atacar após esquivar)
+
+4
+
++2 em um Atributo
+
+5
+
+Ataque Extra
+
+6
+
+Passo Fantasma (Ignora ataques de oportunidade 1x por turno)
+
+🏃Combatente Ágil (Dano e Mobilidade)
+7
+
+Combo Rápido (Pode usar uma ação bônus para atacar novamente)
+
+8
+
++2 em um Atributo
+
+9
+
+Perícia Aprimorada (+2 em testes de Reflexos e Acrobacia)
+
+10
+
+Movimento Relâmpago (Dobra deslocamento por 1 turno)
+
+11
+
+Ataque Extra 2
+
+12
+
++2 em um Atributo
+
+13
+
+Impacto Preciso (+3 em ataques à distância)
+
+14
+
+Contra-Ataque Ágil (Se esquivar, pode atacar de volta)
+
+15
+
+Esquiva Suprema (Ganha resistência a dano de área)
+
+16
+
++2 em um Atributo
+
+17
+
+Ataque Extra 3
+
+18
+
+Golpe Instantâneo (Pode atacar primeiro mesmo sendo surpreendido)
+
+19
+
+Reflexos Divinos (Pode refazer 1 teste de Reflexos por combate)
+
+20
+
+Modo Ultra Rápido (3 ações extras por 1 turno)
+
+​
+
+🧙Mago/Arcano (Dano e Controle Mágico)
+Nível
+
+Habilidade Ganha
+
+1
+
+Magia Inicial (Aprende 3 magias)
+
+2
+
+Aprimoramento Mágico (+1 magia de nível 2)
+
+3
+
+Feitiço Instantâneo (Pode lançar magia como ação bônus)
+
+4
+
++2 em um Atributo
+
+5
+
+Aprimoramento Mágico (+1 magia de nível 3)
+
+6
+
+Defesa Arcana (Redução de dano mágico em 3)
+
+7
+
+Controle Elemental (Pode escolher um novo tipo de dano para ataques mágicos)
+
+8
+
++2 em um Atributo
+
+🧙Mago/Arcano (Dano e Controle Mágico)
+9
+
+Contra-Feitiço (Anula 1 magia do inimigo por descanso)
+
+10
+
+Absorção Arcana (Recupera 5 EP quando sofre dano mágico)
+
+11
+
+Magia Avançada (+1 magia de nível 4)
+
+12
+
++2 em um Atributo
+
+13
+
+Magia Avançada (+1 magia de nível 5)
+
+14
+
+Magia Potencializada (Dobrar dano de uma magia 1x por combate)
+
+15
+
+Magia Suprema (Lança qualquer feitiço sem gastar EP 1x por dia)
+
+16
+
++2 em um Atributo
+
+17
+
+Ressurreição Arcana (Pode reviver 1 aliado por dia)
+
+18
+
+Mana Infinita (Recupera 5 EP por turno)
+
+19
+
+Explosão Arcana (Dano em área ao gastar EP)
+
+20
+
+Modo Arquimago (Todas magias lançadas têm +5 de dano e +2 na CD)
+
+​
+
+🏹Blaster (Atacante À Distância)
+Nível
+
+Habilidade Ganha
+
+1
+
+Tiro Preciso (+2 em ataques a mais de 9m)
+
+2
+
+Postura Defensiva (Pode usar EP para ganhar +2 CA por 1 turno)
+
+3
+
+Mira Avançada (Dobro de alcance em armas de projéteis)
+
+4
+
++2 em um Atributo
+
+5
+
+Ataque Extra
+
+6
+
+Disparo Rápido (Pode atacar como ação bônus se não se mover)
+
+7
+
+Perfuração (Ignora 3 pontos de CA de cobertura)
+
+8
+
++2 em um Atributo
+
+9
+
+Bater e Correr (+1 deslocamento após atacar)
+
+🏹Blaster (Atacante À Distância)
+10
+
+Sobrecarregar Munição (Dano dobrado ao gastar EP)
+
+11
+
+Ataque Extra 2
+
+12
+
++2 em um Atributo
+
+13
+
+Disparo Letal (+2 de dano em ataques de longo alcance)
+
+14
+
+Reflexos Aguçados (+2 em testes de Reflexos)
+
+15
+
+Disparo Triplo (Pode disparar contra 3 alvos diferentes)
+
+16
+
++2 em um Atributo
+
+17
+
+Ataque Extra 3
+
+18
+
+Mestre da Mira (Rerrola um ataque por combate)
+
+19
+
+Camuflagem Natural (Ganha furtividade após um ataque bem-sucedido)
+
+20
+
+Modo Sniper (Dano triplicado por 1 turno)
+
+🧛Mutante Evolutivo
+Níve
+l
+
+Habilidade Ganha
+
+1
+
+Regeneração (+2 HP por turno se abaixo de 50%)
+
+2
+
+Pele Resistente (+1 CA natural)
+
+3
+
+Mutabilidade (Pode escolher um novo traço mutante)
+
+4
+
++2 em um Atributo
+
+5
+
+Ataque Extra
+
+6
+
+Metabolismo Avançado (Resistência a venenos)
+
+7
+
+Mutação Adaptativa (Pode escolher uma nova mutação temporária 1x por dia)
+
+8
+
++2 em um Atributo
+
+9
+
+Regeneração Aprimorada (+4 HP por turno)
+
+🧛Mutante Evolutivo
+10
+
+Superforça (+2 de dano corpo a corpo)
+
+11
+
+Ataque Extra 2
+
+12
+
++2 em um Atributo
+
+13
+
+Instinto Aguçado (+2 em testes de Percepção e Reflexos)
+
+14
+
+Regeneração Total (Recupera 20 HP 1x por combate)
+
+15
+
+Mutação Suprema (Escolha um novo traço mutante permanentemente)
+
+16
+
++2 em um Atributo
+
+17
+
+Ataque Extra 3
+
+18
+
+Evolução Rápida (Pode trocar um traço mutante por outro 1x por dia)
+
+19
+
+Pele Indestrutível (Redução de dano físico em 5)
+
+20
+
+Modo Supremo (Ganha todos os traços mutantes por 1 minuto)
+
+🚀Ciborgue/Engenheiro
+Níve
+l
+
+Habilidade Ganha
+
+1
+
+Cibernética (Aprimoramento no corpo, +1 em CA)
+
+2
+
+Reparo Rápido (Recupera 5 HP gastando EP)
+
+3
+
+Sensor Avançado (+2 em testes de Percepção)
+
+4
+
++2 em um Atributo
+
+5
+
+Ataque Extra
+
+6
+
+Escudo Energético (+2 CA ao gastar EP)
+
+7
+
+Arma Embutida (Escolhe uma arma integrada ao corpo)
+
+8
+
++2 em um Atributo
+
+9
+
+Autoreparo (Regenera 3 HP por turno)
+
+🚀Ciborgue/Engenheiro
+10
+
+Sobrecarga (Aumenta dano de ataque por 1 turno)
+
+11
+
+Ataque Extra 2
+
+12
+
++2 em um Atributo
+
+13
+
+Hackeamento (Pode desativar sistemas eletrônicos)
+
+14
+
+Armadura Suprema (+3 CA total)
+
+15
+
+Melhoramento Extremo (Escolhe uma melhoria cibernética)
+
+16
+
++2 em um Atributo
+
+17
+
+Ataque Extra 3
+
+18
+
+Reparação Completa (Recupera 50% da vida 1x por dia)
+
+19
+
+Campo de Força (Resistência a dano por 1 minuto)
+
+20
+
+Modo Overclock (Todos os bônus duplicados por 1 min)
+
+​
+
+👻Fantasma/Sombra
+Nível
+
+Habilidade Ganha
+
+1
+
+sopo espectral atingem em uma área (4m em cone) 2d6+Vontade
+
+2
+
+Visão Espectral Enxerga seres invisíveis e espíritos ocultos
+
+3
+
+Emite um grito assustador que força inimigos próximos a testarem Vontade ou ficarem
+apavorados
+
+4
+
++2 em um Atributo
+
+5
+
+Ataque Extra
+
+6
+
+Sussurros do Além (Comunica-se com espíritos)
+
+7
+
+Roubo de Essência Drena 1d8 de vida ao atingir um inimigo com um ataque corpo a corpo
+
+8
+
++2 em um Atributo
+
+👻Fantasma/Sombra
+9
+
+Controle Sombrio (Afeta sombras para distrair inimigos)
+
+10
+
+Teleporta-se instantaneamente entre sombras dentro de 18m
+
+11
+
+Ataque Extra 2
+
+12
+
++2 em um Atributo
+
+13
+
+Sombra Viva Sua sombra pode se mover independentemente e distrair inimigos
+(Desvantagem nos ataques deles)
+
+14
+
+Corpo Fantasma (Imune a venenos e doenças)
+
+15
+
+Devaneio das Sombras (Pode se fundir a sombras)
+
+16
+
++2 em um Atributo
+
+17
+
+Ataque Extra 3
+
+18
+
+Assombração (Cria ilusões sombrias para assustar)
+
+19
+
+Mestre da Intangibilidade (Pode atravessar ataques evitar dano por 1 turno completo)
+
+20
+
+Modo Espectral (Fica incorpóreo por 1 minuto)
+
+🔪Predador/Assassino
+Nív
+el
+
+Habilidade Ganha
+
+1
+
+Ataque Furtivo (+1d6 de dano ao atacar inimigos distraídos)
+
+2
+
+Movimento Silencioso (+2 em testes de Furtividade)
+
+3
+
+Reflexos Rápidos (+2 em testes de Reflexos)
+
+4
+
++2 em um Atributo
+
+5
+
+Ataque Extra 1
+
+6
+
+Bater e Correr (+1 deslocamento após atacar)
+
+7
+
+Golpe Preciso (+2 de acerto em alvos desavisados)
+
+8
+
++2 em um Atributo
+
+🔪Predador/Assassino
+9
+
+Rastreador Implacável (Pode seguir ra
+stros sem falhas)
+
+10
+
+Movimento Relâmpago (Dobra deslocamento por 1 turno)
+
+11
+
+Ataque Extra 2
+
+12
+
++2 em um Atributo
+
+13
+
+Mestre do Engano (Pode se disfarçar rapidamente)
+
+14
+
+Golpe Perfeito (Pode rolar novamente ataques mal-sucedidos 1x por combate)
+
+15
+
+Mestre do Assassinato (Todos os ataques contra alvos surpresos são críticos)
+
+16
+
++2 em um Atributo
+
+17
+
+Ataque Extra 3
+
+18
+
+Reflexos Instintivos (Sempre age primeiro no combate)
+
+19
+
+Sombra Mortal (Fica invisível ao ficar parado na escuridão)
+
+20
+
+Modo Ultra Rápido (3 ações extras por 1 turno)
+
+🛡️ Guardião de Suporte
+Nível
+
+Habilidade Ganha
+
+1
+
+Como Reação impõe Desvantagem a um ataque contra um aliado a até 6m
+
+2
+
+Aliados a até 3m ganham +2 CA e Resistência a Dano igual ao seu mod. Ponder
+
+3
+
+Pode se mover até 6m como Reação para interceptar um ataque a um aliado
+
+4
+
++2 em um Atributo
+
+5
+
+Ataque Extra 1
+
+6
+
+7
+
+Reduz 3 de dano de ataques físicos sofridos ou redirecionados
+Como Ação Bônus, gasta EP para curar 4d8 HP de um aliado a até 9m
+
+🛡️ Guardião de Suporte
+8
+9
+
++2 em um Atributo
+Aliados a até 6m ganham +2 em testes de resistência e imunidade a medo
+
+10
+
+Imune a empurrões derrubadas e paralisias
+
+11
+
+Ataque Extra 2
+
+12
+
++2 em um Atributo
+
+13
+
+Pode absorver completamente o dano de qualquer ataque a um aliado, 1x por combate
+
+14
+
+Ganha +4 CA permanente
+
+15
+
+Pode bloquear criaturas até três vezes seu tamanho e criar cobertura total
+
+16
+
++2 em um Atributo
+
+17
+
+Ataque Extra 3
+
+18
+
+Barreira Viva Todos os aliados a até 3m recebem Resistência a todos os tipos de dano
+
+19
+
+Pode anular completamente qualquer ataque contra um aliado, 2x por dia
+
+20
+
+Modo Guardião Supremo Por 1 minuto Todos aliados a até **6m** ganham **+4 CA**,
+**regeneram metade do HP
+
+🌟
+
+—--------------------------------------------------------------------------------​
+Árvores de Habilidades e Especializações​
+Como Funciona?​
+Exemplo​
+1️⃣ Cada classe tem pelo menos 3 árvores de habilidades.​
+2️⃣ A cada níveis específicos (ex: 3, 5, 10,), o jogador
+escolhe habilidades dentro da árvore.​
+3️⃣ Algumas habilidades exigem pré-requisitos para serem
+liberadas
+
+🌳
+
+Árvores de Habilidades por Classe
+Blaster (Atacante à Distância)
+
+💥 Exemplo de Árvore:
+Precisão Mortal → Foca em dano
+crítico e tiros certeiros.​
+💨 Árvore: Velocidade
+Relâmpago → Dá movimentação
+extra e ataques rápidos.​
+🔋 Árvore:
+Sobrecarga Tecnológica → Usa armas
+energéticas com efeitos especiais.
+Exemplo de Habilidades:​
+✔ (Nível 3) Mira Laser: +2 em ataques à distância.​
+✔ (Nível 6) Disparo Duplo: Atira duas vezes no mesmo
+turno.​
+✔ (Nível 10) Sniper Perfeito: Se ficar parado, ignora 50%
+da CA do alvo
+Mutante Evolutivo
+
+🦸 Árvore: Adaptação Genética
+→ Aumenta resistências e
+cura.​
+👹 Árvore: Mutação
+Ofensiva → Ganha garras, presas,
+rajadas bioenergéticas.​
+🧠 Árvore: Evolução
+Mental → Poderes psíquicos e
+controle biológico.
+
+Exemplo de Habilidades:​
+✔ (Nível 3) Pele Endurecida: +1 CA natural.​
+✔ (Nível 6) Regeneração Rápida: Cura 5 HP por turno se
+abaixo de 50%.​
+✔ (Nível 10) Forma Suprema: Pode se transformar em uma
+versão aprimorada temporariamente
+Fantasma/Sombra
+
+👻 Árvore: Intangibilidade
+Avançada → Atravesse paredes
+e evite ataques.​
+🌑 Árvore: Mestre ataques
+das Sombras → Controle sombras para
+e furtividade.​
+🌀 Árvore: Ilusãoconfunda
+Fantasmagórica → Crie duplicatas e
+inimigos.
+​
+✔ (Nível 3) Invisibilidade Parcial: +3 em furtividade.​
+✔ (Nível 6) Forma Etérea: Pode atravessar ataques 1x por
+combate.​
+✔ (Nível 10) Viagem Sombria: Teletransporte entre
+sombras.
+
+🔥 Árvore baseados
+de Poder Elemental (Para personagens com poderes
+em fogo, gelo, eletricidade, etc.)
+
+Nível 1 - Controle Elemental (Pré-requisito: Nível 1+ e
+Afinidade Elemental) – Escolha um elemento; seus
+ataques ganham +1d4 de dano desse tipo.​
+Nível 2 - Resistência Elemental (Pré-requisito: Nível 3+ e
+Controle Elemental) – Você recebe resistência ao mesmo
+tipo de dano do seu elemento.​
+Nível 3 - Rajada Elemental (Pré-requisito: Nível 5+ e
+Resistência Elemental) – Você pode gastar 2 pontos de
+energia para liberar uma explosão elemental em um raio de
+3 metros.​
+Nível 4 - Imunidade Elemental (Pré-requisito: Nível 10+ e
+Rajada Elemental) – Agora você se torna imune ao seu
+próprio elemento.​
+Nível 5 - Avatar Elemental (Pré-requisito: Nível 15+ e
+Imunidade Elemental) – Você pode entrar em um estado
+onde ganha +2 CA e +2 de dano com seu elemento por 1
+minuto.
+
+⚔ Árvore do Guerreiro Supremo (Para lutadores corpo a corpo e
+especialistas em combate físico.)
+
+Nível 1 - Ataque Poderoso (Pré-requisito: Força 12+) –
+Reduza sua precisão em -2 para causar +4 de dano.​
+Nível 2 - Postura Defensiva (Pré-requisito: Constituição
+12+ e Nível 3+) – Ao gastar 1 EP, recebe +2 CA por 1 turno.​
+Nível 3 - Investida Brutal (Pré-requisito: Força 14+ e Nível
+5+) – Se você se mover pelo menos 3 metros antes de
+atacar, causa dano dobrado.​
+Nível 4 - Ataque Devastador (Pré-requisito: Força 16+ e
+Nível 8+) – Uma vez por combate, pode causar o triplo de
+dano com um ataque bem-sucedido.​
+Nível 5 - Modo Berserker (Pré-requisito: Constituição 18+ e
+Nível 12+) – Entra em fúria extrema, ganhando +4 no dano
+e +2 em testes físicos, mas sofrendo -2 na CA
+
+🛠️ Como Criar Novas Árvores?
+1️⃣ Escolha 3 especializações para cada classe.​
+2️⃣ Defina habilidades iniciais fáceis de acessar.​
+3️⃣ Adicione habilidades mais poderosas nos níveis
+avançados.​
+4️⃣ Dê pré-requisitos para habilidades mais fortes
+​
+—--------------------------------------------------------------------------------​
+Antecedentes​
+​
+1. Cientista Genial
+
+⭐
+
+🧪🔬
+
+"Você sempre esteve à frente do seu tempo, criando
+invenções inovadoras ou descobrindo segredos do
+universo."
+●​ Perícias: Investigação, Tecnologia.
+●​ Equipamento Inicial: Ferramentas científicas, tablet de
+dados, laboratório portátil.
+●​ Habilidade Especial: Mente Brilhante – Você pode
+gastar 1 ponto de energia para entender rapidamente
+o funcionamento de qualquer tecnologia ou criatura
+desconhecida.
+2. Guerreiro de Elite
+
+⚔️🔥
+
+"Treinado desde jovem para a batalha, você conhece os
+caminhos da guerra e da disciplina."
+●​ Perícias: Atletismo, Intimidação.
+●​ Equipamento Inicial: Armadura leve, espada de
+treinamento, medalhão de guerra.
+●​ Habilidade Especial: Reflexos Rápidos – Você pode
+rolar um teste de Reflexos com vantagem uma vez por
+descanso longo
+3. Escolhido por um Poder Maior
+
+✨👁️
+
+"O destino traçou um caminho especial para você, e forças
+misteriosas influenciam sua jornada."
+●​ Perícias: Religião, Intuição.
+●​ Equipamento Inicial: Amuleto sagrado, livro antigo de
+profecias, túnica mística.
+●​ Habilidade Especial: Visões do Futuro – Uma vez por
+dia, você pode fazer uma pergunta ao mestre e
+receber uma dica enigmática sobre o futuro.
+4. Agente Secreto
+
+🕶️🕵️
+
+"Missões clandestinas, espionagem e combate nas
+sombras fazem parte do seu passado."
+●​ Perícias: Furtividade, Enganação.
+●​ Equipamento Inicial: Comunicações criptografadas,
+traje camuflado, arma discreta.
+●​ Habilidade Especial: Cobertura Perfeita – Você pode
+se esconder em plena luz do dia uma vez por
+descanso curto
+5. Aventureiro Espacial
+
+🚀🛸
+
+"Você já explorou os confins do espaço e encontrou
+mistérios além da imaginação."
+●​ Perícias: Pilotagem, Sobrevivência.
+●​ Equipamento Inicial: Traje pressurizado, comunicador
+interestelar, mapa galáctico.
+●​ Habilidade Especial: Conhecimento Cósmico – Você
+sempre sabe onde está e pode identificar espécies
+alienígenas comuns sem testes
+6. Ex-Vilão Redimido
+
+😈⚡
+
+"Seu passado sombrio está atrás de você, mas sua
+experiência ainda é uma arma poderosa."
+●​ Perícias: Intimidação, Persuasão.
+
+●​ Equipamento Inicial: Relíquia de seu passado
+vilanesco, capa escura, máscara antiga.
+●​ Habilidade Especial: Sombra do Passado – Uma vez
+por dia, você pode convencer um inimigo de que
+ainda é um vilão, fazendo-o hesitar ou revelar
+informações
+7. Humano Comum (Ou Quase)
+
+🤔🌎
+
+"Você é apenas uma pessoa normal… Ou pelo menos era,
+até entrar nesse mundo de heróis."
+●​ Perícias: Persuasão, Percepção.
+●​ Equipamento Inicial: Smartphone, carteira de
+identidade, uma lembrança de casa.
+●​ Habilidade Especial: Força de Vontade – Você pode
+substituir qualquer teste de atributo por um teste de
+Carisma uma vez por descanso longo
+
+8. Portador de um Artefato Poderoso
+
+🏆🔮
+
+"Você encontrou ou foi escolhido por um artefato de
+imenso poder, que mudou sua vida para sempre."
+●​ Perícias: Arcano, Investigação.
+●​ Equipamento Inicial: Artefato misterioso (Omnitrix,
+Miraculous, Relíquia Alienígena, etc.), diário de
+anotações, luvas especiais.
+●​ Habilidade Especial: Sinergia com o Artefato – Você
+pode gastar 1 ponto de energia para ativar uma
+habilidade única do seu artefato por 1 turno
+9. Criado por uma Organização Secreta
+
+🏛️🕴️
+
+"Desde jovem, você foi moldado por uma instituição
+misteriosa, seja para o bem ou para o mal."
+●​ Perícias: Intimidação, Investigação.
+
+●​ Equipamento Inicial: Identificação da organização,
+traje especial, contato anônimo.
+●​ Habilidade Especial: Treinamento Secreto – Escolha
+uma perícia; você ganha proficiência nela e pode rolar
+com vantagem uma vez por descanso longo
+10. Sobrevivente de um Mundo Perdido
+
+🌋🏹
+
+"Você veio de uma realidade alternativa, um reino perdido
+ou um planeta destruído."
+●​ Perícias: Sobrevivência, Intuição.
+●​ Equipamento Inicial: Arma primitiva ou exótica,
+fragmento do seu mundo, mapa antigo.
+●​ Habilidade Especial: Vontade de Ferro – Você pode
+gastar 1 ponto de energia para rolar novamente um
+teste de resistência contra medo ou encanto
+11. Estudante de Magia ou Ciências Ocultas
+
+📜🔥
+
+"Você dedicou sua vida ao estudo dos segredos do
+universo, seja magia, ciência ou ambos."
+●​ Perícias: Arcano, História.
+●​ Equipamento Inicial: Grimório ou caderno de
+anotações, conjunto de runas ou reagentes mágicos,
+óculos de leitura.
+●​ Habilidade Especial: Conhecimento Proibido – Você
+pode gastar 1 ponto de energia para lembrar de uma
+informação obscura sobre um ser, local ou fenômeno
+sobrenatural
+12. Piloto de Elite
+
+🚗✈️
+
+"Seja no ar, na terra ou no espaço, ninguém pilota como
+você."
+●​ Perícias: Pilotagem, Reflexos.
+●​ Equipamento Inicial: Chave de um veículo especial,
+traje de piloto, óculos de proteção.
+
+●​ Habilidade Especial: Reação Relâmpago – Você pode
+gastar 1 ponto de energia para agir primeiro na ordem
+de iniciativa
+13. Detetive Paranormal
+
+🕵️‍♂️👻
+
+"Você investiga eventos inexplicáveis, lidando com o que
+a maioria considera lendas ou boatos."
+●​ Perícias: Percepção, Investigação.
+●​ Equipamento Inicial: Gravador de voz, lanterna UV, kit
+de exorcismo ou caçador de fantasmas.​
+●​ Habilidade Especial: Olho para o Oculto – Você pode
+gastar 1 ponto de energia para ver criaturas invisíveis
+ou detectar magia por 1 minuto
+14. Humano Modificado por um Experimento
+
+🧬🦠
+
+"Seu corpo foi alterado, seja por acidente, ciência ou
+intenção, te dando habilidades únicas."
+Perícias: Medicina, Reflexos.
+Equipamento Inicial: Frasco com uma amostra de seu
+próprio DNA alterado, equipamento médico
+improvisado, diário de registros.
+Habilidade Especial: Regeneração Parcial – Uma vez
+por descanso curto, você pode recuperar 1d10 pontos
+de vida como ação bônus​
+​
+15. # : : : Antecedente: Experimento Fracassado
+
+🧬🦠
+
+"Você foi criado, alterado ou aprimorado por mãos
+ambiciosas — mas algo deu errado."​
+Medicina​
+Furtividade​
+Equipamento Inicial:​
+Frasco com uma substância instável​
+Registro incompleto do experimento​
+Uniforme ou contenção do laboratório de origem​
+Habilidade Especial:
+Instabilidade Mutagênica →
+➤ Você pode gastar 1 ponto de energia (EP) para
+ganhar vantagem em um teste de resistência de
+Constituição ou causar +1d4 de dano adicional em um
+ataque corpo a corpo. Após usar, role 1d6: se sair 1,
+você sofre 1d4 de dano devido à instabilidade.​
+​
+Ideal para personagens marcados pelo passado,
+fugidos de laboratórios, ou com poderes
+imprevisíveis
+
+🏹:🌲: Antecedente: Guardião Selvagem
+
+16.## :
+
+"Você cresceu em meio à natureza indomada,
+protegendo florestas, montanhas ou ruínas
+esquecidas."
+** Perícias:**
+Sobrevivência
+Atletismo
+** Equipamento Inicial:**
+- Arma rústica (arco, lança ou machado)
+- Capa de camuflagem natural
+- Talismã protetor da natureza
+
+** Habilidade Especial:**
+**Instinto Primitivo** →
+➤ Você pode gastar **1 ponto de energia (EP)** para
+**detectar automaticamente** a presença de
+**criaturas escondidas ou emboscadas** num raio de
+**12 metros**.
+Ideal para personagens **solitários**, **protetores da
+natureza** ou com forte ligação com o **mundo
+selvagem**
+
+🦸🗡️
+
+17.##
+Antecedente: Anti-Herói​
+"Você luta pelo bem... mas do seu jeito. Suas ações
+nem sempre são nobres, mas seus resultados são
+inegáveis."
+**Perícias:**
+Intimidação
+Furtividade
+** Equipamento Inicial:**
+- Capa ou casaco longo
+- Arma oculta (adaga ou pistola)
+- Símbolo pessoal ou marca registrada
+** Habilidade Especial:**
+**Moral Duvidosa** →
+➤ Você pode gastar **1 ponto de energia (EP)** para
+**ignorar penalidades sociais** e **intimidar** ou
+**persuadir** alguém automaticamente em situações
+onde o risco é evidente.
+
+Ideal para personagens com **zonas cinzentas**,
+**vigilantes**, **mercenários** ou que operam **fora
+das regras**!
+
+🫅
+
+18. ## Antecedente: Legado​
+_"Você carrega o nome e o fardo de uma linhagem
+lendária. Seja herdeiro de um herói, vilão ou dinastia,
+seu passado molda seu presente."_ ​
+**Perícias:** ​
+História ​
+Persuasão
+** Equipamento Inicial:**
+- Insígnia ou símbolo familiar
+- Relíquia ancestral (espada, livro ou anel)
+- Documento provando sua linhagem
+
+**Habilidade Especial:**
+**Peso do Nome** →
+➤ Você pode gastar **1 ponto de energia (EP)** para
+**impor respeito ou temor** automaticamente ao se
+**apresentar com sua linhagem**, obtendo **vantagem
+em Persuasão ou Intimidação** por **1 cena**.
+
+Ideal para personagens com **heranças
+importantes**, **famílias poderosas** ou **missões
+familiares**
+19.##
+
+🎭Antecedente: Mestre do Disfarce
+
+_"Sua verdadeira identidade é um mistério. Você vive
+atrás de máscaras e personagens, manipulando o
+mundo ao seu redor."_
+** Perícias:**
+Enganação
+Furtividade
+** Equipamento Inicial:**
+- Kit de disfarces completo
+- Documento de identidade falso
+- Coleção de máscaras ou roupas temáticas
+** Habilidade Especial:**
+**Identidade Flexível** →
+➤ Você pode gastar **1 ponto de energia (EP)** para
+**assumir rapidamente uma nova identidade** e
+**enganar** qualquer observador, garantindo
+**vantagem em Enganação** ou **Furtividade** até ser
+descoberto.
+
+Ideal para personagens **espiões**, **atores**,
+**infiltradores** ou **mestres das aparências**!
+
+⚽## Antecedente: Mestre dos Esportes
+
+20.
+
+_"A disciplina, o esforço físico e a competição
+moldaram quem você é. Sua vida sempre foi movida
+por recordes e vitórias."_ ​
+** Perícias:** ​
+Atletismo ​
+Reflexos ​
+** Equipamento Inicial:** ​
+- Uniforme esportivo personalizado ​
+- Medalha ou troféu de campeonato ​
+- Kit de treino (corda, halteres ou bola) ​
+** Habilidade Especial:** ​
+**Fôlego de Campeão** → ​
+➤ Você pode gastar **1 ponto de energia (EP)** para
+**ignorar penalidades de exaustão física** por **1
+cena**, realizando proezas atléticas ou combates
+exigentes sem desvantagem. ​
+Ideal para personagens **atletas**, **combatentes
+ágeis** ou **competidores natos**!
+
+👷💡
+
+21.
+## Antecedente: Inventor Visionário​
+_"Você sempre teve a mente inquieta, criando
+engenhocas, armas ou dispositivos que mudam o
+mundo ao seu redor."_ ​
+** Perícias:** ​
+Engenharia ​
+Tecnologia ​
+** Equipamento Inicial:** ​
+- Ferramentas de precisão ​
+- Protótipo de invenção inacabada
+- Óculos de proteção ​
+** Habilidade Especial:** ​
+**Improviso Criativo** → ​
+➤ Você pode gastar **1 ponto de energia (EP)** para
+**criar rapidamente um dispositivo improvisado** que
+proporciona **vantagem em um teste** de Engenharia,
+Furtividade ou Ataque Tecnológico, conforme a
+situação.
+
+Ideal para personagens **criativos**, **engenheiros**,
+**hackers** ou **gênios da tecnologia**!
+
+🧙🔮
+##Antecedente: Filho do Sobrenatural​
+"Seu sangue carrega traços místicos ou
+
+21.
+
+monstruosos. Desde cedo, habilidades estranhas
+despertaram dentro de você."​
+Perícias:​
+Intuição​
+Arcano​
+Equipamento Inicial:​
+Amuleto que suprime ou canaliza seus poderes​
+Diário de manifestações sobrenaturais​
+Capa ou vestimenta com símbolos protetores​
+Habilidade Especial:​
+Despertar Sobrenatural →​
+➤ Você pode gastar 1 ponto de energia (EP) para
+ativar um poder inato (como resistência elemental,
+visão no escuro ou aumento temporário de força) por
+1 minuto​
+Ideal para personagens com linhagem mística,
+heranças monstruosas ou poderes ocultos!
+
+🔥
+
+—----------------------------------------------------------------------------​
+SISTEMA DE PODERES ESPECIAIS & MAGIA​
+1️⃣ Como os Poderes Fazer
+###
+
+✅ 1. **Classificação Essencial*
+➤ **Categoria:**
+
+- **Ofensivo:** Focado em dano ou debuff.
+- **Defensivo:** Focado em proteção, resistência ou cura.
+- **Utilitário:** Focado em mobilidade, manipulação ou
+suporte.
+
+➤ **Tipo:**
+- **Passivo:** Sempre ativo, sem custo.
+- **Ativo:** Precisa ser ativado, consome EP.
+- **Reação:** Usado fora do turno, normalmente consome
+EP.
+###
+
+✅ 2. **Logo abaixo**
+
+## :zap: SISTEMA AJUSTADO: Custo de Energia (EP) para
+Poderes/Magias
+
+### :white_check_mark: Como calcular o **Custo de EP**?
+
+O custo agora depende diretamente da **força/dano** ou
+da **complexidade do efeito**.
+### :white_check_mark: 1. Para **Poderes Ofensivos**
+(com dano)
+
+➤ **Fórmula Base:**
+**(Total de dano em dados x 5) = Custo de EP**
+**Exemplos:**
+- **Magia Fraca:** Lança de Fogo (2d6 + Poder) → **2x5 =
+10 EP**
+- **Magia Média:** Raio Congelante (4d6 + Poder) → **4x5 =
+20 EP**
+- **Magia Forte:** Lança Solar (5d6 + Poder) → **5x5 = 25
+EP**
+
+:white_check_mark: **Opcional:** Pode reduzir o custo se
+o efeito tiver:
+- **Alcance curto** (-5 EP)
+- **Tempo de conjuração longo** (-5 EP)
+- **Requer componentes raros** (-5 EP)
+
+### :white_check_mark: 2. Para **Poderes Defensivos ou
+Utilitários** (sem dano)
+
+➤ Baseie no **efeito e duração**:
+
+| **Efeito**
+
+| **Custo Padrão** |
+
+|--------------------------------------|---------------| Defesa simples (+AC ou resistência) | 10 EP por Ac |
+| Absorção ou anulação de dano
+
+| 10-15 EP
+
+| Regeneração/Auto-cura | 10 EP por 1d8
+
+|
+|
+
+| Teleporte ou voo| 10-20 EP (curta distância) |
+| Invisibilidade ou intangibilidade | 15-50 EP (por minuto) |
+### :white_check_mark: 3. Para **Poderes Passivos**
+➤ **Sem custo de EP**, mas são sempre efeitos
+**menores** ou **equilibrados**.
+➤ Para poderes passivos **muito fortes**, aplicar:
+- Penalidades situacionais
+- Limite de uso (Ex.: "X vezes por descanso")
+
+## :dart: EXEMPLO PRÁTICO:
+
+**Nome:** Lança Solar
+**Tipo:** Ativo, Ofensivo
+**Dano:** 5d6 + Poder
+**Alcance:** 15m, linha reta
+**Custo:** **25 EP**
+**Descrição:**
+Você conjura uma lança feita de pura luz solar, perfurando
+e queimando tudo em seu caminho!
+➤ Cada **2d6 de dano** → **5 EP**
+➤ Pode acumular:
+| **Dano**
+
+| **Custo** |
+
+|---------------|-----------|
+
+###
+
+✅
+
+| 2d6
+
+| 5 EP
+
+|
+
+| 4d6
+
+| 10 EP
+
+|
+
+| 6d6
+
+| 20 EP
+
+|
+
+| 8d6
+
+| 30 EP
+
+|
+
+| 10d6
+
+| 40 EP
+
+|
+
+Se quiser, pode usar outros tipos de dado (Ex.: d8), adaptando:​
+Cada 2d8 → 5 EP também.
+
+###
+
+✅###3.:white_check_mark:
+**Efeitos Secundários** ​
+
+➤ Efeitos que **aumentam a utilidade ou controle**
+também custam EP extra:
+| **Efeito**
+
+| **Custo** |
+
+|---------------------------------------|-----------|
+| Causa condição leve (Ex.: Derruba) | +5 EP
+
+|
+
+| Causa condição grave (Ex.: Paralisia)| +10 EP
+
+|
+
+| Ignora resistência/imunidade
+
+| +30 EP
+
+|
+
+| Área de efeito (cone/esfera até 6m) | +5 EP
+
+|
+
+| Área de efeito (maior que 6m)
+
+| +10 EP
+
+|
+
+| Dano contínuo (por turnos)
+
+| +5 EP
+
+|
+
+| Movimentação extra (Empurrar, puxar) | +5 EP
+| Escalável (pode aumentar o dano)
+incremento
+###
+
+|
+
+| +5 EP por
+
+✅ 4. **Teste de Resistência**
+
+➤ Define se o alvo pode evitar ou reduzir o efeito.
+- **Força:** Para resistir a puxões, agarrões.
+- **Reflexos:** Para evitar ou reduzir dano.
+- **Vontade:** Para resistir a ilusões ou efeitos mentais.
+###
+
+✅ 5. **Descreva com Estilo**
+➤ Nome marcante.
+
+➤ O que faz (em detalhes).
+➤ Como é visualmente (opcional, mas legal!).
+
+⚔️ Equipamentos,
+Itens e Artefatos​
+1️⃣ Equipamentos Básicos
+🔫 Armas
+Armas são divididas em três categorias:
+●​ Leves (rápidas, menos dano, podem ser usadas em
+duas mãos).
+●​ Médias (equilíbrio entre dano e velocidade).
+●​ Pesadas (muito dano, mas lentas)
+
+🔫 Armas Leves
+Arma
+
+Dano
+
+Crític
+o
+
+Propriedades
+
+Pistola Energética
+
+1d8
+
+19/20
+
+Ataque à distância (15/30m), 6 tiros por carga
+
+Revolver Pesado
+
+2d6
+
+20
+
+Simples, alcance (9m)
+
+Pistola Silenciada
+
+1d8
+
+19/20
+
+Ataque à distância (9m), 6 tiros por carga Furtiva, difícil de
+detectar
+
+Fuzil de Plasma
+
+2d8
+
+20
+
+Ataque à distância (30m), superaquece
+
+Adagas Gêmeas
+
+1d6 (cada)
+
+2x
+
+Ataque duplo
+
+Arco de Pulso
+
+1d8
+
+19/20
+
+Ataque silencioso, dispara flechas de energia
+
+Submetralhadora
+Compacta
+
+2d4
+
+20
+
+Rajada (pode disparar duas vezes, mas com -2 de precisão)
+
+Canivete Retrátil
+
+1d4
+
+18/20
+
+Oculto (pode ser escondido facilmente)
+
+Adaga de Energia
+
+1d6
+
+19/20
+
+Causa dano energético, pode cortar metais leves
+
+Luva Taser
+
+1d6
+
+20
+
+Pode atordoar por 1 turno (Teste de Resistência de
+Constituição)
+
+Shuriken de Carbono
+
+1d4
+
+18/20
+
+Pode ser recuperada após o ataque
+
+Nunchaku de Liga
+Metálica
+
+1d6
+
+19/20
+
+Garante um ataque bônus com -1 de dano
+
+Bastão Retrátil
+
+1d6
+
+2x
+
+Pode ser escondido facilmente
+
+Boleadeiras
+
+-
+
+-
+
+Se acertar, reduz deslocamento do alvo pela metade por 1
+turno
+
+Corrente de Espinhos
+
+2d6
+
+19/20
+
+Causa sangramento contínuo
+
+🔫 Armas Leves
+Corrente com Gancho
+
+1d8
+
+20
+
+Pode puxar inimigos e objetos
+
+Corrente Bumerangue
+
+1d6
+
+19/20
+
+Retorna ao usuário após o ataque
+
+Soco Inglês
+
+1d6
+
+19-20
+
+Atordoamento (1 turno)
+
+Espada Curta
+
+1d8
+
+20
+
+Leve, pode ser usada em combate ágil
+
+🛠️ Melhorias e Modificações
+As armas podem ser customizadas com acessórios para
+melhorar seu desempenho.
+●​
+●​
+●​
+●​
+●​
+
+🔬
+Mira Avançada (+1 em ataques à distância)
+🔇
+Silenciador (Disparo não gera alerta imediato)
+🔥
+Munição Explosiva (+1d4 de dano em área)
+⚡
+Carga Elétrica (Dano adicional de eletricidade)
+🧊 Munição Criogênica (Pode congelar um alvo por 1
+turno)
+
+🔫 Armas Médias
+Arma
+
+Dano
+
+Crítico
+
+Propriedades
+
+Espada de Energia
+
+1d10
+
+19/20
+
+Garante um ataque bônus com -1 de acerto
+
+Revolver de Combate
+
+2d8
+
+20
+
+Simples, alcance (9m)
+
+Machado de Combate
+
+1d10
+
+20
+
+Pode causar sangramento
+
+Lança de Carbono
+
+1d8
+
+19/20
+
+Alcance extra, pode ser arremessada (9m),
+
+Martelo Tático
+
+1d10
+
+2x
+
+Derruba oponentes em acertos críticos
+
+Arco de Pulso
+
+1d8
+
+19/20
+
+Ataque silencioso, dispara flechas de energia
+
+Espingarda de Combate
+
+2d6
+
+20
+
+Disparo espalhado (atinge múltiplos alvos próximos
+
+Rifle de Assalto
+
+1d10
+
+20
+
+Rajada (pode disparar duas vezes, mas com -1 de
+precisão)
+
+Bastão Energético
+
+1d8
+
+19/20
+
+Pode atordoar por 1 turno (Teste de Resistência)
+
+Lança-Chamas Compacto
+
+2d6
+
+20
+
+Dano em área, ignora coberturas leves
+
+🔫 Armas Médias
+Shuriken de Carbono
+
+1d4
+
+18/20
+
+Pode ser recuperada após o ataque
+
+Espada Bumerangue
+
+1d8
+
+19/20
+
+Garante um ataque bônus com -1 de dano
+
+Chicote de Plasma
+
+1d6
+
+2x
+
+Alcance aumentado (6m)
+
+Corrente de Ferro
+
+1d8
+
+20
+
+Alcance 3m, pode imobilizar alvos fracos
+
+Corrente Fantasma
+
+1d12
+
+19/20
+
+Atravessa barreiras
+
+Corrente com Gancho duplo
+
+2d8
+
+20
+
+Pode puxar inimigos e objetos
+
+Corrente de Fogo
+
+2d8
+
+19/20
+
+Incendeia alvos atingidos
+
+🛠️ Melhorias e Modificações
+​
+
+As armas médias podem ser customizadas para melhorar
+sua eficiência.
+
+🎯
+Mira Avançada (+1 em ataques à distância)
+🔥
+Lâmina Afiada (+1 no dano cortante)
+⚡
+Descarga Elétrica (Dano extra elétrico, chance de
+atordoar)
+●​ 🔥 Munição Explosiva (+1d4 de dano em área)
+●​
+●​
+●​
+
+🔫 Armas Pesadas
+Arma
+
+Dano
+
+Crítico
+
+Propriedades
+
+Espada Titânica
+
+2d10
+
+20
+
+Muito pesada, requer força elevada
+
+Martelo de Impacto
+
+2d12
+
+20
+
+Pode derrubar inimigos ao acertar
+
+Lança de Plasma
+
+2d8
+
+19/20
+
+Alcance longo, pode perfurar 2 alvos
+
+Lança-Mísseis
+
+3d10
+
+2x
+
+Dano em área, usa munição limitada 3
+
+Metralhadora Giratória
+
+2d6 por
+tiro
+
+20
+
+Pode disparar múltiplas vezes em um turno
+
+Canhão de Energia
+
+3d12
+
+2x
+
+Precisa recarregar após cada disparo
+
+Escopeta de Assalto
+
+3d6
+
+20
+
+Causa dano massivo a curta distância (3m)
+
+🔫 Armas Pesadas
+Espada de Vibração Pesada
+
+2d8
+
+20
+
+Vibração aumenta o dano contra armaduras +1 de dado
+
+Punho de Aço
+
+2d10
+
+19/20
+
+Pode ser embutido em uma armadura ou traje
+
+Lança-Chamas Pesado
+
+3d8
+
+20
+
+Dano em área, ignora coberturas leves
+
+Canhão de Partículas
+
+4d10
+
+20
+
+Causa dano massivo, mas esquenta rapidamente ate 3
+tiros
+
+Arpão de Titânio
+
+2d8
+
+19/20
+
+Pode prender inimigos e puxá-los
+
+Bazuca Quântica
+
+4d12
+
+2x
+
+Causa explosões energéticas em grande escala
+
+Corrente Laminada
+
+2d10
+
+20
+
+Alcance 3m,
+
+Corrente de Energia
+
+2d10
+
+19/20
+
+Pode causar choque paralisante
+
+Corrente Sísmica
+
+2d10
+
+20
+
+Pode causar tremores ao atingir o solo
+
+Corrente Quântica
+
+3d8
+
+19/20
+
+Alcance longo, pode perfurar 2 alvos
+
+🛠️ Melhorias e Modificações
+As correntes podem ser modificadas para maior eficiência:
+●​
+●​
+●​
+●​
+●​
+
+🔥
+Chamas Eternas (Dano de fogo contínuo)
+⚡
+Eletrochoque (Paralisa inimigos por 1 turno)
+🔄
+Retrátil (Pode ser escondida no braço ou cintura)
+🩸
+Veneno Mortal (Dano contínuo por 3 turnos)
+🛡️ Corrente Defensiva (+1 de CA ao usá-la para
+bloquear ataques)​
+
+⚔️Armas Exóticas
+Arma
+
+Dano
+
+Crítico
+
+Efeito Especial
+
+Espada de Luz
+
+2d8
+
+20
+
+Corta quase qualquer material, ignora armadura
+metálica
+
+Lança Sônica
+
+1d10
+
+19/20
+
+Emite ondas sônicas que atordoam o inimigo
+
+Canhão de Antimatéria
+
+4d10
+
+2x
+
+Dano massivo, mas exige 1 turno para recarregar
+
+Chakram de Plasma
+
+2d6
+
+19/20
+
+Pode ser arremessado e retorna para o usuário
+
+Besta de Gravidade
+
+2d8
+
+19/20
+
+Pode puxar ou empurrar inimigos 3 metros
+
+⚔️Armas Exóticas
+Manoplas Explosivas
+
+2d8
+
+2x
+
+Causam dano de impacto e explosão
+simultaneamente
+
+🛡️ Armaduras
+Armadura
+
+CA
+
+Efeito
+
+Roupa Tática
+
+12
+
++1 Reflexos
+
+Armadura Leve
+
+10
+
+Nenhum penalizador de velocidade
+
+Armadura Média
+
+14
+
+Reduz 3 de dano físico
+
+Armadura Pesada
+
+18
+
+Reduz 5 de dano, mas reduz mobilidade.
+
+Exotraje de Combate
+
+20
+
+Aumenta Força em +2, resistência a dano energético
+
+Armadura NeuroTech
+
+18
+
+resiste a dano psíquico
+
+Uniforme de Camuflagem
+
+10
+
+Dá invisibilidade por 3 turnos
+
+Traje do Caçador Estelar
+
+13
+
+Imune a venenos e adapta-se a qualquer ambiente
+
+Exoesqueleto de Batalha
+
+20
+
+Dá +3 em Força e resistência a dano balístico
+
+​
+​
+
+📡 Dispositivos Tecnológicos
+Dispositivo
+
+Efeito
+
+Jetpack
+
+Permite voar por até 10 minutos
+
+Óculos de
+Escaneamento
+
+Detecta inimigos escondidos
+
+Mão Cibernética
+
++1 em testes de força e manuseio de armas
+
+Propulsor de Gravidade
+
+Permite pular 3x mais alto
+
+Capa de Invisibilidade
+
+Torna invisível por 1 minuto
+
+Nano Drones de Ataque
+
+Pequenos robôs que atacam automaticamente.
+
+Pulseira de Teleporte
+
+Permite teletransporte de até 30 metros
+
+📡 Dispositivos Tecnológicos
+Gerador de Campo de
+Força
+
+Absorve 20 de dano antes de desativar
+
+Máscara de Respiração
+
+Permite respirar debaixo d’água ou em vácuo
+
+Bracelete de Superforça
+
+Aumenta Força em +3 por 1 minuto
+
+​
+
+🥩 Itens Consumíveis
+Item
+
+Efeito
+
+Poção de Cura
+
+Recupera 3d6 HP.
+
+Estimulante
+
+Aumenta velocidade em +3 por 3 turnos.
+
+Granada Sônica
+
+Causa surdez temporária em inimigos
+
+Antídoto
+
+Cura venenos e doenças
+
+Carga Energética
+
+Restaura 10 EP para usar poderes
+
+Soro de Energia
+
+Restaura completamente os Pontos de Energia (EP)
+
+Pílula de Adrenalina
+
+Dá +2 em todos os testes físicos por 1 minuto
+
+Gás Nocauteador
+
+Faz os inimigos dormirem por 2 turnos
+
+Cristal de Reanimação
+
+Ressuscita um aliado caído
+
+​
+Indisponível nenhum player pode pega
+2️⃣ Artefatos Especiais
+Artefato
+
+Efeito Especial
+
+Omni-Núcleo
+
+Permite transformar-se em diferentes formas alienígenas
+
+Miraculous
+
+Dá habilidades mágicas
+
+Espada Dimensional
+
+Corta através do espaço-tempo
+
+Luvas Titânicas
+
+Concede força sobre-humana
+
+Anel Celestial
+
+Permite controlar a gravidade
+
+2️⃣ Artefatos Especiais
+Espada Celestial
+
+Causa dano radiante e pode cortar a escuridão
+
+3️⃣ Implantes Biotecnológicos
+Implante
+
+Efeito
+
+Olhos Cibernéticos
+
+Visão noturna e infravermelha
+
+Pele de Titânio
+
+Redução de dano físico em 3 pontos
+
+Coração Energético
+
+Regenera 5 HP por turno
+
+Processador Neural
+
++2 em testes de Inteligência e Reflexos
+
+Pernas Hidráulicas
+
+Dobra a velocidade de movimento
+
+4️⃣ Criação e Evolução de Equipamentos
+
+Os jogadores podem melhorar e personalizar seus
+equipamentos através de:
+1️⃣ Melhorias Tecnológicas → Atualizar armas e armaduras
+para aumentar dano, resistência ou adicionar novos
+efeitos.​
+2️⃣ Fusão de Materiais → Unir diferentes materiais raros
+para criar equipamentos especiais.​
+3️⃣ Energização Arcana → Infundir itens com magia para
+habilidades especiais.​
+4️⃣ Adaptação Biotecnológica → Modificar o corpo com
+implantes ou trajes biotecnológicos.
+
+🔹
+
+Exemplo de Evolução:​
+Espada Longa Comum → 1d10 dano.​
+Espada de Energia → 1d12 dano, pode cortar metais.​
+Lâmina Elemental → 2d8 dano, pode ser envolvida em
+fogo, gelo ou eletricidade
+
+🔹
+🔹
+
+🚗
+
+—----------------------------------------------------------------​
+Veículos ​
+1️⃣ Veículos Terrestres
+
+🏎️
+
+Nome
+
+Velocidad
+e
+
+Capacidade
+
+Efeito Especial
+
+Moto VelozTech
+
+200 km/h
+
+1 piloto
+
+Pode andar em paredes por 2 turnos
+
+Carro Blindado
+Aegis
+
+150 km/h
+
+4
+passageiros
+
+Reduz 50% do dano de explosões
+
+T.R.A.X
+
+80 km/h
+
+6
+passageiros
+
+Canhão embutido (4d10 dano explosivo)
+
+Buggy Off-Road X5
+
+160 km/h
+
+2
+passageiros
+
+Imune a terrenos difíceis
+
+Hypercar Quantum
+
+400 km/h
+
+2
+passageiros
+
+Pode ativar turbo e dobrar velocidade por 1
+turno
+
+2️⃣ Veículos Aéreos
+
+✈️
+
+Nome
+
+Velocidade
+
+Capacidade
+
+Efeito Especial
+
+Jato Furtivo Shadow
+
+1.200 km/h
+
+2 pilotos
+
+Invisível a radares e sensores
+
+Drone de Combate
+Striker
+
+500 km/h
+
+0 (controlado
+remotamente)
+
+Possui metralhadora de energia
+(2d8 dano)
+
+Helicóptero Gavião
+
+600 km/h
+
+6 passageiros
+
+Possui guincho para resgates
+
+Asa Delta Gravítica
+
+200 km/h
+
+2 piloto
+
+Pode planar sem precisar de
+motor
+
+3️⃣ Veículos Aquáticos
+
+🌊
+
+Nome
+
+Velocidad
+e
+
+Capacidade
+
+Efeito Especial
+
+Submarino Leviatã
+
+100 km/h
+
+10
+passageiros
+
+Pode ficar invisível debaixo d’água
+
+Jet Ski Cyclone
+
+180 km/h
+
+2 passageiros
+
+Pode andar na superfície da água sem
+afundar
+
+Hovercraft Térmico
+
+150 km/h
+
+5 passageiros
+
+Resistente a ataques de gelo e calor
+extremo
+
+Cápsula Abissal
+
+90 km/h
+
+1 piloto
+
+Permite explorar grandes profundidades
+
+Navio de Guerra
+Atlante
+
+90 km/h
+
+30
+passageiros
+
+Equipado com canhões de energia aquática
+
+​
+Indisponível NO Momento
+4️⃣ Veículos Espaciais
+
+🚀
+
+Nome
+
+Velocidade
+
+Capacidade
+
+Efeito Especial
+
+Nave Estelar Fênix
+
+30.000
+km/h
+
+6 tripulantes
+
+Pode realizar saltos hiperespaciais
+
+Caça Estelar Raijin
+
+50.000
+km/h
+
+6 tripulantes
+
+Possui escudo de plasma e lasers duplos
+
+4️⃣ Veículos Espaciais
+
+🚀
+
+Cruzador
+Interestelar
+
+20.000
+km/h
+
+50
+tripulantes
+
+Pode lançar drones de ataque
+
+Moto Cósmica
+
+100.000
+km/h
+
+1 piloto
+
+Pode viajar pelo vácuo sem necessidade de
+proteção
+
+Ônibus Espacial
+Nexus
+
+25.000
+km/h
+
+50
+passageiros
+
+Sistema de sobrevivência para longas
+jornadas
+
+​
+
+Personalização e Modificações
+
+🛠️
+
+Os jogadores podem modificar seus veículos com
+upgrades, como:
+●​ Armas embutidas (metralhadoras, lança-foguetes,
+laser)
+●​ Propulsores extras (aumentam velocidade)
+●​ Dispositivos furtivos (evitam rastreamento)
+●​ Blindagens especiais (proteção contra danos
+específicos)
+
+⌚
+
+—-----------------------------------------------------------------------​
+Omnitrix​
+​
+
+🎮 Como Funciona?
+1️⃣ Ativação
+
+●​ A ativação do Omnitrix é uma Ação Livre.
+●​ O usuário escolhe um alien e realiza um Teste de
+Controle do Omnitrix (1d20).
+
+⌚Teste de Controle do Omnitrix
+
+2️⃣
+Resultado
+(D20)
+
+Efeito
+
+⌚Teste de Controle do Omnitrix
+
+2️⃣
+1-5
+
+Falha! O Omnitrix ativa sozinho, escolhendo uma
+espécie aleatória
+
+6-10
+
+O Omnitrix se ativa, mas o usuário vira um alien
+aleatório da categoria escolhida
+
+11-15
+
+O usuário pode escolher o alien desejado, mas sua
+duração é reduzida pela metade
+
+16-19
+
+O usuário pode escolher normalmente
+
+20
+
+Perfeição! O usuário pode escolher o alien e
+ganhar +2 em todas as rolagens durante a
+transformação
+
+⏳ Duração da Transformação
+●​ A transformação dura um número de minutos igual ao
+modificador de Resistência + 5.
+●​ Quando o tempo se esgota, o Omnitrix recarrega por
+2d6 rodadas antes de poder ser ativado novamente.
+●​ Modo Prolongado: O usuário pode tentar continuar
+transformado fazendo um Teste de Resistência de
+Resistência CD 15 a cada rodada após o tempo limite.
+Cada tentativa falha impõe 1 nível de Exaustão
+
+🎭 Modo de Transformação
+Modos de Uso do Omnitrix
+
+🔵 Modo Normal → Escolhe
+um alien da sua lista e assume
+sua forma.​
+🟡 Modo Aleatório
+→ Se o Teste de Controle falhar, um
+alien inesperado é ativado.​
+🔴
+Modo Sobrecarregado → Ativação forçada,
+aumentando o tempo de espera após a transformação
+(+8d6 rodadas).​
+🟣 Modo Supremo
+→ Se desbloqueado, pode acessar
+versões evoluídas dos aliens
+
+🛸 Biblioteca de DNA do Omnitrix
+
+Cada Omnitrix pode conter até 10 espécies de DNA
+alienígena desbloqueadas inicialmente.​
+O Mestre pode permitir o desbloqueio de novos aliens ao
+longo da campanha
+​
+Exemplos de Espécies e Suas Habilidades
+Espécie
+
+Atributos
+
+Habilidades Especiais
+
+Exemplos de Espécies e Suas Habilidades
+Kinecelerano
+
++4 Agilidade,
++2 Inteligência
+
+Supervelocidade, Reflexos
+Avançados, Corrida sobre
+paredes
+
+Petrosapien
+
++4 Resistência, Pele Indestrutível, Rajadas de
++2 Força
+Cristal, Criação de Escudos
+
+Ectonurita
+
++3 Carisma, +3
+Agilidade
+
+Pyronita
+
++4 Resistência, Corpo Flamejante, Projéteis de
++2 Ponder
+Fogo, Voo Curto
+
+Appoplexiano
+
++4 Força, +2
+Resistência
+
+Fúria Berserker, Garras Afiadas,
+Regeneração
+
+Crystalsapien
+
++2 Inteligência,
++4 Ponder
+
+Absorção de Energia, Raio
+Cósmico
+
+Intangibilidade, Invisibilidade,
+Grito Fantasma
+
+🔧 Melhorias do Omnitrix
+Com o tempo, o usuário pode aprimorar o Omnitrix,
+desbloqueando novas funções:
+
+📡 Melhorias Disponíveis
+
+●​ Modo Supremo (Nível 10+) → Habilita versões
+evoluídas dos aliens.
+●​ Desbloqueio de DNA Perdido (Nível 3+) → Adiciona
+novas espécies ao Omnitrix.
+●​ Modo Fusão (Nível 15+) → Permite misturar duas
+espécies alienígenas, combinando suas habilidades.
+●​ Banco de DNA Ilimitado (Nível 20) → Armazena todas
+as espécies conhecidas e pode alternar entre elas
+sem recarga!
+
+🌌 Criando Novos Aliens para o Omnitrix
+
+Se quiser adicionar novas espécies ao Omnitrix, siga estas
+regras:
+1️⃣ Escolha um tipo físico: Humanoide, Monstruoso,
+Robótico, Etéreo, etc.​
+2️⃣ Ajuste os atributos: +4 em um atributo principal, +2 em
+um secundário.​
+3️⃣ Dê ao alien 3 habilidades únicas.​
+4️⃣ Determine sua fraqueza: Pode ser vulnerável a água,
+fogo, energia, etc.
+Exemplo de novo alien:
+Nome: Cybernoide (Espécie Robótica)
+●​ +4 Inteligência, +2 Resistência
+●​ Habilidades: Interface Digital (controla eletrônicos),
+Campo de Força, Autorreparação.
+●​ Fraqueza: Vulnerável a EMPs e descargas elétricas
+
+🔥 Modo Supremo – Evolução Alienígena
+
+Ao atingir o Nível 10, o usuário pode ativar o Modo
+Supremo, transformando seus aliens em versões mais
+poderosas!
+
+✅✅
+✅
+
+Cada alien supremo ganha:​
++2 em todos os atributos​
+Nova habilidade única​
+Aumento de dano e resistência
+
+⭐
+
+Exemplo:​
+Diamante Supremo (Petrosapien Evoluído)
+
+●​ +6 Constituição, +4 Força
+●​ Nova Habilidade: Explosão de Cristais (rajadas de
+espinhos afiados em área)
+●​ Resistência extra: Imune a ataques perfurantes
+
+🦾
+🔬 Como Funciona?
+
+—------------------------------------------------------------------------​
+Nanites​
+●​ O personagem infectado com Nanites Ativos pode
+manifestar armas, armaduras e habilidades através de
+um Teste de Controle de Nanites.
+●​ Ele pode desbloquear novas formas e evoluir seus
+poderes ao longo da campanha
+
+🎮
+
+​
+Ativação das Transformações​
+Ao tentar ativar uma transformação ou habilidade, o
+usuário faz um Teste de Inteligência ou Resistência (1d20 +
+mod.)​
+1️⃣ Teste de Controle de Nanites
+Resultado
+(D20)
+
+Efeito
+
+1-5
+
+Falha! Os Nanites não respondem ou ativam algo inesperado
+
+1️⃣ Teste de Controle de Nanites
+6-10
+
+Sucesso Parcial! A habilidade funciona, mas com -2 em testes relacionados
+
+11-15
+
+Sucesso! A transformação ocorre normalmente
+
+16-19
+
+Sucesso Avançado! Ganha +2 em todas as rolagens enquanto a habilidade
+estiver ativa
+
+20+
+
+Ativação Perfeita! A habilidade dura o dobro do tempo e não consome recursos
+
+⏳ Duração das Transformações
+●​ Cada ativação dura 1d6 + Mod. de Resistência
+rodadas.
+●​ Após o tempo acabar, os Nanites precisam de 2d6
+rodadas para recarregar antes da próxima ativação.
+●​ O usuário pode tentar manter a forma gastando
+Energia (EP)
+
+🦾 Formas Nanotecnológicas Disponíveis
+1️⃣ Armamento Biomecânico
+
+●​ O usuário manifesta armas feitas de Nanites, como
+espadas, garras, canhões de plasma, etc.
+●​ Dano base: 1d8 + Mod. de Força ou Agilidade.
+●​ Pode evoluir as armas para aumentar o dano ou
+adicionar efeitos (exemplo: choque, veneno,
+explosão).
+2️⃣ Armadura Viva
+
+●​ O corpo se reveste com uma armadura de Nanites,
+aumentando a defesa e resistência.
+●​ Bônus de CA: +2 no início, pode evoluir até +6.
+●​ Pode ganhar resistência contra dano cortante,
+perfurante ou energético.
+3️⃣ Regeneração Acelerada
+
+●​ Os Nanites reparam o corpo do usuário rapidamente.
+●​ Recupera 1d10 + Nível de Personagem de HP por
+rodada enquanto ativo.
+●​ Pode remover venenos, doenças ou efeitos negativos
+conforme evolui.
+4️⃣ Supermobilidade
+
+●​ Os Nanites melhoram a estrutura muscular e óssea do
+usuário.
+
+●​ Pode conceder habilidades como superpulo,
+supervelocidade, escalada ou voo temporário.
+●​ Aumento de deslocamento: +3m no início, até +12m
+no máximo.
+5️⃣ Controle de Máquinas
+
+●​ O usuário pode hackear eletrônicos e interagir com
+tecnologia apenas tocando nela.
+●​ Teste de Inteligência (CD 10 + nível da tecnologia)
+para invadir sistemas.
+●​ Pode evoluir para controlar robôs, drones e até
+veículos remotamente
+
+🔧 Evolução dos Nanites
+Nível Melhoria dos Nanites
+1
+
+Habilita 1 forma nanotecnológica
+
+3
+
+Desbloqueia uma segunda forma
+
+5
+
+Nanites aprimorados (Bônus de +2 em Teste de Controle de
+Nanites)
+
+7
+
+Forma Combate (Ganha +1 Ataque por turno enquanto
+transformado)
+
+10
+
+Evolução Avançada (Pode fundir duas formas
+simultaneamente)
+
+15
+
+Modo Overdrive (Os Nanites podem operar além do tempo
+limite, mas custam 2x mais Energia)
+
+20
+
+Nanites Perfeitos (Transformações ilimitadas, resistência
+total a venenos e doenças)
+
+⚡ Modos de Ativação Especiais
+
+🔵 Modosem
+Automático → Os Nanites ativam habilidades
+precisar de um Teste de Controle.​
+🟡 Modo mas
+Berserker → A transformação dura mais tempo,
+o usuário perde parte do controle.​
+🔴 Nanites,
+Modo Omega → O usuário libera 100% do potencial dos
+dobrando os bônus, mas sofrendo Exaustão
+depois
+
+🔥 Criando Novas Formas de Nanites
+Se quiser criar novas habilidades para os Nanites, siga
+estas diretrizes:
+1️⃣ Escolha um foco: Defesa, Ataque, Suporte ou
+Mobilidade.​
+2️⃣ Defina os atributos aumentados: Cada forma pode dar +2
+em um atributo.​
+3️⃣ Dê uma habilidade especial única.​
+4️⃣ Adicione um efeito colateral: Alto consumo de energia,
+risco de mau funcionamento, etc.
+Exemplo:
+
+🔹 Forma Besta Metálica
+●​ +4 Força, +2 Resistência
+●​ Garras de Plasma (Dano 2d6 + 2 Fogo)
+●​ Modo Feral (Ganha um ataque extra corpo a corpo)
+●​ Efeito Colateral: Difícil de desativar, pode atacar
+aliados sem querer
+
+💾 Perguntas Frequentes
+
+❔ Os Nanites podem ser removidos?
+Somente com tecnologia avançada ou poder extremo, pois
+eles se integram ao DNA do usuário.
+
+❔ Os Nanites podem evoluir sozinhos?
+
+Sim! O Mestre pode permitir que os Nanites aprendam e
+adaptem-se a novos desafios.
+
+❔ Posso transferir Nanites para outra pessoa?
+
+Sim, mas o receptor pode não suportar a fusão, exigindo
+um Teste de Constituição CD 18 para sobreviver!
+
+⚡
+Modo Turbo​
+🔋 Como Ativar o Modo Turbo?
+
+1️⃣ O personagem deve possuir um núcleo de energia turbo
+no corpo, seja através de tecnologia avançada ou mutação
+biológica.​
+2️⃣ O usuário pode ativar o Modo Turbo gastando Energia
+(EP) e fazendo um Teste de Controle Turbo (1d20 + Mod. de
+Resistência ou Inteligência)
+
+🎮 Teste de Controle Turbo
+Resultado
+(D20)
+
+Efeito
+
+1-5
+
+Falha! A energia sobrecarrega e o usuário sofre 1d6 de dano por excesso de
+energia
+
+6-10
+
+Ativação Parcial! O Modo Turbo ativa, mas os bônus são reduzidos pela metade
+
+11-15
+
+Sucesso! O Modo Turbo ativa normalmente
+
+16-19
+
+Ativação Aprimorada! Ganha +2 em todas as rolagens enquanto estiver no
+Modo Turbo
+
+20+
+
+Turbo Perfeito! O Modo Turbo dura o dobro do tempo e não consome Energia
+na primeira ativação
+
+⏳ Duração do Modo Turbo
+●​ Cada ativação dura 1d6 + Mod. de Resistência
+rodadas.
+●​ Após esse tempo, o usuário precisa de 2d6 rodadas
+para recarregar antes de ativar novamente.
+●​ Se tentar ativar antes de recarregar, precisa fazer um
+Teste de Resistência CD 15, ou o Turbo entra em
+sobrecarga e desativa por 1 hora
+
+🌀 Modos Turbo Disponíveis
+1️⃣ Turbo Força
+
+●​ +4 Força e +2 Resistência.
+●​ Aumento de dano corpo a corpo: +1d6.
+●​ Pode erguer e arremessar objetos massivos (até 3x o
+peso normal).
+2️⃣ Turbo Velocidade
+
+●​ +4 Agilidade e +2 Reflexos.
+●​ Aumento de deslocamento: +6m, podendo atingir
++15m no nível máximo.
+●​ Pode agir duas vezes por turno (gasta mais energia).
+3️⃣ Turbo Camuflagem
+
+●​ +4 Furtividade e +2 Inteligência.
+●​ Permite ficar invisível por 1d4 rodadas.
+●​ Pode se infiltrar em sistemas eletrônicos e hackear
+dispositivos.
+4️⃣ Turbo Defesa
+
+●​ +4 CA e +2 Resistência.
+●​ Reduz todo dano recebido em 3 pontos.
+●​ Pode absorver ataques de energia e redirecioná-los
+(1x por combate).
+5️⃣ Turbo Voo
+
+●​ +4 Reflexos e +2 Inteligência.
+●​ Pode voar a até 30m por rodada.
+●​ Pode gerar campos de força para proteger aliados
+
+⚡ Modo Turbo Supremo (Nível 20+)
+
+Ao atingir o nível máximo, o usuário pode entrar em um
+estado Turbo Supremo, no qual combina vários Modos
+Turbo simultaneamente!
+
+✅
+✅
+✅
+
+Efeitos do Turbo Supremo:​
+Pode combinar duas formas Turbo ao mesmo tempo.​
+Duração dobrada.​
+Redução de dano aprimorada (-5 em todo dano
+recebido).​
+Ataques energizados causam +2d6 de dano adicional.​
+Pode lançar um pulso de energia que atordoa todos os
+inimigos próximos (Teste de Resistência CD 18).
+
+✅
+
+✅
+
+🛠️ Evolução do Modo Turbo
+Nív
+el
+
+Aprimoramento do Modo Turbo
+
+1
+
+Ganha o primeiro Modo Turbo.
+
+3
+
+Desbloqueia um segundo Modo Turbo
+
+5
+
+Turbo Aprimorado (+1 rodada de duração)
+
+7
+
+Turbo Adaptável (Pode trocar de modo durante o combate)
+
+10
+
+Turbo Total (Pode usar 2 modos simultaneamente por 1
+minuto)
+
+15
+
+Turbo Extremo (+3 em todas as rolagens enquanto ativo)
+
+20
+
+Turbo Supremo (Acesso à fusão de todos os modos e
+resistência total a dano energético)
+
+🔥 Criando Novos Modos Turbo
+Para adicionar mais variações do Modo Turbo, siga estas
+diretrizes:
+1️⃣ Escolha o foco: (Força, Velocidade, Defesa, Poder
+Energético, etc.)​
+2️⃣ Defina os bônus: Cada Modo Turbo deve aumentar +4 em
+um atributo e fornecer 1 efeito especial.​
+3️⃣ Adicione um custo: (Aumento no consumo de Energia,
+limitação de tempo, risco de sobrecarga).​
+4️⃣ Crie uma vantagem exclusiva: Algo único para
+diferenciar esse Turbo de outros.
+Exemplo:
+
+🔹 Turbo Magnetismo
+●​ +4 Inteligência e +2 Resistência.
+●​ Pode controlar metais à distância (Telecinese
+magnética).
+●​ Pode atrair ou repelir projéteis de metal.
+●​ Custo: Precisa recarregar após 3 ativações.
+
+💡 Perguntas Frequentes
+
+❔ O Modo Turbo pode ser melhorado?
+Sim! O Mestre pode permitir upgrades, evoluções e novas
+fusões ao longo da campanha.
+
+❔ O Turbo pode se sobrecarregar?
+
+Se ativado muitas vezes seguidas, pode causar Exaustão,
+reduzindo os atributos temporariamente.
+
+❔ Como o Turbo interage com outras habilidades?
+
+O Turbo pode ser combinado com outras habilidades do
+personagem, aumentando suas capacidades naturais.
+
+🦋
+📜 Como Funciona um Miraculous?
+
+—----------------------------------------------------------------------------​
+Miraculous​
+Cada Miraculous contém um espírito mágico chamado
+Kwami, que concede poderes ao portador. Para ativar o
+poder, o usuário deve dizer um comando de transformação
+e ativar o item.
+●​ A transformação dura um número de rodadas igual a
+1 + Nível do Usuário.
+●​ Após esse tempo, o usuário precisa esperar 1d4
+minutos antes de reativá-lo
+
+🦸 Criando um Usuário de Miraculous
+
+Passo 1: Escolha um Miraculous.​
+Passo 2: Escolha seus poderes básicos e um Poder
+Supremo.​
+Passo 3: Defina um comando de transformação e um
+comando de liberação.​
+Passo 4: Determine sua fraqueza única, pois todo
+Miraculous tem um limite
+
+🌀 Lista de Miraculous e Poderes
+
+🐞 Miraculous da Joaninha (Criação & Sorte)
+●​ Poder Básico: Reflexos Aprimorados (+4 em Reflexos)
+●​ Arma: Ioiô indestrutível (Alcance 9m)
+●​ Poder Supremo: Sortudo – Pode criar qualquer objeto
+pequeno uma vez por transformação.
+●​ Fraqueza: Só pode usar o poder supremo uma vez por
+transformação
+
+🐱 Miraculous do Gato (Destruição & Azar)
+
+●​ Poder Básico: Super Agilidade (+6m de
+deslocamento, +2 em Saltos)
+●​ Arma: Bastão retrátil (Pode se estender até 6m)
+
+●​ Poder Supremo: Cataclismo – Ao tocar algo, pode
+destruí-lo instantaneamente.
+●​ Fraqueza: O poder só pode ser usado uma vez por
+transformação e afeta seres vivos
+
+🐢 Miraculous da Tartaruga (Proteção & Defesa)
+
+●​ Poder Básico: Pele Resistente (+4 CA)
+●​ Arma: Escudo indestrutível (Pode ser usado para
+defesa total por 1 turno)
+●​ Poder Supremo: Shellter – Cria uma cúpula de energia
+impenetrável por 3 rodadas.
+●​ Fraqueza: A cúpula impede ataques do usuário
+também​
+​
+Miraculous da Raposa (Ilusão & Engano)
+●​ Poder Básico: Enganar (+2 em testes de Enganação e
+Furtividade)
+●​ Arma: Flauta mágica (Amplifica ilusões)
+●​ Poder Supremo: Miragem – Cria uma ilusão
+hiper-realista por 3 rodadas.
+●​ Fraqueza: A ilusão desaparece ao ser tocada
+
+🦊
+
+🐍 Miraculous da Cobra (Tempo & Repetição)
+
+●​ Poder Básico: Memória Aprimorada (+2 em Percepção
+e Reflexos)
+●​ Arma: Bracelete enfeitiçado
+●​ Poder Supremo: Segunda Chance – Volta até 6
+segundos no tempo.
+●​ Fraqueza: Só pode usar o poder uma vez por
+transformação
+
+🐝 Miraculous da Abelha (Rapidez & Controle)
+
+●​ Poder Básico: Ataque Preciso (+2 em ataques corpo a
+corpo)
+●​ Arma: Pente mágico (Consegue paralisar um alvo por
+1 turno)
+
+●​ Poder Supremo: Veneno Paralizante – Imobiliza um
+alvo por 3 rodadas.
+●​ Fraqueza: Afeta apenas um alvo por transformação
+
+🐲 Miraculous do Dragão (Elementos & Metamorfose)
+
+●​ Poder Básico: Adaptação Elemental (+2 em testes
+relacionados ao ambiente)
+●​ Arma: Espada Dragão (Pode mudar de forma entre
+lança e chicote)
+●​ Poder Supremo: Mudança Elemental – Pode alternar
+entre fogo, água e vento.
+●​ Fraqueza: Só pode trocar de elemento uma vez a cada
+2 turnos
+
+🦅 Miraculous da Águia (Visão & Velocidade)
+
+●​ Poder Básico: Olhos de Águia (+2 em Percepção,
+pode ver no escuro)
+●​ Arma: Garras retráteis
+●​ Poder Supremo: Voo Relâmpago – Pode voar a alta
+velocidade por 1 minuto.
+●​ Fraqueza: Não pode parar de se mover enquanto
+estiver no ar
+
+🦋
+Miraculous da Borboleta (Criação de Vilões &
+Aliados)
+
+●​ Poder Básico: Conexão Mental (Pode se comunicar
+telepaticamente com um alvo)
+●​ Arma: Broche místico (Amplifica influência)
+●​ Poder Supremo: Akumatização – Concede poderes a
+um NPC em troca de controle parcial.
+●​ Fraqueza: Se o alvo resistir à influência, o usuário
+perde energia
+
+🦚
+Miraculous do Pavão (Criação & Controle de
+Criaturas Mágicas)
+
+●​ Poder Básico: Empatia Sobrenatural (Pode sentir
+emoções alheias a até 9m)
+●​ Arma: Leque encantado (Usado para canalizar
+poderes)
+●​ Poder Supremo: Sentimonstro – Cria um ser mágico
+para lutar ao seu lado até o fim da transformação.
+●​ Fraqueza: Se o Sentimonstro for destruído, o usuário
+sofre um impacto emocional forte, sofrendo -2 em
+todas as jogadas até o fim do combate
+
+🐁 Miraculous do Rato (Multiplicação & Agilidade)
+
+●​ Poder Básico: Reflexos Rápidos (+2 em Reflexos e
+Testes de Furtividade)
+●​ Arma: Pequeno cachimbo mágico (Amplifica poderes)
+●​ Poder Supremo: Multiplicação – Cria até 4 clones de
+si mesmo, que duram 3 turnos.
+●​ Fraqueza: Os clones são frágeis e desaparecem se
+sofrerem dano
+
+🐯 Miraculous do Tigre (Força & Impacto)
+
+●​ Poder Básico: Golpe Potente (+2 em ataques corpo a
+corpo)
+●​ Arma: Luvas de impacto (Amplificam socos)
+●​ Poder Supremo: Colisão do Tigre – Causa um golpe
+de impacto devastador, jogando todos em um raio de
+3m para trás.
+●​ Fraqueza: O golpe só pode ser usado uma vez por
+transformação
+
+🐂 Miraculous do Boi (Resistência & Imunidade)
+
+●​ Poder Básico: Pele Resistente (+3 CA contra ataques
+físicos)
+●​ Arma: Anel de metal mágico
+●​ Poder Supremo: Resistência Absoluta – Durante 2
+turnos, se torna imune a qualquer dano físico.
+
+●​ Fraqueza: Não pode se mover enquanto estiver
+usando a resistência suprema
+
+🐇 Miraculous do Coelho (Tempo & Teletransporte)
+
+●​ Poder Básico: Reflexos Rápidos (+2 em Reflexos e
+Testes de Iniciativa)
+●​ Arma: Guarda-chuva encantado (Funciona como
+catalisador de poder)
+●​ Poder Supremo: Buraco Temporal – Pode viajar no
+tempo por até 1 minuto no passado ou no futuro.
+●​ Fraqueza: O poder só pode ser usado uma vez por
+transformação e pode criar paradoxos perigosos
+
+🐎
+Miraculous do Cavalo (Teleporte & Viagem
+Dimensional)
+
+●​ Poder Básico: Deslocamento Rápido (+6m de
+movimento por turno)
+●​ Arma: Ferradura mágica (Amplifica poderes)
+●​ Poder Supremo: Galope Dimensional – Pode se
+teletransportar instantaneamente para qualquer local
+conhecido.
+●​ Fraqueza: O teletransporte não pode ser usado para
+sair de combate direto (como fugir de um ataque já
+em andamento)
+
+🐐
+Miraculous da Cabra (Criação & Personalização de
+Armas)
+
+●​ Poder Básico: Criatividade Estratégica (+2 em testes
+de Inteligência e Engenhosidade)
+●​ Arma: Chifre duplo encantado (Transforma-se em
+qualquer ferramenta ou arma)
+●​ Poder Supremo: Criação Adaptável – Pode criar
+temporariamente uma arma personalizada com
+habilidades únicas.
+●​ Fraqueza: A arma desaparece após 3 turnos e só pode
+ser criada uma vez por transformação
+
+🐵 Miraculous do Macaco (Caos & Desorientação)
+●​ Poder Básico: Enganar & Trapacear (+2 em testes de
+Enganação e Acrobacia)
+●​ Arma: Bastão de truques (Pode se transformar em
+diferentes objetos)
+●​ Poder Supremo: Caos Controlado – Cria um efeito
+aleatório (como confusão, ilusão ou desarmar
+oponente).
+●​ Fraqueza: O efeito do Caos é imprevisível e pode
+afetar aliados também
+
+🐓 Miraculous do Galo (Comando & Voz de Controle)
+
+●​ Poder Básico: Presença Imponente (+2 em testes de
+Intimidação e Diplomacia)
+●​ Arma: Medalhão dourado encantado
+●​ Poder Supremo: Ordem Absoluta – Pode dar um
+comando mental a um alvo, que deve obedecer por 2
+turnos.
+●​ Fraqueza: O alvo pode resistir com um teste de
+Vontade (CD 15 + nível do usuário).
+
+🐶
+Miraculous do Cachorro (Rastreamento &
+Recuperação)
+
+●​ Poder Básico: Faro Aguçado (+2 em testes de
+Percepção e Investigação)
+●​ Arma: Apito encantado (Pode ser usado para
+convocar aliados animais)
+●​ Poder Supremo: Apropriação Canina – Pode marcar
+um item e chamá-lo de volta a qualquer momento.
+●​ Fraqueza: Só pode marcar um item por
+transformação.
+
+🐖 Miraculous do Porco (Alegria & Inspiração)
+
+●​ Poder Básico: Aura Positiva (+2 em testes de Carisma
+e Diplomacia)
+●​ Arma: Pequeno espelho encantado (Reflete emoções)
+●​ Poder Supremo: Visão dos Sonhos – Permite que um
+alvo veja um sonho ou visão inspiradora.
+●​ Fraqueza: A visão não tem efeitos físicos diretos,
+apenas emocionais e psicológicos
+
+🛠️ Melhorando os Miraculous
+Nível
+
+Aprimoramento do Miraculous
+
+1
+
+Teste de Transformação mais fácil (+2).
+
+3
+
+O Poder Supremo pode ser usado 2x por transformação
+
+5
+
+Consegue usar o Miraculous por 10 rodadas
+
+7
+
+Ganha um segundo efeito especial
+
+10
+
+Pode combinar o poder de dois Miraculous diferentes
+
+20
+
+Modo Divino – A transformação dura 1 hora e remove todas as
+fraquezas!
+
+⚡ Criando Novos Miraculous
+Quer criar um novo Miraculous? Siga este esquema:
+1️⃣ Escolha um tema animal.​
+2️⃣ Defina um poder básico e uma arma especial.​
+3️⃣ Escolha um Poder Supremo único.​
+4️⃣ Dê uma fraqueza balanceada para limitar o poder
+
+🏮
+📜 Regras Gerais para Talismãs
+
+—-------------------------------------------------------------------------​
+Talismãs Mágicos​
+●​ Ativação: Cada Talismã precisa de um comando
+mental ou físico (toque, gesto, palavra-chave).
+●​ Uso: Alguns efeitos são passivos, outros exigem um
+gasto de Energia (EP).
+●​ Fusão: Se alguém reunir todos os 12 Talismãs, poderá
+despertar um poder cósmico absoluto (com
+consequências)
+
+🐀
+
+​
+Talismã do Rato (Animação de Objetos)
+
+●​ Poder: Dá vida a objetos inanimados, permitindo que
+sigam ordens simples por 1d4+1 turnos.
+●​ Uso: Gasta 2 EP por objeto animado.
+●​ Fraqueza: Os objetos animados não possuem
+inteligência própria e podem agir de forma errática
+
+🐂
+
+​
+Talismã do Boi (Força Sobrenatural)
+
+●​ Poder: Concede Força sobre-humana, dobrando o
+dano corpo a corpo e permitindo erguer até 10
+toneladas.
+●​ Uso: Ativação passiva.
+
+●​ Fraqueza: O usuário pode quebrar acidentalmente
+objetos frágeis ao tocá-los
+
+🐅 Talismã do Tigre (Equilíbrio Yin-Yang)
+
+●​ Poder: Separa o usuário em duas versões de si
+mesmo – uma boa e outra má, ambas com 100% do
+poder original.
+●​ Uso: Duração de 1 minuto (10 turnos).
+●​ Fraqueza: Ambas as metades agem
+independentemente e podem entrar em conflito
+
+🐇 Talismã do Coelho (Super Velocidade)
+
+●​ Poder: Multiplica a velocidade do usuário por 5,
+permitindo ataques rápidos e esquivas relâmpago.
+●​ Uso: Ativação passiva.
+●​ Fraqueza: O usuário pode perder o controle ao se
+mover em alta velocidade.
+
+🐉 Talismã do Dragão (Explosões de Energia)
+●​ Poder: Dispara rajadas de energia flamejante (3d10 de
+dano em área de 3m).
+●​ Uso: Gasta 5 EP por disparo.
+●​ Fraqueza: O usuário pode sofrer recuo da explosão.
+
+🐍 Talismã da Serpente (Invisibilidade)
+●​ Poder: O usuário se torna totalmente invisível por
+1d6+2 turnos.
+●​ Uso: Gasta 3 EP por ativação.
+●​ Fraqueza: O efeito desaparece se o usuário atacar.
+
+🐎 Talismã do Cavalo (Cura Regenerativa)
+●​ Poder: Cura todas as feridas do usuário e de outros
+tocados por ele.
+●​ Uso: Pode ser ativado 3x por dia.
+●​ Fraqueza: Não regenera órgãos perdidos.
+
+🐏 Talismã da Cabra (Projeção Astral)
+●​ Poder: Separa a alma do corpo, permitindo viajar pelo
+plano astral por 1 minuto.
+●​ Uso: Gasta 5 EP.
+●​ Fraqueza: O corpo fica indefeso enquanto a alma está
+projetada.
+
+🐒 Talismã do Macaco (Metamorfose)
+●​ Poder: Transforma o usuário em qualquer animal por
+até 10 minutos.
+●​ Uso: Gasta 4 EP por transformação.
+●​ Fraqueza: O usuário precisa manter a consciência
+para reverter a forma.
+
+🐓 Talismã do Galo (Voo & Levitação)
+●​ Poder: Permite levitar e voar a até 30m por turno.
+●​ Uso: Ativação passiva.
+●​ Fraqueza: Não protege contra impactos ao cair.
+
+🐶 Talismã do Cachorro (Imortalidade & Invulnerabilidade)
+●​ Poder: Torna o usuário imune a dano físico e
+envelhecimento.
+
+●​ Uso: Passivo, mas dura apenas 5 turnos por ativação.
+●​ Fraqueza: Não protege contra efeitos mentais.
+
+🐷 Talismã do Porco (Visão de Raios Laser)
+●​ Poder: Dispara raios de energia quente pelos olhos
+(3d8 de dano).
+●​ Uso: Gasta 3 EP por disparo.
+●​ Fraqueza: Pode ser refletido por superfícies metálicas
+
+🌟 O Poder Supremo: A Fusão dos 12 Talismãs
+
+Se alguém reunir todos os Talismãs, pode ativar o Modo
+Supremo:​
+✔ Todos os poderes ao mesmo tempo​
+✔ Duração infinita enquanto segurando os Talismãs​
+✔ Amplificação dos efeitos de cada Talismã
+
+🚨
+Risco: O usuário pode ser consumido pelo poder se
+não for mentalmente forte o suficiente (Teste de Vontade
+CD )​
+—-------------------------------------------------------------------------------​
+Talentos​
+Como Funciona?
+
+🎁
+🛠
+
+✅ Os jogadores podem escolher 1 talento a cada 4 níveis
+(ou em níveis específicos, dependendo da progressão).​
+✅ Alguns talentos possuem pré-requisitos (atributos
+mínimos, classe específica ou talentos anteriores).​
+✅ Talentos podem ser divididos em categorias, como
+Combate, Magia, Tecnologia, e mais
+
+🏹 Categorias de Talentos
+
+⚔ Talentos de Combate (Para guerreiros, lutadores,
+assassinos, caçadores, etc.)
+
+✔ Ataque Poderoso – Você pode reduzir sua precisão em -2
+para causar +4 de dano.​
+✔ Ataque Giratório – Acerta todos os inimigos ao redor uma
+vez por turno.​
+✔ Bloqueio Reflexivo – Se você estiver segurando uma arma
+corpo a corpo, pode reduzir o dano de ataques recebidos em 2.​
+✔ Especialista em Duas Armas – Reduz a penalidade para
+lutar com duas armas em -2
+
+🎯 Talentos de Precisão (Para snipers, pistoleiros e
+arqueiros)
+
+✔ Tiro Rápido – Faça dois ataques à distância no mesmo
+turno com -2 de penalidade.​
+✔ Mestre da Mira – Seu dano à distância aumenta em +2.​
+✔ Penetração de Armadura – Seus ataques ignoram 3
+pontos da CA inimiga.​
+✔ Mestre dos Explosivos – Seus ataques explosivos têm +1
+metro de raio.
+
+💥 Talentos de Energia e Poderes Especiais (Para
+mutantes, ciborgues, fantasmas, etc.)
+
+✔ Canalizar Energia – Seus ataques energéticos ignoram
+resistência normal.​
+✔ Amplificação Bioenergética – Você pode gastar 2 EP para
+aumentar seu dano em +3.​
+✔ Resistência ao Caos – Reduz em 3 qualquer dano de
+magia ou energia recebida.​
+✔ Controle Elemental – Escolha um elemento (fogo, gelo,
+eletricidade, etc.), seus ataques ganham +1d4 de dano extra
+desse tipo.
+
+🧠 Talentos Mentais e Estratégicos (Para gênios,
+táticos e psíquicos)
+
+✔ Mente Resistente – +2 em testes de resistência contra
+ilusões e controle mental.​
+✔ Análise Rápida – Você pode gastar uma ação para
+descobrir fraquezas do inimigo.​
+✔ Estrategista – Você pode usar uma ação bônus para
+coordenar aliados, dando +1 nos ataques deles.​
+✔ Memória Fotográfica – Você se lembra de qualquer
+detalhe que tenha visto nos últimos 24h.
+
+🔧 Talentos Tecnológicos (Para engenheiros,
+ciborgues e hackers)
+
+✔ Hacker Mestre – +3 em testes para invadir sistemas
+digitais.​
+✔ Criador de Gadgets – Você pode fabricar dispositivos
+tecnológicos personalizados.​
+✔ Armadura Personalizada – Suas armaduras tecnológicas
+recebem +2 CA extra.​
+✔ Fusão Cibernética – Você pode instalar implantes
+biomecânicos sem penalidade.
+
+🕶️ Talentos de Furtividade e Assassinato (Para
+espiões, ninjas e caçadores)
+
+✔ Mestre da Furtividade – +3 em testes de furtividade.​
+✔ Assassinato Silencioso – Se atacar um inimigo sem que
+ele perceba, causa dano dobrado.​
+
+✔ Sombra Rápida – Você pode se mover silenciosamente
+sem penalidade.​
+✔ Mestre do Disfarce – Você pode imitar vozes e gestos de
+outras pessoas com facilidade.
+⚔ Combate Avançado
+
+✔ Fúria Incontrolável (Pré-requisito: Força 14+ ou
+Resistência 12+) – Você pode entrar em um estado de fúria,
+ganhando +2 no dano, mas sofrendo -1 na CA por 3 turnos.​
+​
+✔ Parry Mestre (Pré-requisito: Agilidade 14+ e proficiência
+com armas corpo a corpo) – Se estiver segurando uma arma
+corpo a corpo, pode reduzir o dano recebido em 4 uma vez por
+turno.​
+✔ Lutador Incansável (Pré-requisito: Resistência 14+) –
+Quando sua vida cair abaixo de 50%, recebe +1 em todos os
+testes de ataque.​
+✔ Instinto de Sobrevivência (Pré-requisito: Nível 5+ e
+Reflexos 12+) – Se for atingido por um ataque que te
+derrubaria, pode rolar um teste de Reflexos (DC 18) para ficar
+com 1 de HP.
+
+🎯 Precisão e Ataques à Distância
+✔ Disparo Devastador (Pré-requisito: Agilidade 14+ e Mira
+Avançada) – Se não se mover no turno, pode dobrar o dano de
+um ataque à distância.​
+✔ Olho de Águia (Pré-requisito: Percepção 12+ e arma de
+longo alcance) – Você reduz a penalidade por ataques de
+longa distância pela metade.​
+✔ Ricochete Perfeito (Pré-requisito: Agilidade 16+ e Disparo
+Devastador) – Pode disparar contra superfícies para atingir
+
+inimigos atrás de cobertura.​
+✔ Balística Perfeita (Pré-requisito: Agilidade 18+ e Nível 10+)
+– Seus ataques à distância ignoram resistência normal e CA de
+cobertura parcial.
+
+💥 Poderes Energéticos e Sobrenaturais
+✔ Onda de Choque (Pré-requisito: Energia 12+ ou habilidade
+elemental) – Você pode liberar uma explosão de energia que
+empurra todos os inimigos num raio de 3 metros.​
+✔ Escudo de Energia (Pré-requisito: Nível 5+ e Energia 14+)
+– Uma vez por combate, pode ativar um escudo temporário
+que absorve 10 pontos de dano.​
+✔ Evolução Energética (Pré-requisito: Nível 7+ e Poder
+Elemental ativo) – Seus ataques elementais ganham +1d6 de
+dano extra.​
+✔ Fluxo Arcano (Pré-requisito: Inteligência 14+ ou Magia
+Avançada) – Reduz o custo de habilidades mágicas ou de
+energia em 1 ponto.
+
+🛡 Defesa e Resistência
+✔ Casca Dura (Pré-requisito: Resistência 14+ e nível 3+) –
+Reduz todo dano físico recebido em 3.​
+✔ Resistência Absoluta (Pré-requisito: Resistência 16+ e
+Nível 8+) – Você reduz pela metade o dano sofrido por um
+ataque uma vez por combate.​
+✔ Fator de Cura Acelerado (Pré-requisito: Resistência 14+ e
+Nível 5+) – Você regenera 1d4 HP no início de cada turno.​
+✔ Pele de Aço (Pré-requisito: Resistência 18+ e Nível 12+) –
+Sua CA natural aumenta em +2 permanentemente.
+
+🕵️‍♂️ Infiltração e Furtividade
+✔ Movimento Fantasma (Pré-requisito: Agilidade 12+ e
+Furtividade Treinada) – Você ignora superfícies ruidosas ao se
+mover furtivamente.​
+✔ Assassino Silencioso (Pré-requisito: Nível 5+ e Agilidade
+14+) – Ataques furtivos ignoram armaduras naturais e CA de
+cobertura.​
+✔ Desaparecimento Rápido (Pré-requisito: Nível 7+ e
+Furtividade 12+) – Pode gastar uma ação bônus para se
+esconder instantaneamente.​
+✔ Passos nas Sombras (Pré-requisito: Nível 10+ e Assassino
+Silencioso) – Você pode se teletransportar para um local
+escuro a até 6 metros de distância​
+—--------------------------------------------------------------------------------​
+##
+Modelo de Criação de Talento
+
+🎯
+
+🔹 Nome do Talento:**
+
+**
+
+Dê um nome impactante e direto para o talento.
+
+🔹 Categoria:**
+
+**
+
+Escolha a categoria:
+➤ Combate
+➤ Magia
+➤ Tecnologia
+➤ Furtividade
+➤ Suporte
+➤ Defesa
+
+➤ Etc.
+
+🔹 Pré-requisitos:**
+
+**
+
+Liste os requisitos para ter acesso ao talento, como:
+➤ Atributos mínimos (Força, Agilidade...)
+➤ Nível mínimo
+➤ Proficiências ou talentos anteriores
+
+🔹 Descrição:**
+
+**
+
+Explique em poucas linhas o que o talento faz. Foque no efeito
+principal e em qualquer aspecto narrativo.
+
+🔹 Efeito Mecânico:**
+
+**
+
+Descreva exatamente o que acontece em jogo:
+➤ Bonificações, ações extras, resistências, etc.
+
+🔹 Limitação (opcional):**
+
+**
+
+Se quiser, adicione alguma limitação ou custo para equilibrar:
+➤ “1 vez por combate”, “custa 2 EP”, etc.
+##
+
+📝 Exemplo preenchido:
+
+🔹 Nome do Talento:** Fúria Descontrolada
+**🔹 Categoria:** Combate
+**🔹 Pré-requisitos:** Força 14+, Resistência 12+
+**
+
+🔹 Descrição:** Quando em desvantagem, sua raiva explode
+
+**
+
+e você ataca com ferocidade brutal.
+
+🔹
+
+**
+Efeito Mecânico:** Pode ativar uma vez por combate: +2
+no dano de ataques corpo a corpo, mas sofre -1 de CA por 3
+turnos.
+
+🔹
+
+**
+Limitação:** Uma vez por combate.​
+—-----------------------------------------------------------------​
+​
+Indisponível​
+
+🛸 BEN 10 – TALENTOS ÚNICOS
+
+🌀 Código Mestre (Pré-requisito: Portador de Omnitrix ou
+Tecnologia Similar)
+
+Você desbloqueia funções secretas do Omnitrix!
+
+🎖 Bônus:
+
+●​ Pré-requisito:Nível 5+ Pode forçar uma transformação
+específica sem precisar rolar dados.​
+●​ Pré-requisito:Nível 15+ Pode permanecer transformado o
+tempo que quiser, sem tempo limite!
+●​ Pré-requisito:Nível 12+ Desbloqueia modos especiais
+como Modo Supremo ou fusões de DNA alienígena
+
+♾️ DNA Supremo (Pré-requisito: Código Mestre ou
+Experiência com o supre Omnitrix)
+
+Você evolui seus alienígenas para a versão suprema!
+
+🎖 Bônus:
+
+●​ Sempre que se transformar, pode escolher entre a forma
+normal ou Suprema.​
+●​ Formas Supremas recebem +2 em todos os atributos e
+novas habilidades.​
+
+●​ Pode fundir até dois alienígenas para criar combinações
+únicas
+
+🦠 MUTANTE REX – TALENTOS ÚNICOS
+
+🔩 Mestre da Nanotecnologia (Pré-requisito: Infecção por
+Nanites Avançados)
+
+Seus Nanites são totalmente controláveis, sem limitações!
+
+🎖 Bônus:
+
+●​ Pode criar qualquer arma ou ferramenta a partir do próprio
+corpo.​
+●​ Pode curar qualquer dano usando Nanites, até membros
+perdidos​
+.
+●​ Pode hackear outros seres tecnológicos e controlá-los
+
+⚡ Forma Omega (Pré-requisito: Tem o Nanites Omega )
+Você alcança o ápice da evolução dos Nanites!
+
+🎖 Bônus:
+
+●​ Pode ativar o Modo Omega, aumentando seu poder 10x por
+1 minuto.​
+●​ Ganha resistência absoluta a qualquer tipo de hack ou
+vírus.​
+●​ Pode fundir-se a qualquer tecnologia, assumindo controle
+dela.
+
+👻 DANNY PHANTOM – TALENTOS ÚNICOS
+
+🕶️ Mestre da Intangibilidade (Pré-requisito: Ser
+
+Meio-Fantasma ou Habilidade de Intangibilidade)
+Você pode se tornar completamente intangível, até contra
+ataques especiais!
+
+🎖 Bônus:
+
+●​ Pode atravessar tudo, até barreiras mágicas ou tecnológicas.​
+●​ Pode tocar objetos enquanto intangível para manipulá-los!​
+●​ Pode gastar 1 EP para tornar-se invisível além da
+intangibilidade.
+
+🌪️ Explosão Fantasma Suprema (Pré-requisito:
+Habilidade de Explosão Fantasma Avançada)
+
+Seu Golpe Fantasma atinge níveis devastadores!
+
+🎖 Bônus:
+
+●​ Pode disparar um ataque de energia fantasma massivo em
+área.​
+●​ Se atingir um fantasma, anula seus poderes
+temporariamente.​
+
+🐉 O DRAGÃO OCIDENTAL – TALENTOS ÚNICOS
+
+🔥 Modo Dragão Supremo (Pré-requisito: Ser um Dragão
+ou Similar)
+
+Você libera o potencial máximo da sua forma dracônica!
+
+🎖 Bônus:
+
+●​ Pode usar chamas mágicas que queimam até espíritos e
+espectros.
+●​ Seus golpes físicos causam o dobro de dano contra
+qualquer criatura maligna.
+●​ Pode voar em velocidade supersônica!
+
+🐉 Alma do Dragão Ancestral (Pré-requisito: Modo
+Dragão Supremo ou Conexão Dracônica Forte)
+
+Você canaliza o poder dos dragões antigos!
+
+🎖 Bônus:
+
+●​ Seus ataques agora causam dano elemental extra (fogo,
+raio, gelo, etc.).​
+●​ Ganha uma resistência quase total a qualquer ataque
+mágico.​
+●​ Pode usar um rugido dracônico que paralisa inimigos fracos
+pelo medo.
+
+🥷 RANDY CUNNINGHAM: NINJA – TALENTOS ÚNICOS
+🕶️ Modo Ninja Supremo (Pré-requisito: Ser Ninja ou
+Treinamento Especializado em Técnicas Ninja)
+
+Você atinge o auge das artes ninjas, ficando praticamente
+indetectável!
+
+🎖 Bônus:
+
+●​ Seus movimentos são totalmente silenciosos, sem chance
+de detecção.​
+
+●​ Pode refletir qualquer ataque de longo alcance com sua
+katana.​
+●​ Ganha um instinto de perigo, podendo esquivar
+automaticamente de um ataque mortal.
+
+💥 MAX STEEL – TALENTOS ÚNICOS
+
+⚡ Modo Turbo Supremo (Pré-requisito: Modo Turbo
+Avançado ou Acessórios Nano-Tecnológicos)
+
+Você libera todo o potencial do Modo Turbo!
+
+🎖 Bônus:
+
+●​ Pode aumentar sua força e velocidade em o dobro do
+deslocamento por 3 turnos.​
+●​ Seu corpo se adapta a qualquer ambiente, incluindo espaço
+ou submersão profunda.​
+●​ Pode gerar rajadas de energia super concentradas.
+
+📡 SÁBADOS SECRETOS – TALENTOS ÚNICOS
+
+🔮 Mestre Criptozoologista (Pré-requisito: Conhecimento
+Profundo sobre Criaturas Místicas e Criptoides)
+
+Você entende todas as criaturas ocultas do mundo e pode
+controlá-las!
+
+🎖 Bônus:
+
+●​ Pode se comunicar com qualquer criptoide e convencê-lo a
+ajudar.
+
+●​ Ganha resistência total contra magia de criaturas míticas.
+●​ Pode invocar um Criptoide para lutar ao seu lado 1x por
+dia.
+
+🤖 TITÃ SIMBIÔNICO – TALENTOS ÚNICOS
+
+🔩 Fusão Máxima (Pré-requisito: Pilotagem de Mechas ou
+Fusão de Entidades Tecnológicas)
+
+Você pode se fundir com qualquer máquina ou ser tecnológico,
+criando um Titã!
+
+🎖 Bônus:
+
+●​ Qualquer máquina pilotável se torna uma armadura viva
+para você.
+●​ Se fundindo com outro personagem, os status combinam e
+atingem o máximo!
+●​ Pode controlar tecnologias à distância como se fossem
+parte de você.
+
+🦸 MIRACULOUS – TALENTOS ÚNICOS
+
+🦋 Miraculous Supremo (Pré-requisito: Portador de um
+Miraculous e Conexão Total com seu Kwami)
+
+Você libera 100% do potencial do seu Miraculous!
+
+🎖 Bônus:
+
+●​ Pode usar seu poder especial quantas vezes quiser sem
+limite de tempo.
+●​ Seu Kwami pode ajudar ativamente em combate.
+
+💡 Criando Novos Talentos
+
+📌 1. Escolha um tema (combate, magia, furtividade, tecnologia,
+etc.).​
+📌 2. Defina o efeito básico (ex: bônus em ataque, defesa,
+movimentação).​
+📌 3. Adicione um custo ou pré-requisito, se necessário.​
+📌 4. Teste o equilíbrio comparando com outros talentos
+
+🛠️
+
+—----------------------------------------------------​
+mecânicas​
+​
+1. Criador de Dispositivos (Gambiarra & Engenharia)
+
+🛠️
+
+●​ Se um personagem for um engenheiro, ciborgue ou
+hacker, pode criar gadgets improvisados durante a
+missão.
+●​ Ele precisa de peças e de um teste de Inteligência/CD
+para construir algo útil.
+●​ Exemplos de criações:​
+✔ Um campo de força portátil (absorve 20 de dano
+por 2 turnos)​
+✔ Uma granada EMP (desativa tecnologia por 1 turno)​
+✔ Um jetpack improvisado (voo curto de 3 metros
+
+🌀 2. Sinergia de Poderes (Combinação de Habilidades)
+
+●​ Se dois personagens tiverem poderes compatíveis,
+eles podem combinar suas habilidades para criar um
+efeito novo!
+●​ Exemplos:​
+✔ Fogo + Vento = Explosão de Chamas Expansiva​
+✔ Gelo + Terra = Armadura de Cristais​
+✔ Sombras + Velocidade = Movimento Fantasma
+(teletransporte curto)
+Mecânica: Ambos rolam um teste combinado (CD variável).
+Se passarem, o novo poder é ativado​
+
+​
+​
+
+Atributos Primários
+
+Os atributos primários determinam as capacidades
+físicas, mentais e sociais dos personagens. Cada
+atributo pode ser testado em situações específicas.
+Atributos Principais
+Força (FOR)​
+Mede a capacidade física do personagem para realizar
+feitos de força bruta, como levantar objetos pesados,
+causar dano em ataques corpo a corpo ou resistir a
+impactos.
+Agilidade (AGI)​
+Representa a rapidez, reflexos e destreza do
+personagem. Usado para esquivas, ataques rápidos,
+parkour ou ações que exigem precisão.
+Resistência (RES)​
+Determina a durabilidade física e capacidade de
+suportar dano. Também influencia a resistência contra
+condições adversas, como venenos ou fadiga.
+Inteligência (INT)​
+Mede o raciocínio lógico, capacidade de planejar, usar
+tecnologias e decifrar enigmas. Também influencia a
+criação de estratégias e o uso de gadgets.
+Carisma (CAR)​
+Representa a habilidade de se conectar com outras
+pessoas, inspirar aliados, enganar inimigos ou
+influenciar NPCs.
+
+Poder (POD)​
+Reflete o nível de energia especial do personagem,
+como manipulação de magia, uso de habilidades
+alienígenas, mutações, ou tecnologia avançada. Esse
+atributo é central para os personagens que dependem
+de habilidades únicas​
+​
+Vontade (VON)
+Mede a força mental e determinação do personagem.
+Usado para resistir a efeitos psicológicos, manter o
+controle durante transformações, ou superar medos e
+adversidades
+1. Rolagem Básica
+Para qualquer ação que necessite de um teste (pular um
+obstáculo, atacar, hackear um sistema, resistir a um
+ataque mental, etc.), o jogador faz uma rolagem de dados e
+soma o modificador do atributo relacionado. A fórmula é:
+
+Teste = 1d20 + Modificador do Atributo +
+Bônus Extra
+●​ 1d20: O dado principal para determinar o sucesso
+ou falha.
+●​ Modificador do Atributo: Cada atributo principal
+fornece um modificador baseado no valor do
+atributo (veja abaixo).
+●​ Bônus Extra: Vem de talentos, habilidades,
+equipamentos, ou poderes específicos.​
+
+​
+Dificuldade do Teste (DC)
+
+●​ A Dificuldade do Teste (DC) determina o quão
+difícil é realizar uma ação. O Mestre (ou Narrador)
+define a DC com base na situação. Aqui está uma
+tabela com exemplos
+
+​
+3.
+
+📌
+
+​
+Teste de Resistência
+
+🔹 Sempre que um personagem for alvo de um
+
+efeito que pode ser resistido, ele faz um Teste de
+Resistência:
+1️⃣ O Mestre determina a Dificuldade do Teste (DC) →
+Baseado na ameaça, normalmente entre 10 e 20​
+2️⃣ O jogador rola 1d20 + o modificador do atributo
+relevante​
+3️⃣ Se o resultado for igual ou maior que a DC, o
+personagem resiste parcialmente ou completamente
+ao efeito
+
+🔸 Se falhar, o personagem sofre o efeito total
+
+(exemplo: receber dano completo, ficar envenenado,
+etc.)​
+Se for um acerto crítico (20 natural no dado),
+pode evitar completamente o efeito!
+
+🔸
+
+📌 2. Tipos de Teste de Resistência
+Tipo de Resistência
+
+Atributo Usado
+
+Resistência Física
+
+Força Resistência OU Poder
+
+Resistência Reflexiva
+
+Agilidade
+
+Resistência Mental
+
+Vontade, Inteligência ou Carisma
+
+4. Sucesso Crítico e Falha Crítica
+●​ Sucesso Crítico (20 natural no dado): O jogador
+realiza a ação com perfeição, podendo causar
+efeitos adicionais (ex.: dano extra, sucesso
+dramático, etc.).
+●​ Falha Crítica (1 natural no dado): A ação falha
+de forma catastrófica, causando consequências
+negativas (ex.: cair de um telhado, ativar uma
+armadilha, etc.).
+
+5. Aplicações da Rolagem
+
+As rolagens podem ser usadas em várias situações,
+como:
+●​ Combate: Atacar, defender ou usar poderes
+especiais.
+●​ Exploração: Superar obstáculos, encontrar
+itens ou resolver enigmas.
+●​ Interação Social: Convencer NPCs, mentir ou
+intimidar.
+●​ Usar Poderes: Ativar habilidades alienígenas,
+mutantes ou mágicas.
+
+Tabela de Modificadores de Atributo​
+
+​
+voce pode rola duas: 7#4d6dl1 vez o dado: padrao: ​
+18 17 16 15 14 13 12
+
+Como Funciona o Bônus de Proficiência​
+
+Testes de Perícia: Se o personagem é proficiente em
+uma perícia específica, ele adiciona seu bônus de
+proficiência ao rolamento de d20, junto com o
+modificador do atributo relevante.
+Testes de Resistência: Quando o personagem faz um
+teste de resistência em um atributo no qual ele é
+proficiente, ele adiciona o bônus de proficiência ao
+rolamento.
+Ataques com Armas: O bônus de proficiência também é
+adicionado às jogadas de ataque quando o personagem
+utiliza uma arma em que ele tem proficiência​
+​
+Exemplo de Uso
+
+Um personagem de 5º nível tem um bônus de
+proficiência de +3. Se ele fizer um teste de Acrobacia
+(baseado em Destreza) e tiver um modificador de
+Destreza +2, ele rolará 1d20 + 5 (3 de proficiência + 2
+de Destreza).
+Se esse mesmo personagem fizer um ataque com uma
+arma em que ele é proficiente, ele adicionará +3 ao
+rolamento de ataque​
+​
+
+Incentivo à Criatividade
+
+· Jogadores são encorajados a descrever ações
+criativas com base nos poderes de seus Stands ou em
+estratégias inovadoras.
+· O Narrador pode conceder Vantagem (role 2d20,
+escolha o maior) para ações descritas com criatividade
+ou que exploram fraquezas específicas do cenário ou
+oponente.
+· Quando uma ação é excepcionalmente inovadora, o
+Narrador pode reduzir a DC.
+
+Estrutura Básica do Turno
+Iniciativa:
+1. Todos os participantes rolam 1d20 + Velocidade
+(VEL). A ordem de ação segue do maior para o menor
+resultado.
+
+2. O Narrador pode ajustar a ordem com base em
+elementos narrativos, como emboscadas ou habilidades
+especiais.
+Ações por Turno: Cada personagem pode realizar 1
+ações principais por turno:
+Ação Principal: Realizar um ataque, ativar uma
+habilidade, usar um item ou outra ação significativa.​
+​
+Ação de
+​
+Algumas habilidades, especialmente mágicas ou
+divinas, podem ser usadas como
+. Elas
+são realizadas além da Ação Padrão e do Movimento,
+mas são limitadas a certas habilidades ou
+condições​
+
+Ação Bônus:
+Ação Bônus
+
+1. Movimento: Mover-se até sua velocidade (em
+metros) ou realizar uma ação simples de
+reposicionamento.
+2. Em vez de uma ação principal, o personagem pode
+usar a Defesa Total para ganhar +2 na Defesa até o
+próximo turno.
+Reação:
+1. Cada personagem tem direito a 1 reação por rodada
+(ex.: contra-atacar, esquivar, ou ativar uma habilidade
+de resposta).
+
+Sistema de Combate
+1. Ataques
+· Ataque Corpo a Corpo: Role 1d20 + Velocidade
+(VEL) ou Habilidade (HAB), comparando o resultado à
+Defesa do alvo.​
+· Ataque à Distância: Role 1d20 + Precisão do Stand,
+comparando à Defesa do alvo.​
+· Dano: Se o ataque acertar, role o dano baseado na
+Potência do Stand ou na descrição da habilidade.
+
+2. Defesa
+
+· A Defesa padrão é 10 + modificado Velocidade (VEL)
+· Um personagem pode aumentar sua Defesa gastando
+uma reação para tentar esquivar (role 1d20 + VEL
+contra o ataque do inimigo).
+
+3. Testes Resistidos
+
+· Quando um Stand ou habilidade afeta diretamente o
+inimigo (como prender, empurrar, ou desarmar), ambos
+os lados fazem uma rolagem de atributo relevante (ex.:
+Poder contra Resiliência, Velocidade contra
+Velocidade).
+
+· O vencedor aplica o efeito, e o perdedor sofre as
+consequências.
+​
+—------------------------------------------------------------------------​
+Morte​
+​
+
+Efeitos de Habilidades
+
+☠️
+
+☠️ 1. Pontos de Vida (PV) e Estados de Saúde
+
+PV Máximo: Representa a quantidade total de
+vida do personagem.
+●​ 0 PV: O personagem entra em estado de
+Derrotado e precisa fazer Testes de
+Sobrevivência.
+●​ -PV Máximo: O personagem morre imediatamente
+sem chance de recuperação​
+●​
+
+​
+​
+
+☠️ 2. Estados de Saúde
+Estado
+Normal
+Ferido
+Gravemente Ferido
+
+Descrição
+O personagem está saudável e
+pode agir normalmente
+Está abaixo de 50% dos PV.
+Sofre -2 em testes físicos.
+Está abaixo de 25% dos PV.
+
+☠️ 2. Estados de Saúde
+Sofre -4 em testes físicos
+Derrotado (0 PV)
+O personagem cai inconsciente e
+precisa fazer Testes de
+Sobrevivência para não morrer
+Morte Instantânea (-PV Máximo) O personagem morre
+imediatamente e pode precisar
+de um milagre para voltar
+
+☠️
+
+3. Testes de Sobrevivência (Quando chega a 0 PV)
+
+Se um personagem for reduzido a 0 PV, ele não morre
+imediatamente, mas entra em estado de Derrotado. A
+cada turno, ele deve fazer um Teste de Sobrevivência
+(1d20 + Vontade)
+Resultado do Teste de Sobrevivência (DC 16)​
+
+Resultado
+
+Efeito
+
+20+ (Crítico Positivo)
+
+O personagem recupera 1 PV
+e pode agir no próximo turno
+
+15-19 (Sucesso)
+
+O personagem se mantém
+vivo, mas continua
+inconsciente
+
+10-14 (Neutro)
+
+O personagem permanece
+desacordado, sem melhoras
+
+2-9 (Falha)
+
+O personagem sofre um
+agravamento, recebendo -1 em
+todas as jogadas futuras de
+Teste de Sobrevivência
+
+1 (Crítico Negativo)
+
+O personagem morre
+instantaneamente
+
+Se um personagem falhar três vezes, ele morre
+definitivamente. Se conseguir três sucessos,
+estabiliza-se, mas continua inconsciente​
+​
+Forma Alternativa: Se preferir, pode rolar 1d6 ao
+invés de 1d20:
+
+💡
+
+●​ 6 = Se cura com 1 PV
+●​ 4-5 = Continua vivo
+●​ 2-3 = Sofre agravamento
+●​ 1 = Morte imediata
+​
+
+☠️4. Salvamento e Tratamento
+Método
+Primeiros Socorros
+(Teste de Medicina DC
+18)
+
+Efeito
+Estabiliza o
+personagem, impedindo
+mais testes de
+sobrevivência
+
+☠️4. Salvamento e Tratamento
+Cura Mágica (Qualquer
+magia de cura)
+Tecnologia Avançada
+(Ex: Nanotecnologia,
+Omnitrix, Super Cura)
+Sacrifício de Energia
+(Outro Personagem)
+
+☠️
+
+O personagem volta
+imediatamente com PV
+restaurado.
+Pode reviver o
+personagem ou
+restaurá-lo
+parcialmente
+Um aliado pode gastar
+10 PV próprios para
+estabilizar um amigo
+caído.
+
+5. Morte Instantânea
+
+Algumas situações podem levar à morte direta, sem
+Testes de Sobrevivência:
+●​ Dano superior ao PV Máximo em um único
+golpe.
+●​ Decapitação ou destruição total do corpo.
+●​ Explosão fatal sem chance de recuperação.
+●​ Poderes ou efeitos de morte direta (ex: ser
+apagado da existência)
+
+☠️ 6. Ressurreição e Volta dos Mortos
+Método
+
+Efeito
+
+Magia de Ressurreição
+
+Feitiços poderosos podem trazer
+alguém de volta, mas podem exigir
+sacrifícios
+
+Regeneração Avançada
+
+Alguns seres, como Mutantes ou
+Androides, podem se reconstruir
+sozinhos
+
+Dimensão dos Mortos
+
+A alma do personagem pode ser
+recuperada de outro plano.
+
+☠️ 7.Última Chance Heroica:
+
+1. Quando um personagem está prestes a morrer
+(atinge 3 Marcadores de Morte), o jogador pode ativar
+uma Última Chance Heroica.
+2. O jogador faz um último teste de Vontade (VON) com
+uma DC baseada na situação (geralmente 15–20).
+1. Sucesso: O personagem realiza uma última ação
+antes de morrer, como derrotar o inimigo, salvar um
+aliado ou causar um impacto narrativo significativo.
+2. Falha: O personagem morre sem conseguir agir.​
+—------------------------------------------------------------------------​
+
+🔥 Tipos de Dano
+
+Dano Físico (Causado por ataques físicos e armas)
+
+🔹 Corte – Lâminas, garras, espadas, serras.​
+🔹 Perfurante – Balas, lanças, flechas, estacas.​
+
+🔹 Impacto – Socos, quedas, martelos, ondas de choque
+Dano Elemental (Baseado em elementos naturais)
+
+🔥 Fogo – Queimaduras, explosões, plasma.​
+❄️ Gelo – Congelamento, redução de movimento.​
+⚡ Elétrico – Choques, paralisia, superaquecimento.​
+🌪️ Vento – Cortes supersônicos, ondas de ar.​
+🌊 Água – Pressão da água, corrosão, sufocamento.​
+⛰️ Terra – Rochas, deslizamentos, esmagamento
+Dano Energético (Baseado em forças cósmicas e
+tecnológicas)
+
+🔮 Psíquico – Dores mentais, ilusões, confusão.​
+☢️ Radiação – Doenças, mutação, envenenamento.​
+🔵 Plasma – Queimaduras energéticas, desintegração parcial.​
+🛡️ Força Pura – Rajadas de energia, barreiras invisíveis
+Dano Sombrio/Luminoso (Causado por energia de luz ou
+trevas)
+
+🌑 Sombrio – Medo, drenagem de energia, necrose.​
+🌞 Luz – Queimaduras sagradas, explosões fotônicas​
+​
+Dano Biológico (Afeta organismos vivos)
+
+☠️ Veneno – Enfraquecimento, envenenamento lento.​
+🦠 Doenças – Virose, pestes, efeitos prolongados.​
+🧬 Dano Genético – Afeta mutantes e seres modificados
+Dano Dimensional/Temporal (Afeta tempo e espaço)
+
+⏳ Temporal – Acelera envelhecimento, desacelera alvo.​
+🔮 Dimensional – Rasga o espaço, teletransporte forçado
+🔥 Interações de Resistências e Vulnerabilidades
+●​ Criaturas de fogo podem ser imunes a dano de fogo,
+mas fracas contra gelo ou água.
+●​ Seres robóticos podem ser resistentes a veneno e
+doença, mas vulneráveis a dano elétrico.
+●​ Criaturas sombrias podem absorver dano sombrio, mas
+serem fracas contra luz
+
+🏋️
+
+—------------------------------------------------------------------------​
+Perícias​
+​
+
+📌 1. Como Funcionam as Perícias?
+
+●​ Cada perícia está ligada a um atributo principal.
+●​ Para fazer um teste de perícia, o jogador rola 1d20
++ Modificador do Atributo + Bônus de
+Treinamento.
+●​ Se o resultado for igual ou maior que a
+Dificuldade do Teste (DC), a ação é
+bem-sucedida.
+Fórmula:
+Teste de Perícia = 1d20 + Modificador do
+Atributo + Bônus de Treinamento + Bônus
+Extras
+
+●​ Modificador do Atributo: Baseado no valor do
+atributo relacionado à perícia.
+●​ Bônus de Treinamento: Se o personagem for
+treinado na perícia, recebe um bônus de +2 a +6
+dependendo do nível de especialização.
+●​ Bônus Extras: Vêm de equipamentos, poderes,
+itens ou efeitos especiais.
+
+📌 2. Lista de Perícias e Atributos Relacionados
+​
+
+🌟 Perícias Físicas
+Perícia
+
+Atributo
+
+Descrição
+
+Atletismo
+
+FOR
+
+Correr, saltar, nadar, escalar
+
+Acrobacia
+
+AGI
+
+Manobras ágeis, esquivas, equilíbrio
+
+Furtividade
+
+AGI
+
+Se mover sem ser notado, esconder-se
+
+Resistência
+
+RES
+
+Suportar cansaço, venenos, impactos
+
+Pilotagem
+
+AGI
+
+Controlar veículos como motos, naves,
+jatos e tanques
+
+Navegação
+
+AGI
+
+Se orientar em mapas, usar bússolas,
+guiar embarcações
+​
+
+🔍 Perícias Intelectuais
+Perícia
+
+Atributo
+
+Descrição
+
+Investigação
+
+INT
+
+Analisar cenas, encontrar pistas
+
+Ciências
+
+INT
+
+Conhecimento geral, biologia, química, física
+
+Tecnologia
+
+INT
+
+Hackear, consertar, manipular gadgets
+
+Medicina
+
+INT
+
+Diagnosticar, tratar ferimentos e doenças
+
+Arcanismo
+
+INT
+
+Compreender magia, artefatos e feitiços
+antigos
+
+Engenharia
+
+INT
+
+Construir e consertar máquinas e estruturas
+​
+​
+
+💬 Perícias Sociais
+Perícia
+
+Atributo
+
+Descrição
+
+Persuasão
+
+CAR
+
+Convencer, negociar, inspirar
+
+Atuação
+
+CAR
+
+Fingir ser outra pessoa, se passar por
+um personagem
+
+Enganação
+
+CAR
+
+Mentir, disfarçar intenções
+
+Intimidação
+
+CAR
+
+Amedrontar, coagir, pressionar
+
+Diplomacia
+
+CAR
+
+Resolver conflitos pacificamente, mediar
+negociações
+
+​
+
+⚡ Perícias Especiais
+Perícia
+
+Atributo
+
+Descrição
+
+Vontade
+
+VON
+
+Resistir a efeitos mentais, controlar
+transformações
+
+Percepção
+
+VON
+
+Notar detalhes, detectar perigos ocultos
+
+Sobrevivência
+
+POD
+
+Achar abrigo, rastrear presas, encontrar
+água/comida
+
+Conhecimento POD
+
+Manter o foco, resistir à distração
+
+Forjar
+Artefatos
+
+Criar armas, itens ou equipamentos mágicos
+ou alienígenas
+
+POD
+
+🔥Perícias Únicas
+Perícia
+
+Atributo Descrição
+
+Mestre do
+Omnitrix
+
+INT /
+POD
+
+Maior controle sobre a transformação
+alienígena
+
+Transformação
+Total
+
+POD
+
+Acelera ou aprimora transformações
+sobrenaturais
+
+Código Ninja
+
+AGI /
+INT
+
+Técnicas avançadas de ninja, como teleporte
+rápido
+
+Mestre dos
+Gadgets
+
+INT /
+AGI
+
+Usa equipamentos com maestria
+
+🔥Perícias Únicas
+Força Titânica
+
+FOR
+
+Permite feitos sobre-humanos de força
+​
+​
+​
+​
+
+🛡️ 3. Testes de Perícia e Dificuldades
+Dificuldade
+
+DC
+
+Exemplo
+
+Muito Fácil
+
+5
+
+Subir uma escada, encontrar um objeto grande
+
+Fácil
+
+10
+
+Hackear um sistema básico, convencer um
+NPC amigável
+
+Médio
+
+15
+
+Rastrear um inimigo, realizar uma esquiva no
+ar
+
+Difícil
+
+20
+
+Hackear um banco de dados de alta
+segurança
+
+Muito Difícil
+
+25
+
+Persuadir um vilão poderoso a se render
+
+Quase Impossível 30+
+
+Criar um dispositivo alienígena do zero
+
+📌 4. Exemplos de Uso de Perícias​
+
+​
+Aqui estão alguns exemplos de como usar perícias
+durante o jogo:
+
+🎭 Exemplo 1 – Furtividade
+
+Situação: Danny Phantom precisa se esgueirar por uma base
+secreta sem ser visto.​
+Teste: O jogador rola 1d20 + AGI + Bônus de Treinamento
+em Furtividade contra a Percepção dos guardas (DC 15).
+●​ Se conseguir 15 ou mais, ele passa despercebido.
+●​ Se falhar, os guardas podem notar algo estranho
+
+🤖
+
+​
+Exemplo 2 – Tecnologia
+
+Situação: Ben Tennyson quer hackear um drone inimigo para
+usá-lo contra seus oponentes.​
+Teste: O jogador rola 1d20 + INT + Bônus de Treinamento
+em Tecnologia contra a segurança do drone (DC 18).
+●​ Se conseguir, ele assume o controle temporário do drone.
+●​ Se falhar, um alarme pode ser ativado
+
+​
+
+🔥 Exemplo 3 – Canalização de Poder
+Situação: Jake Long precisa ativar seu modo dragão enquanto
+está sendo atacado.​
+Teste: O jogador rola 1d20 + POD + Bônus de Treinamento
+em Canalização de Poder contra DC 15.
+●​ Se bem-sucedido, ele assume sua forma dragão
+instantaneamente.
+●​ Se falhar, a transformação é atrasada ou instável
+
+📌 5. Especializações e Treinamento
+
+Cada personagem pode ser Treinado (+2),
+Especialista (+4) ou Mestre (+6) em certas perícias,
+representando o grau de domínio que ele possui.
+
+●​ Treinado (+2): Habilidade básica e uso funcional.
+●​ Especialista (+4): Capacidade avançada, podendo
+enfrentar desafios mais difíceis.
+●​ Mestre (+6): Habilidade extraordinária, com
+conhecimento profundo.
+Exemplo:​
+Max Steel é um especialista em Tecnologia (+4),
+enquanto Vilgax é um mestre em Atletismo (+6)
+
+📌
+
+—------------------------------------------------------------------------​
+Condições​
+​
+​
+​
+​
+​
+
+🥊Condições Físicas
+Condição
+
+Efeito
+
+Atordoado
+
+O personagem perde sua ação no turno e só pode
+reagir. -2 em Reflexos
+
+Exausto
+
+O personagem sofre -1 em todas as jogadas. Pode
+acumular até 3 níveis: -1, -3 e -5
+
+Ferido Gravemente O personagem tem metade da vida máxima e sofre
+-2 em testes físicos
+Fraco
+
+O personagem sofre -2 em testes de Força e dano
+
+🥊Condições Físicas
+de ataques físicos é reduzido pela metade
+Sangrando
+
+Perde 2 pontos de vida por turno até ser tratado.
+Se chegar a 0 PV, fica inconsciente
+
+Surdo
+
+O personagem não pode ouvir e tem desvantagem
+em testes que envolvem audição
+
+Cego
+
+O personagem não pode enxergar e tem
+desvantagem em todos os ataques e testes
+baseados em visão
+
+Mudo
+
+O personagem não pode falar, impossibilitando
+comunicação verbal e feitiços que exigem palavras
+
+Caído
+
+O personagem está no chão. Ataques corpo a
+corpo contra ele têm vantagem, ataques à
+distância têm desvantagem
+​
+​
+
+🧠 Condições Mentais
+Condição
+
+Efeito
+
+Amedrontado O personagem não pode se aproximar da fonte do medo
+e sofre -2 em ataques e testes
+Confuso
+
+O personagem age de forma aleatória a cada turno (roda
+1d6 para decidir entre ataque, defesa ou movimento ect)
+
+Dominado
+
+O personagem é controlado por outra entidade e
+
+🧠 Condições Mentais
+obedece comandos. Pode refazer testes de Vontade a
+cada turno
+Enlouquecido O personagem entra em estado de fúria incontrolável e
+ataca qualquer um próximo
+Hipnotizado
+
+O personagem não pode agir até ser despertado por
+dano ou uma ação aliada
+​
+​
+
+💥 Condições de Combate
+Condição
+
+Efeito
+
+Desarmado
+
+O personagem perdeu sua arma e precisa
+recuperá-la ou lutar sem ela
+
+Empurrado
+
+O personagem é deslocado alguns metros contra
+sua vontade.
+
+Flanqueado
+
+O personagem está cercado e os inimigos
+ganham +2 em ataques contra ele
+
+Pego de Surpresa
+
+O personagem perde seu turno na rodada em que
+foi surpreendido
+
+Preso
+
+O personagem não pode se mover e sofre -4 em
+testes físicos para escapar
+​
+​
+
+​
+​
+​
+​
+
+🧪 Condições de Status Alterado
+Condição
+
+Efeito
+
+Congelado
+
+O personagem não pode agir até quebrar o gelo com um
+teste de Resistência (DC ).
+
+Envenenado Perde 3 PV por turno e sofre -2 em testes físicos. Pode
+ser curado com antídoto
+Paralisado
+
+O personagem não pode se mover nem agir, mas pode
+pensar e sentir
+
+Queimando
+
+O personagem recebe 1d6 de dano por turno até apagar
+as chamas.
+
+Radioativo
+
+Sofre dano contínuo e pode sofrer mutações indesejadas
+O personagem recebe 1d8 de dano
+​
+​
+
+🔮 Condições Mágicas / Alienígenas
+Condição
+
+Efeito
+
+Antimagia
+
+O personagem não pode usar poderes ou habilidades
+mágicas enquanto afetado
+
+🔮 Condições Mágicas / Alienígenas
+Assombrado
+
+O personagem vê e ouve coisas que não existem,
+sofrendo desvantagem em testes de concentração
+
+Diminuído
+
+O personagem encolhe de tamanho, reduzindo seu dano
+e velocidade
+
+Desorientado O personagem tem dificuldade para entender onde está e
+sofre -3 em jogadas de percepção
+Gigante
+
+O personagem dobrou de tamanho, recebendo +4 em
+Força, mas -2 em esquiva
+
+Metamorfose O personagem foi transformado em outro ser ou objeto e
+ado
+precisa resistir para voltar ao normal.
+
+📌 2. Removendo Condições
+​
+
+Cada condição pode ser removida de formas diferentes,
+dependendo do tipo. Aqui estão algumas maneiras
+comuns de se livrar delas:
+●​ Descanso: Algumas condições como "Exausto" ou
+"Amedrontado" desaparecem após um tempo de
+descanso.
+●​ Cura Mágica: Feitiços ou poderes podem remover
+efeitos como "Paralisado", "Envenenado" ou
+"Hipnotizado".
+●​ Testes de Resistência: Algumas condições
+permitem que o personagem faça um teste de
+Vontade ou Resistência a cada turno para tentar
+escapar.
+
+●​ Intervenção Externa: Um aliado pode ajudar a
+remover condições, como apagar um personagem
+"Queimando" ou sacudi-lo para sair de um
+"Hipnotizado"
+
+📌 3. Condições Permanentes e Maldições
+
+Em alguns casos, certas condições podem se tornar
+permanentes, como uma mutação radioativa ou uma
+maldição mágica. Nesses casos, apenas eventos
+especiais, rituais ou itens extremamente raros podem
+reverter o efeito.
+Exemplo:
+Se Mutante Rex for afetado por uma condição de
+Nanocontaminação, ele pode precisar da ajuda de
+outro especialista para remover a mutação.​
+Se Danny Phantom for Diminuído por magia, ele
+pode precisar de um feitiço reverso para voltar ao
+tamanho normal.​
+—-----------------------------------------------------------------​
+Pontos de Evolução​
+Aqui a vez para o rpg de texto​
+Você ganha 1 ponto de evolução rpg por dia
+fazendo rp realmente ​
+E ao completar uma missão você ganha um ponto
+de 1 ponto de evolução​
+eventos alguns eventos pode da mais 1 ou 2 ponto
+
+🥋
+
+de evolução ​
+dependendo do evento​
+​
+ESTE SISTEMA ESTA INDISPONÍVEL PARA O
+FROMATO RPG DE TEXTO
+
+🥋1. Como Ganhar Pontos de Evolução (PE)
+Ação
+
+Recompensa em PE
+
+Derrotar um inimigo forte
+
++1 a +5 PE
+
+Sobreviver a uma batalha difícil
+
++1 a +3 PE
+
+Concluir uma missão importante
+
++1 a +10 PE
+
+Atuação heroica ou sacrifício
+
++1 a +5 PE
+
+Treinamento intenso (tempo dedicado)
+
++1 a +5 PE
+
+Derrotar um chefe final ou grande vilão
+
++1 a +20 PE
+
+​
+
+🥋 2. Como Gastar Pontos de Evolução
+(A) Melhorar Atributos
+Melhoria
+
+Custo em PE
+
+🥋 2. Como Gastar Pontos de Evolução
+(A) Melhorar Atributos
++2 em um Atributo (For, Agi, Res, Int, 5 PE
+Von Pod, Car)
++1 em todas as Defesas (Reflexos,
+Fortitude, Vontade)
+
+5 PE
+
++2 em um único Teste de Perícia
+
+3 PE
+​
+​
+​
+​
+​
+​
+​
+
+🥋
+
+(B) Adquirir Novas Habilidades ou Técnicas
+
+Habilidade Nova
+
+Custo em PE
+
+Aprender um novo Poder / Técnica
+Especial
+
+8 a 15 PE
+
+Melhorar um Poder já existente
+
+5 a 10 PE
+
+Aumentar o dano de um ataque
+especial
+
+5 PE
+
+🥋
+
+(B) Adquirir Novas Habilidades ou Técnicas
+
+Reduzir custo de uso de uma
+habilidade
+
+5 PE
+
+Aprender um novo Estilo de Combate 10 a 15 PE
+Criar um Combo único entre
+habilidades
+
+8 PE
+​
+
+🥋(C) Evolução de Formas e Transformações
+Tipo de Evolução
+
+Custo em PE
+
+Desbloquear uma nova
+Transformação
+
+10 a 25 PE
+
+Melhorar uma Transformação
+Existente
+
+8 a 15 PE
+
+Aumentar o Tempo de Transformação 5 PE
+Reduzir Desgaste / Custo de Energia 6 PE
+da Forma
+Exemplo:
+●​ Ben 10 (Omnitrix) pode usar PE para desbloquear
+novos alienígenas ou evoluir suas formas.
+●​ Mutante Rex pode aprimorar suas máquinas
+biológicas com PE.
+
+●​ Danny Phantom pode gastar PE para evoluir seus
+poderes fantasmas.
+●​ Jake Long pode melhorar sua transformação em
+dragão
+
+🥋(D) Melhorar Resistência e Sobrevivência
+Tipo de Melhoria
+
+Custo em PE
+
++5 PV permanentes
+
+10 PE
+
+Resistência a um tipo de dano (fogo,
+elétrico, etc.)
+
+10 PE
+
+Evitar a morte uma vez (com esforço
+final)
+
+40 PE
+
+Regeneração (curar 5 PV por turno)
+
+10 PE
+
+🥋(E) Evolução de Equipamentos e Tecnologia
+Tipo de Upgrade
+
+Custo em PE
+
+Melhorar uma armadura ou traje
+
+5 a 10 PE
+
+Criar uma nova arma especial
+
+8 a 15 PE
+
+Melhorar uma arma existente
+
+5 a 10 PE
+
+Adicionar um novo recurso ao
+equipamento
+
+6 a 10 PE
+
+—-----------------------------------------------------------------------​
+Para mestres​
+
+📜 Sistema de Facções e Organizações
+📌 Como Funciona?
+
+No universo do jogo, várias facções influenciam eventos,
+recrutam heróis e vilões, e disputam o controle do mundo.
+
+✔️✔️
+✔️
+
+Os jogadores podem:​
+Se aliar a uma facção e ganhar benefícios exclusivos.​
+Trabalhar como agentes livres, negociando com
+diferentes grupos.​
+Criar a própria organização e expandi-la ao longo da
+campanha.
+
+🔺 Níveis de Influência das Facções
+Cada facção tem um nível de influência que determina seu
+poder no mundo:
+
+🌱
+Nível 1 – Secreta/Iniciante → Pequeno grupo,
+poucos recursos.
+●​ 💠 Nível 2 – Localmente Conhecida → Bases fixas,
+alguns aliados.
+●​ 🔥 Nível 3 – Organização Poderosa → Influência
+nacional, recursos avançados.
+●​ 🌎 Nível 4 – Domínio Global → Poder comparável a
+governos.
+●​ 🚀 Nível 5 – Dominadores Universais → Impactam o
+espaço, dimensões ou realidades.
+●​
+
+🏆 Benefícios de se Juntar a uma Facção
+Cada facção oferece vantagens únicas, como:
+
+●​ Equipamentos exclusivos (armaduras, armas,
+veículos).
+●​ Acesso a informações secretas sobre o mundo.
+●​ Missões especiais que concedem XP extra.
+●​ Aliados poderosos que ajudam em combates.
+
+🏴 Principais Facções e Organizações
+🌍 Facções Heroicas
+
+✅ Plumbers
+(Ben 10) – Agentes intergalácticos que
+protegem a Terra de ameaças alienígenas.​
+✅ Providence (Mutante
+Rex) – Organização militar que
+captura mutantes EVOs.​
+✅ Ordem dos Guardiões
+– Protetores místicos que vigiam
+artefatos mágicos.​
+✅contra
+Miraculous Guardians – Defendem os Miraculous
+aqueles que desejam usá-los para o mal.​
+✅ Liga de Aço protege
+– Organização de super-humanos que
+a humanidade.
+💀 Facções Neutras ou Mercenárias
+⚠️ Os Sombrios –sobrenaturais.​
+Grupo de assassinos e espiões
+⚠️
+Corporação Hextech – Empresa que desenvolve
+tecnologia de ponta, vendendo para heróis e vilões.​
+⚠️ Garras Noturnas
+– Mercenários que aceitam qualquer
+contrato, desde que bem pagos.​
+⚠️ Sindicato Galáctico
+– Máfia espacial que governa
+planetas distantes.
+🔥 Facções Vilânicas
+
+❌ Vilgaxianos – ExércitoVilgax.​
+do conquistador alienígena
+❌ Os Corruptospoderes
+– Culto de vilões que absorvem os
+dos outros.​
+❌ Império Nanotechcom
+– IA rebelde que infecta humanos
+nanites.​
+❌ Seita do Caosdestrutivas
+– Grupo que quer libertar entidades
+no mundo
+⚡ Sistema de Reputação e Alianças
+Reputação
+
+Efeito
+
+Aliado (+50)
+
+A facção apoia o jogador e concede equipamentos
+grátis
+
+Respeitado (+25)
+
+Missões mais fáceis e descontos em itens da facção
+
+Neutro (0)
+
+A facção ignora o jogador
+
+Desconfiado (-25)
+
+A facção pode recusar ajuda ou dificultar missões
+
+Inimigo (-50)
+
+O jogador será caçado pela facção
+
+Exemplo: Se um jogador trair a Plumbers, pode se tornar
+um Inimigo, sendo caçado por agentes galácticos​
+​
+
+🏗 Criando sua Própria Organização
+
+Os jogadores podem fundar sua própria facção e
+expandi-la ao longo do tempo!
+
+📌 Como Criar?
+
+1️⃣ Escolha o Propósito → Heróis, vilões, mercenários,
+pesquisadores?​
+2️⃣ Defina a Base Principal → Uma nave espacial, um
+esconderijo secreto, um laboratório subterrâneo?​
+3️⃣ Recrute Membros → NPCs ou até mesmo jogadores
+podem se juntar.​
+4️⃣ Expanda a Influência → Missões aumentam a fama e
+poder da facção.​
+5️⃣ Conquiste Tecnologias e Artefatos → Melhorias para os
+membros.
+
+🎲
+Mecânica Opcional:​
+O Mestre pode definir um "XP da Facção", onde cada
+missão bem-sucedida fortalece a organização.
+Exemplo: Após várias missões, os jogadores
+podem transformar sua pequena equipe de heróis
+em um império intergaláctico!
+
+🌍
+
+🚀
+
+—--------------------------------------------------------------------​
+Construção de Cenários e Mundos
+
+📌 Como Criar um Mundo para a Campanha?
+
+Cada cenário pode ser criado de forma dinâmica com base
+nos seguintes elementos:
+
+✅ Tipo de Ambientemágico,
+(urbano, alienígena, pós-apocalíptico,
+futurista, etc.)​
+✅ Elementosavançada,
+Únicos (gravidade alterada, tecnologia
+criaturas únicas)​
+✅
+Fator de Risco (seguro, perigoso, hostil, caótico)​
+✅ Presença
+de Facções ou Organizações (governos,
+impérios, guildas, grupos criminosos)​
+✅ Recursos
+Especiais (minerais raros, artefatos
+poderosos, fontes de energia)​
+✅ História e Lendas (eventos
+importantes, mitos, guerras
+antigas)
+🏙 Ambientes Principais
+🏙 Cidades Modernas/Futuristas
+●​ Mega Metrópole → Cidade cheia de arranha-céus,
+vigilantes e crime organizado.
+●​ Distrito Tecnológico → Área dominada por mega
+corporações e inteligência artificial.
+●​ Cidade Subterrânea → Civilização escondida abaixo
+da superfície.
+●​ Refúgio dos Exilados → Local onde mutantes, aliens
+ou seres mágicos se escondem.
+
+🌌 Planetas e Mundos Alternativos
+
+●​ Planeta de Cristal → Todo o solo é feito de cristais
+que amplificam energia.
+●​ Mundo Cibernético → Um planeta onde tudo é digital
+e controlado por uma IA.
+●​ Terra Pós-Apocalíptica → Resquícios de um planeta
+destruído, dominado por gangues e mutantes.
+●​ Planeta Hostil → Atmosfera tóxica, criaturas gigantes
+e tempestades energéticas.
+
+🌀 Dimensões Paralelas
+
+●​ Zona Fantasmagórica → Lugar entre a vida e a morte,
+lar de espectros.
+●​ Universo Espelhado → Reflexo distorcido do mundo
+real.
+●​ Plano do Caos → Dimensão onde as leis da física são
+instáveis.
+●​ Realidade Distorcida → Tempo e espaço fluem de
+forma errática.
+
+🌲 Locais Especiais
+
+●​ Templo Perdido → Um local antigo que esconde um
+grande segredo ou artefato.
+●​ Área Proibida → Zona restrita, possivelmente
+guardada por entidades poderosas.
+●​ Laboratório Abandonado → Instalação científica cheia
+de experimentos perigosos.
+●​ A Cidade Oculta → Um local escondido que só pode
+ser acessado por um código ou objeto mágico.
+
+⚙️ Criando Um Cenário Aleatório – Tabela de Geração
+Use essa tabela para gerar um local aleatório!
+
+🎲 Role 1d6 para cada categoria e crie um novo cenário.
+1️⃣ – Tipo de Ambiente
+1.​Urbano
+2.​Floresta/Montanhas
+3.​Deserto/Árido
+4.​Subterrâneo
+5.​Alienígena
+6.​Dimensão Paralela
+2️⃣ – Elemento Único
+1.​Gravidade Alterada
+
+2.​Tecnologia Perdida
+3.​Criaturas Ancestrais
+4.​Magia Selvagem
+5.​Guerra em Curso
+6.​Recursos Raros
+3️⃣ – Fator de Risco
+1.​Seguro
+2.​Zona de Conflito
+3.​Governo Opressor
+4.​Criaturas Hostis
+5.​Radiação ou Perigo Ambiental
+6.​Instável (muda constantemente)
+4️⃣ – Presença de Facções
+1.​Nenhuma
+2.​Milícia Local
+3.​Império ou Governo Autoritário
+4.​Gangues e Criminosos
+5.​Culto ou Seita
+6.​Sociedade Secreta
+5️⃣ – Recurso Especial
+1.​Cristais Energéticos
+2.​Metais Raros
+3.​Relíquias Perdidas
+4.​Artefatos Antigos
+5.​Fonte de Poder Místico
+6.​Supertecnologia
+Exemplo: Rolei 1d6 e tirei:
+●​ 4 (Subterrâneo) – Uma cidade abaixo da
+superfície da Terra.
+●​ 6 (Recursos Raros) – Contém uma fonte
+secreta de supertecnologia.
+
+●​ 3 (Governo Opressor) – A cidade é controlada
+por um ditador tirânico.
+●​ 5 (Culto ou Seita) – Um culto misterioso quer
+controlar a supertecnologia.
+●​ 1 (Cristais Energéticos) – O local tem cristais
+que fornecem energia infinita
+Resultado final:
+
+📌
+Caverna de Noxis – Uma cidade subterrânea oculta,
+dominada por um governo autoritário que protege uma
+fonte secreta de supertecnologia. Um culto secreto deseja
+roubar os cristais energéticos que mantêm a cidade
+funcionando​
+—-----------------------------------------------------------------​
+
+🏆 Sistema de Conquistas e Reputação
+
+O sistema de Conquistas e Reputação serve para medir o
+impacto das ações dos personagens no mundo do jogo.
+Ele pode influenciar a forma como NPCs, facções e até
+vilões reagem ao jogador, além de conceder benefícios
+únicos conforme o personagem ganha fama (ou infâmia).
+
+🎖 Conquistas
+As conquistas são desafios que os personagens podem
+completar ao longo da campanha. Elas oferecem
+recompensas únicas, como títulos, habilidades bônus,
+itens especiais e até melhorias de status.
+
+🔹 Tipos de Conquistas
+
+✅ Conquistas
+de Exploração – Descobrir locais secretos,
+sobreviver em ambientes extremos.​
+✅ Conquistas devencer
+Combate – Derrotar inimigos poderosos,
+batalhas épicas.​
+✅ Conquistas
+de Facções – Subir na hierarquia de um
+grupo, completar missões exclusivas.​
+✅ Conquistas
+de Habilidade – Criar um equipamento
+lendário, dominar uma perícia.​
+✅ Conquistas
+de Reputação – Ser amado ou temido por
+um povo, ganhar status de lenda
+🏅 Exemplos de Conquistas
+Nome da Conquista
+
+Requisito
+
+Recompensa
+
+Herói do Povo
+
+Salvar uma cidade inteira
+de uma grande ameaça
+
+Acesso a uma arma ou
+equipamento raro
+
+Caçador de Lendas
+
+Derrotar uma criatura
+mítica ou lendária
+
+Fama +10, descontos em
+lojas locais
+
+Desafiante Cósmico Enfrentar um ser divino e
+sobreviver
+
++2 em resistência contra
+ataques mágicos
+
+Sombra Invisível
+
+Passar por um local
+altamente vigiado sem ser
+visto
+
+Furtividade +2 e título de
+"Mestre Infiltrador
+
+Arqui-Inimigo
+
+Derrotar um rival ou vilão
+principal
+
+Ganha um inimigo
+duradouro e respeito do
+mundo
+
+💠 Sistema de Reputação
+A Reputação mede como os personagens são vistos pelo
+mundo e pelas diferentes facções.
+●​ A reputação pode ser positiva (herói, guardião,
+protetor) ou negativa (vilão, mercenário, destruidor).
+●​ Certas missões, recompensas e até preços de lojas
+mudam conforme a reputação do personagem.
+●​ Algumas facções podem querer recrutar um
+personagem famoso, enquanto outras podem vê-lo
+como ameaça.
+
+🔹 Categorias de Reputação
+Pontos de Reputação Título
+
+Reação do Mundo
+
++50 ou mais
+
+Lenda Viva
+
+O mundo conhece suas façanhas,
+ganha aliados e inimigos poderosos
+
++30 a +49
+
+Herói
+Renomado
+
+Cidades oferecem recompensas,
+aliados procuram ajuda
+
++10 a +29
+
+Guardião
+
+Facções respeitam, pessoas comuns
+confiam
+
+0 a +9
+
+Neutro
+
+Nenhuma reação especial
+
+-10 a -29
+
+Forasteiro
+
+Facções desconfiam, NPCs evitam
+contato
+
+-30 a -49
+
+Ameaça
+
+NPCs tentam evitar, vilões tentam
+recrutá-lo
+
+-50 ou menos
+
+Vilão Infame Recompensas por sua captura,
+caçadores de recompensas e heróis o
+perseguem
+
+📊 Como Ganhar ou Perder Reputação?
+●​ Ações heroicas aumentam reputação (+1 a +10 pontos
+por ação).
+●​ Atos cruéis ou destrutivos reduzem reputação (-1 a
+-10 pontos por ação).
+●​ Aliar-se a facções respeitadas pode melhorar sua
+imagem.
+●​ Atacar cidades ou derrotar autoridades pode torná-lo
+um foragido
+
+⚖️ Efeitos da Reputação no Jogo
+Nível de Reputação
+
+Efeito no Mundo
+
+Alta Reputação (+50 ou mais)
+
+Acesso a missões exclusivas de heróis,
+equipamentos lendários e aliados
+especiais
+
+Reputação Neutra (0 a +9)
+
+Não chama atenção, pode negociar com
+quase qualquer facção
+
+Baixa Reputação (-50 ou menos) NPCs fogem, caçadores de recompensas
+e heróis tentam detê-lo, certas facções o
+reverenciam
+
+🤝 Aliados e Rivalidades
+
+—---------------------------------------------------------------------------------​
+Este sistema cria um vínculo dinâmico entre os
+personagens e o mundo ao seu redor, onde aliados podem
+oferecer suporte em momentos críticos, enquanto rivais
+representam ameaças constantes e desafios
+personalizados.
+
+🔹 Aliados
+Aliados são NPCs ou outros personagens que criam laços
+com o protagonista ao longo da campanha. Eles podem
+ser amigos, companheiros de equipe, mestres ou até
+mesmo ex-inimigos que passaram a respeitar o
+personagem.​
+
+🎖 Níveis de Aliança
+Nível de Relacionamento
+
+Descrição
+
+Amizade Lendária (100 pontos)
+
+O aliado está disposto a sacrificar tudo pelo personagem
+
+Aliado Confiável (75-99 pontos)
+
+Sempre ajudará quando possível, mesmo em momentos de perigo
+
+Companheiro (50-74 pontos)
+
+Ajuda frequentemente, mas pode ter limitações
+
+Aliado Casual (25-49 pontos)
+
+Pode ajudar ocasionalmente, mas não arriscará tudo
+
+Conhecido (1-24 pontos)
+
+Apenas troca favores pequenos
+
+Neutro (0 pontos)
+
+Sem relação especial
+
+Desconfiado (-1 a -24 pontos)
+
+Pode evitar o personagem ou hesitar em ajudar
+
+Inimigo Potencial (-25 a -49 pontos)
+
+Pode interferir ocasionalmente
+
+Rival Assumido (-50 a -74 pontos)
+
+Tentará prejudicar ou desafiar diretamente
+
+Arqui-Inimigo (-75 a -100 pontos)
+
+Trabalhará ativamente contra o personagem
+
+​
+
+📊 Como Ganhar ou Perder Pontos de Aliança?
+●​ Realizar favores importantes (+5 a +15 pontos)
+●​ Salvar o aliado de perigo mortal (+20 pontos)
+●​ Concordar com seus valores e ideais (+5 a +10
+pontos)
+●​ Trair ou enganar um aliado (-10 a -20 pontos)
+●​ Deixar um aliado para morrer ou ignorar seu pedido
+de ajuda (-50 pontos)
+
+🎭 Tipos de Aliados
+
+✅ Mentor – Um guia
+poderoso que ensina habilidades ou
+dá missões exclusivas.​
+✅ Parceiro de Equipe – missões.​
+Lutam lado a lado em combates e
+✅ Contato Secreto – Fornece
+informações e recursos
+valiosos.​
+✅ Aliado Místicooferece
+– Um ser espiritual ou mágico que
+ajuda única.​
+✅ Aliadoreputação
+de Facção – Oferece suporte conforme a
+com sua organização.
+💎 Benefícios de Aliados Fortes
+
+✔️ Bônus de combate
+– Pode lutar ao lado do
+personagem.​
+
+✔️ Informações exclusivas
+– Pode revelar segredos do
+mundo.​
+✔️ Recursos e Itens – Acesso
+a equipamentos, veículos e
+bases.​
+✔️ Missões Extrasfortalecer
+– Novas tramas desbloqueadas ao
+vínculos.
+—---------------------------------------------------------------------------------
+
+⚔️ Rivalidades e Inimigos
+
+Rivais são antagonistas recorrentes que desafiam o
+personagem ao longo do jogo. Eles podem ser
+ex-companheiros, vilões persistentes ou inimigos jurados.​
+​
+
+🎖 Níveis de Rivalidade
+Nível de Rivalidade
+
+Descrição
+
+Arqui-Inimigo (-100 pontos)
+
+Persegue o personagem e tentará destruí-lo a qualquer custo
+
+Ódio Mortal (-75 a -99 pontos)
+
+Tentará derrotar ou humilhar o personagem sempre que possível
+
+Desafiante Contínuo (-50 a -74 pontos)
+
+Provoca e luta regularmente contra o personagem
+
+Concorrente (-25 a -49 pontos)
+
+Compete por objetivos similares, mas sem ódio extremo
+
+Rival Casual (-1 a -24 pontos
+
+Pequenas disputas, mas sem grande animosidade
+
+Neutro (0 pontos)
+
+Sem rivalidade ativa
+
+📊 Como Criar um Rival?
+●​ Trair ou derrotar um aliado de forma cruel (-25 pontos
+de aliança)
+●​ Vencer um oponente humilhando-o publicamente (-20
+pontos de rivalidade)
+●​ Impedir os planos de alguém de forma decisiva (-30
+pontos de rivalidade)
+●​ Matar um ente querido do rival (-75 pontos, criando
+um Arqui-Inimigo)
+
+💀 Benefícios de Ter um Rival
+
+✔️ Desafios constantes
+– O rival retorna mais forte ao
+longo do jogo.​
+✔️ História envolvente
+– Criam arcos narrativos
+personalizados.​
+✔️ Pressão decisões
+estratégica – Obriga o jogador a tomar
+mais cautelosas.​
+✔️ Missões deconversão
+vingança ou redenção – Possibilidades de
+de rival em aliado.
+
+🔥 Exemplo de Uso no Jogo
+1️⃣ O personagem salva um agente de uma facção heroica
+(+15 pontos de aliança).​
+2️⃣ Com o tempo, o agente se torna um amigo e oferece
+armas avançadas.​
+3️⃣ Em um momento de dúvida, o personagem se alia
+temporariamente a um vilão.​
+4️⃣ O agente descobre a traição e se torna um rival (-30
+pontos de aliança).​
+5️⃣ Agora, ele persegue o personagem e tenta impedi-lo em
+suas missões.
+Isso cria drama e evolução dentro da campanha, fazendo
+com que as ações do personagem tenham consequências
+reais.
+
+—-------------------------------------------------------------------------------
+
+😈Vilões e Criação
+de Vilões​
+​
+
+💀 PASSO A PASSO PARA CRIAR UM VILÃO
+Aqui está um guia rápido para montar um vilão épico!
+1️⃣ Escolha um Conceito
+
+Pense na personalidade e no tema do vilão. Ele é um
+ditador cruel? Um cientista louco? Um alienígena perdido?
+2️⃣ Defina a Motivação
+
+O que impulsiona suas ações? Ele quer vingança? Poder?
+Apenas brincar com os heróis?
+3️⃣ Escolha os Poderes ou Recursos
+
+●​ Superforça?
+●​ Manipulação de Tempo?
+●​ Habilidades Tecnológicas?
+●​ Exército de Soldados?
+4️⃣ Determine o Nível de Ameaça
+
+Ele é um chefão final ou apenas um vilão secundário?
+5️⃣ Crie um Traço Único
+
+Dê a ele algo memorável, como uma cicatriz, um bordão,
+uma risada sinistra ou um código de conduta.
+6️⃣ Defina Fraquezas
+
+Nenhum vilão deve ser invencível! Escolha fraquezas,
+como:
+●​ Arrogância – Subestima os heróis.
+●​ Vulnerabilidade Específica – Tem um ponto fraco raro.
+●​ Aliança Traiçoeira – Seu próprio exército pode se
+voltar contra ele
+
+🚀 EXEMPLO DE VILÃO CRIADO COM O SISTEMA
+
+🎭
+Nome: Lorde Cronox​
+⚔️ Poderes: Controle do futuro.​
+tempo, teletransporte, visão do
+💀 Fraqueza: Pode serumderrotado
+se for forçado a viver em
+loop temporal.​
+🎖 Motivação: Ele querimpério
+reescrever a história para criar um
+eterno.​
+😈
+Nível de Ameaça: Extrema (Ameaça Cósmica).​
+🛠 Personalidade: Frio e calculista, acredita ser um Deu
+🛡️ CAPANGAS - SOLDADOS DO MAL​
+🦹 Tipos de Capangas
+Nome
+
+Ameaça
+
+Descrição
+
+Capanga Comum
+
+Baixa
+
+Um criminoso ou mercenário básico
+
+Soldado de Elite
+
+Média
+
+Um guerreiro bem treinado com armadura e armas avançadas
+
+Ciborgue de Combate
+
+Média
+
+Meio-humano, meio-máquina, com resistência aprimorada
+
+Mutante Selvagem
+
+Média
+
+Um ser com mutações físicas que lhe dão força ou resistência
+sobre-humanas
+
+Espectro Sombrio
+
+Alta
+
+Criatura etérea que atravessa paredes e ataca a alma dos inimigos
+
+Drone de Guerra
+
+Média
+
+Robô armado para combate a longa distância
+
+📜 FICHAS DE CAPANGAS EXEMPLO
+1️⃣ Capanga Comum (Humanoide)
+●​ Nível: 2
+●​ HP: 12
+●​ CA: 12
+●​ Ataques: Soco (+2, 1d6) ou Pistola (+3, 1d8)
+●​ Habilidades: Nenhuma especial, mas pode atacar em
+grupo (+1 ataque para cada aliado próximo).
+2️⃣ Soldado de Elite
+●​ Nível: 4
+●​ HP: 25
+●​ CA: 15 (Armadura Tática)
+●​ Ataques: Rifle de Energia (+5, 2d8)
+●​ Habilidades:
+○​ Cobertura Tática: Ganha +2 CA ao se esconder.
+○​ Tiro Preciso: Pode gastar 1 turno mirando para
+dano dobrado.
+3️⃣ Ciborgue de Combate
+●​ Nível: 5
+●​ HP: 30
+●​ CA: 16
+●​ Ataques: Soco Hidráulico (+6, 2d6) ou Canhão de
+Pulso (+4, 2d10)
+●​ Habilidades:
+○​ Resistência ao Dano Físico (Reduz 5 de qualquer
+dano não energético).
+○​ Sensores Avançados (Não pode ser
+surpreendido)
+
+😈 FICHAS DE VILÕES EXEMPLO
+
+🕰️ LORD CRONOX – MESTRE DO TEMPO
+
+🌀 "O tempo é meu brinquedo...
+e vocês são apenas poeira
+na eternidade!"
+●​ Nível: 15 (Ameaça Cósmica)
+●​ HP: 200
+●​ CA: 18
+●​ Ataques:
+○​ Lança Temporal (+10, 3d12 de dano temporal)
+○​ Explosão de Estase (Todos no raio de 10m fazem
+teste de Reflexos CD 18 ou ficam paralisados por
+1d4 turnos)
+●​ Habilidades:
+○​ Rebobinar (Uma vez por turno, pode refazer um
+ataque ou esquivar automaticamente).
+○​ Parar o Tempo (1x por combate, todos os outros
+ficam congelados por 1 turno).
+○​ Visão do Futuro (+5 em testes de percepção e
+reflexos).
+●​ Fraqueza: Se for preso em um loop temporal, perde
+todas as ações.
+
+🔥 GENERAL ONSLAUGHT
+– O EXTERMINADOR DE
+MUNDOS
+⚔️ "Apenas os fortes
+merecem existir. O resto deve ser
+apagado da história!"
+●​ Nível: 20 (Ameaça Extrema)
+●​ HP: 400
+●​ CA: 22 (Armadura de Titânio Negro)
+●​ Ataques:
+○​ Espada de Aniquilação (+12, 4d12 de dano
+energético)
+○​ Canhão de Destroços (+10, 3d10 em área de 10m)
+●​ Habilidades:
+○​ Imortalidade Parcial (Regenera 20 HP por turno).
+
+○​ Aura de Medo (Criaturas de nível 10 ou inferior
+fazem teste de Vontade CD 19 ou ficam
+apavoradas).
+○​ Golpe Supersônico (Se atacar depois de se
+mover, adiciona +2d10 ao dano).
+●​ Fraqueza: Orgulho excessivo; se desafiado a um
+duelo, pode aceitar e ignorar aliados.
+
+🦠 VIRUS PRIME – O DESTRUIDOR DIGITAL
+
+💻 "Seu mundo depende
+da tecnologia... e agora, ele
+pertence a mim!"
+●​ Nível: 17 (Ameaça Global)
+●​ HP: 150
+●​ CA: 16 (Proteção Digital)
+●​ Ataques:
+○​ Hacker Total (Controla qualquer sistema em um
+raio de 30m).
+○​ Rajada de Dados Corruptos (+8, 3d8 de dano
+elétrico).
+○​ Assumir Controle (Pode tomar o corpo de um
+inimigo que falhe em um teste de Vontade CD 18).
+●​ Habilidades:
+○​ Corromper Tecnologia (Desativa qualquer
+equipamento em um raio de 20m).
+○​ Regeneração Digital (Se estiver em um ambiente
+conectado à internet, regenera 10 HP por turno).
+○​ Duplicação de Código (Pode criar cópias
+ilusórias para confundir inimigos).
+●​ Fraqueza: Vulnerável a ataques mágicos ou
+desativação completa de sistemas eletrônicos
+
+​
+​
+​
+​
+​
+
+

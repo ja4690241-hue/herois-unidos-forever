@@ -1,7 +1,7 @@
-import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { Link } from "wouter";
-import { Zap, Users, Sword, BookOpen, Wand2, Skull } from "lucide-react";
+import { Zap, Users, Sword, BookOpen, Wand2, Skull, Target, TrendingUp, Briefcase, ShieldCheck, Star, Sparkles } from "lucide-react";
+import { Button } from "@/components/ui/button";
 
 export default function Home() {
   return (
@@ -73,6 +73,20 @@ export default function Home() {
             </Card>
           </Link>
 
+          {/* Class Abilities Card */}
+          <Link href="/class-abilities">
+            <Card className="bg-slate-800 border-slate-700 hover:border-purple-500 transition cursor-pointer h-full">
+              <div className="p-6">
+                <div className="text-4xl mb-4 text-purple-400"><Sparkles size={40} /></div>
+                <h4 className="text-xl font-bold mb-2">Habilidades de Classe</h4>
+                <p className="text-slate-400 mb-4">
+                  Poderes exclusivos de cada classe, organizados por nível de progressão.
+                </p>
+                <div className="text-sm text-purple-400">Ver habilidades →</div>
+              </div>
+            </Card>
+          </Link>
+
           {/* Character Creator Card */}
           <Link href="/character-creator">
             <Card className="bg-slate-800 border-slate-700 hover:border-blue-500 transition cursor-pointer h-full">
@@ -87,122 +101,100 @@ export default function Home() {
             </Card>
           </Link>
 
-          {/* Combat Rules Card */}
-          <Link href="/combat-rules">
+          {/* Skills Card */}
+          <Link href="/skills">
             <Card className="bg-slate-800 border-slate-700 hover:border-blue-500 transition cursor-pointer h-full">
               <div className="p-6">
-                <div className="text-4xl mb-4">⚡</div>
-                <h4 className="text-xl font-bold mb-2">Regras de Combate</h4>
+                <div className="text-4xl mb-4">🎯</div>
+                <h4 className="text-xl font-bold mb-2">Perícias</h4>
                 <p className="text-slate-400 mb-4">
-                  Aprenda as regras de combate, cálculo de dano, defesa e testes de resistência.
+                  Domine 18 perícias diferentes, desde Atletismo até Conhecimento Arcano.
                 </p>
-                <div className="text-sm text-blue-400">Aprender →</div>
+                <div className="text-sm text-blue-400">Ver perícias →</div>
+              </div>
+            </Card>
+          </Link>
+
+          {/* Talents Card */}
+          <Link href="/talents">
+            <Card className="bg-slate-800 border-slate-700 hover:border-blue-500 transition cursor-pointer h-full">
+              <div className="p-6">
+                <div className="text-4xl mb-4 text-yellow-400"><Star size={40} /></div>
+                <h4 className="text-xl font-bold mb-2">Talentos</h4>
+                <p className="text-slate-400 mb-4">
+                  Talentos genéricos, categorias de raridade e regras de cálculo de EP.
+                </p>
+                <div className="text-sm text-yellow-400">Ver talentos →</div>
+              </div>
+            </Card>
+          </Link>
+
+          {/* Passives Card */}
+          <Link href="/passives">
+            <Card className="bg-slate-800 border-slate-700 hover:border-teal-500 transition cursor-pointer h-full">
+              <div className="p-6">
+                <div className="text-4xl mb-4 text-teal-400"><ShieldCheck size={40} /></div>
+                <h4 className="text-xl font-bold mb-2">Passivas</h4>
+                <p className="text-slate-400 mb-4">
+                  Habilidades que não custam EP e estão sempre ativas no seu herói.
+                </p>
+                <div className="text-sm text-teal-400">Ver passivas →</div>
+              </div>
+            </Card>
+          </Link>
+
+          {/* Backgrounds Card */}
+          <Link href="/backgrounds">
+            <Card className="bg-slate-800 border-slate-700 hover:border-blue-500 transition cursor-pointer h-full">
+              <div className="p-6">
+                <div className="text-4xl mb-4">💼</div>
+                <h4 className="text-xl font-bold mb-2">Antecedentes</h4>
+                <p className="text-slate-400 mb-4">
+                  Escolha sua origem: de Cientista Genial a Anti-Herói, com habilidades únicas.
+                </p>
+                <div className="text-sm text-blue-400">Ver origens →</div>
+              </div>
+            </Card>
+          </Link>
+
+          {/* Evolution Points Card */}
+          <Link href="/evolution-points">
+            <Card className="bg-slate-800 border-slate-700 hover:border-blue-500 transition cursor-pointer h-full">
+              <div className="p-6">
+                <div className="text-4xl mb-4">📈</div>
+                <h4 className="text-xl font-bold mb-2">Pontos de Evolução</h4>
+                <p className="text-slate-400 mb-4">
+                  Aprenda como ganhar e gastar PE para atingir sua Forma Suprema.
+                </p>
+                <div className="text-sm text-blue-400">Ver evolução →</div>
               </div>
             </Card>
           </Link>
 
           {/* Villains Card */}
           <Link href="/villains">
-            <Card className="bg-slate-800 border-slate-700 hover:border-purple-500 transition cursor-pointer h-full">
+            <Card className="bg-slate-800 border-slate-700 hover:border-red-500 transition cursor-pointer h-full">
               <div className="p-6">
-                <div className="text-4xl mb-4">😈</div>
+                <div className="text-4xl mb-4 text-red-500"><Skull size={40} /></div>
                 <h4 className="text-xl font-bold mb-2">Vilões</h4>
                 <p className="text-slate-400 mb-4">
-                  Enfrente vilões poderosos com fichas completas, habilidades e fraquezas únicas.
+                  Enfrente ameaças lendárias como o Híbrido Supremo e Generais Mutantes.
                 </p>
-                <div className="text-sm text-purple-400">Ver vilões →</div>
+                <div className="text-sm text-red-500">Ver vilões →</div>
               </div>
             </Card>
           </Link>
-
-          {/* Evolution Card */}
-          <Link href="/evolution">
-            <Card className="bg-slate-800 border-slate-700 hover:border-green-500 transition cursor-pointer h-full">
-              <div className="p-6">
-                <div className="text-4xl mb-4">🚀</div>
-                <h4 className="text-xl font-bold mb-2">Evolução</h4>
-                <p className="text-slate-400 mb-4">
-                  Evolua seu personagem gastando Pontos de Evolução para desbloquear formas supremas.
-                </p>
-                <div className="text-sm text-green-400">Explorar →</div>
-              </div>
-            </Card>
-          </Link>
-
-          {/* Rules Reference Card */}
-          <Link href="/rules">
-            <Card className="bg-slate-800 border-slate-700 hover:border-yellow-500 transition cursor-pointer h-full">
-              <div className="p-6">
-                <div className="text-4xl mb-4">📖</div>
-                <h4 className="text-xl font-bold mb-2">Referência de Regras</h4>
-                <p className="text-slate-400 mb-4">
-                  Consulte o manual completo de regras, atributos, perícias e mecânicas do jogo.
-                </p>
-                <div className="text-sm text-yellow-400">Consultar →</div>
-              </div>
-            </Card>
-          </Link>
-        </div>
-      </section>
-
-      {/* System Overview */}
-      <section className="container py-16 border-t border-slate-700">
-        <h3 className="text-3xl font-bold mb-12 text-center">Como Funciona</h3>
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-          <div className="text-center">
-            <div className="text-5xl mb-4">1️⃣</div>
-            <h4 className="font-bold mb-2">Escolha sua Raça</h4>
-            <p className="text-slate-400">
-              Selecione entre 9 raças únicas, cada uma com atributos e habilidades especiais.
-            </p>
-          </div>
-          <div className="text-center">
-            <div className="text-5xl mb-4">2️⃣</div>
-            <h4 className="font-bold mb-2">Distribua Atributos</h4>
-            <p className="text-slate-400">
-              Customize seus atributos: Força, Destreza, Inteligência, Carisma, Resistência e Vontade.
-            </p>
-          </div>
-          <div className="text-center">
-            <div className="text-5xl mb-4">3️⃣</div>
-            <h4 className="font-bold mb-2">Selecione Habilidades</h4>
-            <p className="text-slate-400">
-              Escolha habilidades especiais que refletem sua raça e estilo de combate.
-            </p>
-          </div>
-          <div className="text-center">
-            <div className="text-5xl mb-4">4️⃣</div>
-            <h4 className="font-bold mb-2">Entre em Combate</h4>
-            <p className="text-slate-400">
-              Enfrente inimigos, ganhe experiência e evolua seu personagem para formas supremas.
-            </p>
-          </div>
-        </div>
-      </section>
-
-      {/* Stats Section */}
-      <section className="container py-16 bg-slate-800/50 rounded-lg border border-slate-700">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
-          <div>
-            <div className="text-4xl font-bold text-blue-400 mb-2">9+</div>
-            <p className="text-slate-300">Raças Disponíveis</p>
-          </div>
-          <div>
-            <div className="text-4xl font-bold text-purple-400 mb-2">3+</div>
-            <p className="text-slate-300">Vilões Poderosos</p>
-          </div>
-          <div>
-            <div className="text-4xl font-bold text-green-400 mb-2">∞</div>
-            <p className="text-slate-300">Possibilidades de Jogo</p>
-          </div>
         </div>
       </section>
 
       {/* Footer */}
-      <footer className="border-t border-slate-700 bg-slate-900/50 mt-16 py-8">
-        <div className="container text-center text-slate-400">
-          <p>© 2026 Heróis Unidos 3.0 - Sistema de RPG Interativo</p>
-          <p className="text-sm mt-2">Criado para aventuras épicas e histórias inesquecíveis</p>
+      <footer className="border-t border-slate-800 py-12 bg-slate-900">
+        <div className="container text-center">
+          <div className="flex items-center justify-center gap-2 mb-4">
+            <div className="text-2xl">🦸</div>
+            <span className="text-xl font-bold">Heróis Unidos 3.0</span>
+          </div>
+          <p className="text-slate-500">© 2026 Heróis Unidos 3.0 - Sistema de RPG Interativo</p>
         </div>
       </footer>
     </div>

@@ -1,0 +1,331 @@
+Sub-Raças e Híbridos
+
+🧛🦸
+🦸1. Sub-Raças
+Raça Base
+
+Sub-Raça
+
+Benefícios Adicionais
+
+🦸1. Sub-Raças
+Humano
+Aprimorado
+
+Inventor Nato
+
+A cada descanso longo, cria 1 dispositivo
+tecnológico de uso único, com efeitos definidos
+pelo mestre (Ex.: granada de pulso, drone de
+vigilância, campo de força).,
+Pode ter até 3 dispositivos ativos
+simultaneamente.
+
+Humano
+Aprimorado
+
+Poder Latente Escolha 1 Poder Inato ao criar o personagem:
+Leve Telecinese — Mover objetos pequenos
+(até 2 kg) com a mente, alcance de 6m.,
+Resistência Física — Redução de 1 ponto de
+dano físico por ataque recebido.,
+Eletrocinese Leve — Gerar pequenas
+descargas elétricas (1d12 elétrico, alcance de
+toque).,
+Regeneração Acelerada — Recupera +5 PV
+por turno, desde que não esteja inconsciente.
+
+Alienígen
+
+Marciano
+
+Telepatia Pode se comunicar mentalmente com
+qualquer criatura a até **12 metros** que
+compreenda uma língua.
+Metamorfose Parcial Pode alterar aspectos
+físicos menores, como cor da pele, estrutura
+facial ou extensão dos membros.
+Tempo de transformação: 1 ação.*
+Limite: Até 3 mudanças antes de um descanso
+curto.*
+
+Alienígen
+
+Xenomorfo
+
+Garras Afiadas — Ataques corpo a corpo
+causam +2 de dano adicional (corte ou
+perfuração, escolha ao atacar)
+Resistência a Venenos — Testes de resistência
+contra venenos são feitos com vantagem e
+
+🦸1. Sub-Raças
+sofre metade do dano de fontes venenosas ou
+químicas
+Mutante
+Biomecânico
+
+Adaptador
+
+No início de cada combate ou desafio, pode
+escolher uma resistência temporária até o fim
+da cena:
+Fogo,,
+Frio,,
+Elétrico,,
+Ácido,,
+Radiação.,
+Membros Modulares — Pode transformar uma
+parte do corpo em ferramenta ou arma simples,
+como:
+Braço-lâmina (dano 1d8 cortante),,
+Gancho escalador (+2 em testes de Atletismo),,
+Ferramenta técnica (+2 em testes de
+Tecnologia).
+
+Mutante
+Biomecânico
+
+Artífice
+
+Regeneração Acelerada — Recupera 7 PV por
+turno automaticamente, desde que esteja
+consciente.
+Sistemas de Reparos Internos Pode realizar
+um teste de Constituição (CD com o mestra )
+para interromper qualquer condição debilitante
+(ex.: envenenamento, sangramento), uma vez
+por descanso curto.
+
+Fantasma
+
+Poltergeist
+
+Manipulação à Distância — Pode mover ou
+manipular objetos de até 10 kg dentro de um
+raio de 12 metros como uma ação.
+→ Pode usar essa habilidade para abrir portas,
+
+🦸1. Sub-Raças
+puxar alavancas ou atacar com objetos
+improvisados (1d6 de dano contundente)
+Assombração — Ganha +2 em testes de
+Intimidação ao usar sua manipulação
+paranormal
+Fantasma
+
+Sombrio
+
+Invisibilidade Temporária — Pode se tornar
+invisível por até 1 minuto ou até realizar uma
+ação ofensiva.
+→ Usável 1 vez por descanso curto
+Afinidade com a Escuridão — Ganha +2 em
+testes de Furtividade enquanto estiver em
+áreas de baixa iluminação ou escuridão total
+
+Dragão
+
+Dragão
+Serpentino
+
+Corpo Ágil — Ganha +2 em testes de Acrobacia
+e pode passar por espaços tão estreitos quanto
+30 cm, mesmo sem se espremer.
+Sopro Serpentino — Pode liberar uma rajada
+de ar pressurizado ou jato d'água:
+Alcance: linha de 9 metros.,
+Dano: 4d6 de dano de concussão ou água,
+conforme o elemento escolhido.,
+Teste de resistência: Agilidade (CD baseada no
+Poder) para metade do dano.
+Movimento Fluído — Não provoca ataques de
+oportunidade ao sair do alcance de inimigos.
+
+Dragão
+
+Dragões
+Sinápticos
+
+Manipulação Estelar — Pode criar uma esfera
+de energia estelar concentrada:
+
+🦸1. Sub-Raças
+Alcance: 12 metros,
+Dano: 4d10 radiante,
+Área: explosão de 3 metros de raio,
+Recarga: 1 vez por descanso longo,
+Consciência Cósmica — Ganha +2 em testes
+de Percepção e Intuição, podendo detectar
+presenças vivas até 10 metros,
+Armadura de Plasma — Sua pele emana calor
+estelar: criaturas que causarem dano corpo a
+corpo ao dragão sofrem automaticamente 1d8
+de dano Plasma como represália.
+
+Ciborgue
+
+IA Autônoma
+
+Pode se desconectar do corpo como uma ação,
+projetando sua consciência em rede ou
+sistemas eletrônicos próximos, por até 1
+minutos.​
+​
+Durante a desconexão:
+O corpo permanece inerte.,
+A IA pode se mover através de redes digitais ou
+se manifestar em sistemas até 30 metros de
+distância.,
+Pode realizar uma ação de manipulação por
+rodada (ex.: abrir portas, desativar segurança,
+coletar dados).,
+Resistência Cibernética — Ganha vantagem
+em testes de resistência contra intrusão digital
+(hackers) e efeitos que tentem controlar ou
+desligar sistemas cibernéticos.
+
+🦸1. Sub-Raças
+Ciborgue
+
+Exterminador
+
+Aprimoramento de Combate — Recebe +2 em
+testes e rolagens de ataque com armas corpo a
+corpo ou à distância.
+Resistência Mecânica — Reduz em 2 pontos
+todo dano causado por armas não-energéticas
+(balísticas, contundentes, cortantes) e recebe
+vantagem em testes de resistência contra
+efeitos que causem dano mecânico ou
+estrutural
+
+Simbionte
+
+Simbioide
+Sombrio
+
+Asas de Trevas — Pode manifestar asas
+simbióticas, ganhando a capacidade de voar a
+até 12 metros de deslocamento por rodada.
+→ As asas podem ser recolhidas ou ativadas
+como uma ação bônus.
+Camuflagem Sombria — Quando em áreas de
+escuridão ou penumbra, recebe +2 em testes
+de Furtividade
+
+Simbionte
+
+Simbioide
+Energético
+
+Aprimoramento Neural — Recebe +2 em testes
+de Reflexos e Iniciativa.
+Velocidade Sobrenatural — Aumenta o
+deslocamento base em +6 metros.
+→ Pode realizar uma ação de movimento
+adicional 1 vez por combate sem custo de
+ação.
+Ataque Acelerado — Quando usa a ação de
+Ataque, pode realizar um ataque corpo a corpo
+adicional (com desvantagem)
+
+🦸1. Sub-Raças
+Mago
+
+Feiticeiro
+
+Dom da Aprendizagem — Ao subir de nível,
+pode criar 1 magia personalizada, com efeitos
+definidos junto ao mestre, ao invés de escolher
+apenas magias existentes.
+Estudo Acelerado — Ganha +2 em testes de
+Conhecimento Arcano e Arcanismo.
+Versatilidade Mágica — Pode modificar magias
+já conhecidas:
+Alterar tipo de dano (ex.: de fogo para gelo),,
+Ajustar alcance ou área (até +2 mestros ).,
+1 vez por descanso longo.
+
+Mago
+
+Encantador
+
+Encantamento Temporário — Pode imbuir uma
+arma ou armadura com magia, concedendo:
+Armas: +1 de dano (mágico) por 1 Minuto.,
+Armaduras: +1 na Classe de Armadura (CA)
+por 1 Minuto .,
+→ Tempo de conjuração: 1 ação.
+→ Limite: até 1 objetos simultaneamente.
+Forjador Arcano — Recebe +2 em testes de
+Arcanismo relacionados à criação, identificação
+e desativação de itens mágicos.
+Reforço Duradouro — Com 1 hora de trabalho
+e componentes apropriados, pode criar um
+encantamento permanente de nível 1
+em um item uma vez por semana (com
+aprovação do mestre).
+
+Criatura
+Genética
+
+Híbrido
+Animal
+
+Transformação Parcial — Pode transformar
+partes do corpo (braços, pernas, olhos, etc.)
+para ganhar habilidades relacionadas a um
+
+🦸1. Sub-Raças
+animal escolhido.
+→ Exemplos:
+Garras de Lobo: +1d6 de dano cortante.,
+Visão de Águia: +2 em testes de Percepção.,
+Braços de Gorila: +2 em testes de Força.,
+→ Transformar ou desfazer leva uma ação
+bônus.
+Instinto Selvagem — Recebe +2 em testes de
+Sobrevivência e pode detectar presas ou
+predadores num raio de 12 metros.
+Criatura
+Genética
+
+Regenerador
+
+Regeneração Acelerada — Recupera 5 PV
+automaticamente por turno, desde que esteja
+consciente.
+Autocura Concentrada — Pode gastar uma
+ação para se concentrar na regeneração,
+recuperando 1d10 + Mod. Constituição
+Resistência Natural — Recebe vantagem em
+testes contra sangramento e veneno, graças à
+rápida substituição celular.
+
+🧛‍♂️
+
+​
+**Nome do Híbrido:** [Exemplo: Dragão-Fantasma,
+Ciborgue-Mutante, etc.] ​
+
+📜 **Descrição:**
+
+[Explique brevemente a combinação das raças, como se
+manifestam fisicamente, culturalmente ou em habilidades. Ex.:
+Um híbrido Dragão-Fantasma possui escamas etéreas e pode
+atravessar paredes.] ​
+​
+**Atributos Híbridos:**
+
+💪
+
+✅ +2 em [atributo principal da Raça 1]
+✅ +2 em [atributo principal da Raça 2] ​
+🌀 **Habilidades Híbridas:**
+
+✅ **[Nome da habilidade da Raça 1]** — [descrição e efeito]
+✅ **[Nome da habilidade da Raça 2]** — [descrição e efeito]
+✅ **[Nome da habilidade da Raça 3]** — [descrição e efeito]
+⚠️ **Fraqueza:**
+✅ **[Escolha uma fraquezae deefeito].

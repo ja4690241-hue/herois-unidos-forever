@@ -1,167 +1,89 @@
-import { useState } from "react";
-import { Card } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { Link } from "wouter";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { races } from "@/lib/gameData";
-import { ChevronLeft, Zap } from "lucide-react";
+import { Link } from "wouter";
+import { Button } from "@/components/ui/button";
+import { ChevronLeft, Zap, Star, TrendingUp } from "lucide-react";
 
 export default function Evolution() {
-  const [selectedRace, setSelectedRace] = useState(races.find(r => r.evolution) || races[0]);
-
-  const racesWithEvolution = races.filter(r => r.evolution);
-
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white">
-      {/* Header */}
-      <header className="border-b border-slate-700 bg-slate-900/50 backdrop-blur-sm">
-        <div className="container py-4 flex items-center gap-4">
+    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white p-6">
+      <div className="max-w-6xl mx-auto">
+        <div className="flex items-center gap-4 mb-8">
           <Link href="/">
-            <Button variant="ghost" size="sm" className="text-slate-300">
-              <ChevronLeft className="mr-2" />
-              Voltar
+            <Button variant="ghost" size="icon" className="text-slate-300">
+              <ChevronLeft className="h-6 w-6" />
             </Button>
           </Link>
-          <h1 className="text-2xl font-bold">Evolução das Raças</h1>
+          <h1 className="text-4xl font-bold bg-gradient-to-r from-purple-400 to-blue-500 bg-clip-text text-transparent">
+            Evolução de Raças
+          </h1>
         </div>
-      </header>
 
-      <div className="container py-12">
-        <div className="max-w-4xl">
-          {/* Introduction */}
-          <Card className="bg-slate-800 border-slate-700 p-8 mb-8">
-            <h2 className="text-3xl font-bold mb-4">Sistema de Evolução</h2>
-            <p className="text-slate-300 mb-4">
-              Cada raça pode evoluir ou se aprimorar gastando <span className="font-semibold text-purple-300">Pontos de Evolução (PE)</span>. 
-              A evolução desbloqueia novas formas, habilidades e bônus de atributos.
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+          <div className="space-y-6">
+            <h2 className="text-2xl font-bold flex items-center gap-2">
+              <TrendingUp className="text-blue-400" /> O Caminho para o Ápice
+            </h2>
+            <p className="text-slate-300 leading-relaxed">
+              No sistema Heróis Unidos 3.0, seu personagem não está limitado à sua forma inicial. 
+              Ao acumular <strong>Pontos de Evolução (PE)</strong>, você pode transcender seus limites biológicos 
+              ou tecnológicos para atingir a <strong>Forma Suprema</strong>.
             </p>
-            <p className="text-slate-400 text-sm">
-              Selecione uma raça abaixo para ver suas opções de evolução disponíveis.
-            </p>
-          </Card>
-
-          {/* Race Selection */}
-          <div className="mb-8">
-            <h3 className="text-xl font-bold mb-4">Raças com Evolução</h3>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
-              {racesWithEvolution.map((race) => (
-                <button
-                  key={race.id}
-                  onClick={() => setSelectedRace(race)}
-                  className={`p-4 rounded-lg text-left transition ${
-                    selectedRace?.id === race.id
-                      ? "bg-purple-600 border border-purple-500"
-                      : "bg-slate-800 border border-slate-700 hover:border-slate-600"
-                  }`}
-                >
-                  <div className="flex items-center gap-3">
-                    <span className="text-3xl">{race.icon}</span>
-                    <div>
-                      <p className="font-semibold text-sm">{race.name}</p>
-                      {race.evolution && (
-                        <p className="text-xs text-slate-400">
-                          → {race.evolution.name}
-                        </p>
-                      )}
-                    </div>
-                  </div>
-                </button>
-              ))}
+            <div className="p-4 bg-blue-900/20 border border-blue-500/30 rounded-xl">
+              <h3 className="font-bold text-blue-400 mb-2 flex items-center gap-2">
+                <Star size={16} /> Custo de Evolução
+              </h3>
+              <p className="text-sm text-slate-300">
+                A maioria das evoluções de raça custa <strong>10 PE</strong>. 
+                Evoluções de Híbridos Supremos podem custar até <strong>30 PE</strong>.
+              </p>
             </div>
           </div>
+          <div className="bg-slate-800/50 border border-slate-700 p-6 rounded-2xl backdrop-blur-sm">
+            <h3 className="text-xl font-bold mb-4">Benefícios Gerais da Evolução</h3>
+            <ul className="space-y-3">
+              {[
+                "Aumento massivo em atributos principais",
+                "Desbloqueio de Habilidades Supremas exclusivas",
+                "Melhoria em defesas naturais e resistências",
+                "Novas formas de ataque e mobilidade"
+              ].map((benefit, i) => (
+                <li key={i} className="flex items-center gap-3 text-slate-300 text-sm">
+                  <div className="w-1.5 h-1.5 bg-blue-500 rounded-full" /> {benefit}
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
 
-          {/* Evolution Details */}
-          {selectedRace?.evolution && (
-            <Card className="bg-gradient-to-r from-purple-900/50 to-blue-900/50 border-purple-700 p-8">
-              <div className="mb-8">
-                <div className="flex items-center gap-4 mb-4">
-                  <div className="text-6xl">{selectedRace.icon}</div>
-                  <div>
-                    <h3 className="text-3xl font-bold">{selectedRace.name}</h3>
-                    <p className="text-slate-400">
-                      Evolução disponível para esta raça
-                    </p>
-                  </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {races.filter(r => r.evolution).map((race) => (
+            <Card key={race.id} className="bg-slate-800 border-slate-700 hover:border-purple-500 transition-all overflow-hidden">
+              <CardHeader className="bg-slate-900/50 border-b border-slate-700 pb-4">
+                <div className="flex justify-between items-center mb-2">
+                  <span className="text-2xl">{race.icon}</span>
+                  <span className="px-2 py-0.5 bg-purple-600 rounded text-[10px] font-black uppercase tracking-widest">
+                    {race.evolution?.cost || 10} PE
+                  </span>
                 </div>
-              </div>
-
-              <div className="mb-8 pb-8 border-b border-purple-700">
-                <h4 className="text-2xl font-bold mb-4 flex items-center gap-2">
-                  <Zap className="w-6 h-6 text-yellow-400" />
-                  {selectedRace.evolution.name}
-                </h4>
-                <p className="text-slate-300 mb-6">
-                  {selectedRace.evolution.description}
-                </p>
-
-                <div className="bg-slate-800/50 p-6 rounded-lg border border-purple-600">
-                  <h5 className="font-bold text-purple-300 mb-4">
-                    Bônus de Evolução:
-                  </h5>
-                  <div className="space-y-3">
-                    {selectedRace.evolution.bonuses.map((bonus, idx) => (
-                      <div key={idx} className="flex items-start gap-3">
-                        <span className="text-purple-400 font-bold mt-1">✓</span>
-                        <p className="text-slate-300">{bonus}</p>
+                <CardTitle className="text-xl font-bold text-white">{race.evolution?.name}</CardTitle>
+                <p className="text-xs text-purple-400 font-bold uppercase tracking-wider">Evolução de {race.name}</p>
+              </CardHeader>
+              <CardContent className="pt-4 space-y-4">
+                <p className="text-slate-400 text-sm italic">\"{race.evolution?.description}\"</p>
+                <div className="space-y-2">
+                  <h4 className="text-xs font-bold text-slate-500 uppercase">Bônus de Evolução</h4>
+                  <div className="grid grid-cols-1 gap-1">
+                    {race.evolution?.bonuses.map((bonus, i) => (
+                      <div key={i} className="text-xs text-slate-200 flex items-center gap-2 bg-slate-900/50 p-2 rounded">
+                        <Zap size={12} className="text-yellow-500" /> {bonus}
                       </div>
                     ))}
                   </div>
                 </div>
-              </div>
-
-              {/* Evolution Path */}
-              <div className="mb-8">
-                <h4 className="text-lg font-bold mb-4">Caminho da Evolução</h4>
-                <div className="flex items-center gap-4">
-                  <div className="flex-1 bg-slate-700/50 p-4 rounded-lg text-center">
-                    <p className="text-sm text-slate-400 mb-2">Forma Base</p>
-                    <p className="text-lg font-bold">{selectedRace.name}</p>
-                  </div>
-                  <div className="text-2xl text-purple-400">→</div>
-                  <div className="flex-1 bg-purple-700/50 p-4 rounded-lg text-center">
-                    <p className="text-sm text-purple-300 mb-2">Forma Evoluída</p>
-                    <p className="text-lg font-bold">{selectedRace.evolution.name}</p>
-                  </div>
-                </div>
-              </div>
-
-              {/* How to Evolve */}
-              <div className="bg-slate-800/50 p-6 rounded-lg border border-slate-700">
-                <h5 className="font-bold text-blue-300 mb-3">Como Evoluir:</h5>
-                <ol className="space-y-3 text-slate-300 text-sm">
-                  <li className="flex gap-3">
-                    <span className="font-bold text-blue-400">1.</span>
-                    <span>Ganhe experiência em combate e complete missões</span>
-                  </li>
-                  <li className="flex gap-3">
-                    <span className="font-bold text-blue-400">2.</span>
-                    <span>Acumule Pontos de Evolução (PE) através de vitórias</span>
-                  </li>
-                  <li className="flex gap-3">
-                    <span className="font-bold text-blue-400">3.</span>
-                    <span>Gaste 10 PE para desbloquear a forma evoluída</span>
-                  </li>
-                  <li className="flex gap-3">
-                    <span className="font-bold text-blue-400">4.</span>
-                    <span>Ganhe imediatamente os bônus de evolução</span>
-                  </li>
-                </ol>
-              </div>
+              </CardContent>
             </Card>
-          )}
-
-          {/* CTA */}
-          <div className="mt-8 flex gap-4">
-            <Link href="/character-creator" className="flex-1">
-              <Button className="w-full bg-blue-600 hover:bg-blue-700 text-lg py-6">
-                Criar Personagem
-              </Button>
-            </Link>
-            <Link href="/races" className="flex-1">
-              <Button variant="outline" className="w-full border-slate-600 hover:bg-slate-800 text-lg py-6">
-                Ver Raças
-              </Button>
-            </Link>
-          </div>
+          ))}
         </div>
       </div>
     </div>
